@@ -4,7 +4,7 @@ category:     blog
 tags:         celostátní vláda exekuce
 layout:       post
 title:        "Piráti varovali úřady před nedodržováním zákona o střetu zájmů"
-image:        /assets/img/articles/2019/ivan-bartos-balkon.jpeg
+image:        posts/ivan-bartos-balkon.jpeg
 author:       Mediální odbor
 ---
  
