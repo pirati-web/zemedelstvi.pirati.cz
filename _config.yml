@@ -76,10 +76,10 @@ flicker:
   profilePage: https://www.flickr.com/photos/pirati/
 
 forum:
-  page: https://forum.pirati.cz/
+  page: https://forum.pirati.cz/viewforum.php?f=556
 
 github:
-  url: https://github.com/pirati-web/example.pirati.cz/
+  url: https://github.com/pirati-web/zemedelstvi.pirati.cz/
   branch: master
 
 #
