@@ -1,4 +1,6 @@
-# example.pirati.cz
+# zemedelstvi.pirati.cz
+
+stranky pro Zemedelstvi
 
 [![Build Status](https://api.travis-ci.org/pirati-web/praha.pirati.cz.svg?branch=gh-pages)](https://travis-ci.org/pirati-web/praha.pirati.cz)
 
