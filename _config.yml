@@ -5,19 +5,20 @@
 # technické nastavení
 #
 
-title: Your awesome title # To co je napsané na tabu ve kterém je stránka.
+title: zemedelstvi.pirati.cz # To co je napsané na tabu ve kterém je stránka.
 email: info@pirati.cz
 description: >-
-  Zde potří popis webu například stránka místního sdružení. Zobrází se například ve feed/rss nebo ve výsledcích googlu.
+ Piratský Resortní web pro Zemědělství 
 # dobré keywords jsou ty co lidé piší do googlu když hledají naši stránku
-keywords: piráti, česká pirátská strana, svoboda, demokracie, název města, zkratka města, místní združení,
+keywords: piráti, zemědělství, česká pirátská strana, svoboda, demokracie, ekologie, zemědělská výroba, včelařství, lesnictví, rybníkařství, potravinářství, ovocnářství, vinařská výroba, chmelařství, chovatelství, šlechtitelství, konopí
 
 administrator:
-  email: TADY_DEJTE_VLASTNI_MAIL@pirati.cz # mail(y), kam pujdou chybove vystupy; vice e-mailu oddelujte carkou
+  email: marek.krejpsky@pirati.cz # mail(y), kam pujdou chybove vystupy; vice e-mailu oddelujte carkou
 
 organization:
-  name: Jmeno skupiny používající web - př Pirástá strana
-  shortName: Název skupiny
+  name: Zemědělství - Česká Pirátská Strana
+  shortName: Zemědělství
+  email: zemedelstvi@pirati.cz
   email: example@pirati.cz
   phone: +420 770 113 642
   address: |
