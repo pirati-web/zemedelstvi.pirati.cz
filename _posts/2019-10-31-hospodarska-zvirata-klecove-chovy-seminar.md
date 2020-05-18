@@ -4,7 +4,7 @@ category:     blog
 tags:         celostátní legislativa
 layout:       post
 title:        "Klecový chov slepic nemá v moderním zemědělství co dělat"
-image:        /assets/img/articles/2019/jan-posvar.jpg
+image:        posts/jan-posvar.jpg
 author:       Mediální odbor
 ---
 
