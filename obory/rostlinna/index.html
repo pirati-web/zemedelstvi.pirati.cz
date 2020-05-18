@@ -1,0 +1,23 @@
+  
+---
+layout: default
+title: Rostlinná výroba
+description: Rostlinná výroba v zemědělství České pirátské strany 
+keywords: Rostlinná výroba v zemědělství, tiskové zprávy, press, blog
+---
+
+
+<div class="row">
+  <div class="columns">
+    <div class="o-section">
+      <div class="o-section-inner">
+          <header class="c-page-header">
+            <h1 itemprop="headline" class="c-page-title">Aktuality rostlinné výroby</h1>
+          </header>
+          {% assign posts = paginator.posts %}
+          {% include articles/list-responsive.html posts=posts %}
+          {% include articles/pagination.html paginator=paginator %}
+      </div>
+    </div>
+  </div>
+</div>
