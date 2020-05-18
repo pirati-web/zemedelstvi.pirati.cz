@@ -1,0 +1,23 @@
+  
+---
+layout: default
+title: Lesnictví a lesy
+description: Lesnictví a lesy
+keywords: Lesnictví a lesy, tiskové zprávy, press, blog
+---
+
+
+<div class="row">
+  <div class="columns">
+    <div class="o-section">
+      <div class="o-section-inner">
+          <header class="c-page-header">
+            <h1 itemprop="headline" class="c-page-title">Aktuality lesnictví</h1>
+          </header>
+          {% assign posts = paginator.posts %}
+          {% include articles/list-responsive.html posts=posts %}
+          {% include articles/pagination.html paginator=paginator %}
+      </div>
+    </div>
+  </div>
+</div>
