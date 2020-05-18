@@ -4,7 +4,7 @@ category:     blog
 tags:         sněmovna celostátní životní-prostředí
 layout:       post
 title:        "Zákon pro zahrádkáře prošel do druhého čtení. Definuje zahrádkářství jako prospěšnou činnost"
-image:        /assets/img/articles/2020/posvar.jpg
+image:        posts/posvar.jpg
 author:       Mediální odbor
 ---
 
