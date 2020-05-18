@@ -25,10 +25,7 @@ main:
         match: rostlinna
       - link: /obory/zivocisna/
         name: Živočišná výroba
-        match: zivocisna     
-      - link: /obory/biozemedelstvi/
-        name: Ekologicky šetrné 
-        match: biozemedelstvi
+        match: zivocisna
       - link: /obory/lesnictvi/
         name: Lesnictví
         match: lesnictvi
