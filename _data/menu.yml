@@ -39,8 +39,11 @@ main:
         name: Myslivost
         match: myslivost
       - link: /obory/rybarstvi/
-        name: Rybářství a rybníkářství
+        name: Rybářství
         match: rybarstvi      
+      - link: /obory/vodohospodarstvi/
+        name: Vodohospodářství
+        match: vodohospodarstvi 
   - link: /kontakt/
     name: Kontakt
     match: kontakt
