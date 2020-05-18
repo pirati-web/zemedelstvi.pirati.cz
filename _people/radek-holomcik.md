@@ -5,6 +5,7 @@ titles:
   before: Mgr. 
   after:
 category:                 	# kategorie: kandidat, pks, zastupitel
+- kontaktni_osoba
 - psp
 img: people/radek-holomcik.jpg   # 165 x 220
 description: Poslanec, 3. místopředseda Pirátské strany, textař a marketér          	# kratký popis, max 160 znaků
