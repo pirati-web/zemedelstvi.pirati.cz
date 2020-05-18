@@ -13,9 +13,9 @@ main:
   - link: /lide/
     name: O nás
     match: lide
-  - link: /navrhy-zakonu/
+  - link: /navrhy/
     name: Návrhy zákonů
-    match: navrhy-zakonu
+    match: navrhy
   - link: /obory/
     name: Obory
     match: obory
