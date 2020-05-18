@@ -21,10 +21,10 @@ main:
     match: obory
     submenu:
       - link: /obory/rostlinna/
-        name: Rostlinná výroba
+        name: Rostlinná
         match: rostlinna
       - link: /obory/zivocisna/
-        name: Živočišná výroba
+        name: Živočišná
         match: zivocisna
       - link: /obory/lesnictvi/
         name: Lesnictví
@@ -40,7 +40,7 @@ main:
         match: myslivost
       - link: /obory/rybarstvi/
         name: Rybářství
-        match: rybarstvi      
+        match: rybarstvi
       - link: /obory/vodohospodarstvi/
         name: Vodohospodářství
         match: vodohospodarstvi 
