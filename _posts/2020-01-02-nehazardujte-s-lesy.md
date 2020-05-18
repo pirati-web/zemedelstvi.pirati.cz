@@ -4,7 +4,7 @@ category:     blog
 tags:         vláda zemědělství
 layout:       post
 title:        "Piráti vyzývají předsedu vlády: Nehazardujte se státními lesy!"
-image:        /assets/img/articles/2019/holomcik-mikro.jpg
+image:        posts/holomcik-mikro.jpg
 author:       Mediální odbor
 ---
 
