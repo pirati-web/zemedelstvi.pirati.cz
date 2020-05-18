@@ -4,7 +4,7 @@ category:     blog
 tags:         celostátní legislativa zemědělství
 layout:       post
 title:        "Poslanecká sněmovna schválila polovičatou novelu lesního zákona"
-image:        /assets/img/articles/2019/holomcik-balcarova.jpg
+image:        posts/holomcik-balcarova.jpg
 author:       Mediální odbor
 ---
 
