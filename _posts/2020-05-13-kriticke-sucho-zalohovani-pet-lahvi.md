@@ -4,7 +4,7 @@ category:     blog
 tags:         sněmovna životní-prostředí
 layout:       post
 title:        "Výbor pro životní prostředí otevřel diskuzi o kritickém stavu sucha a zálohování PET lahví"
-image:        /assets/img/articles/2020/balcarova-vybor.jpg
+image:        posts/balcarova-vybor.jpg
 author:       Dana Balcarová
 ---  
 
