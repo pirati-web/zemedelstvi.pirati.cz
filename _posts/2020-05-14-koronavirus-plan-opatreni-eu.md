@@ -4,7 +4,7 @@ category:     blog
 tags:         evropská-unie zahraničí koronavirus finance
 layout:       post
 title:        "Pět podmínek pro zisk dotací pro obnovu"
-image:        /assets/img/articles/2019/mikulas-peksa-eu.jpg
+image:        posts/mikulas-peksa-eu.jpg
 author:       Mediální odbor
 ---  
 
