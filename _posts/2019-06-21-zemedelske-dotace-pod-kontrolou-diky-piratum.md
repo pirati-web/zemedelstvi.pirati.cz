@@ -1,7 +1,7 @@
 ---
 date:         2019-06-21
 category:     blog
-tags:         celostátní zemědělství legislativa sněmovna kontrola-moci-a-mocných
+tags:         legislativa sněmovna kontrola-moci-a-mocných podpora-zemědělcům
 layout:       post
 title:        "Díky Pirátům budou informace o zemědělských dotacích konečně ve strojově čitelném formátu"
 image:        posts/holomcik-radek.jpg
