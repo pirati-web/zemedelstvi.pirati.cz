@@ -1,7 +1,7 @@
 ---
 date:         2019-10-31
 category:     blog
-tags:         celostátní legislativa
+tags:         sněmovna legislativa živočišná-výroba 
 layout:       post
 title:        "Klecový chov slepic nemá v moderním zemědělství co dělat"
 image:        posts/jan-posvar.jpg
