@@ -1,7 +1,7 @@
 ---
 date:         2019-02-05
 category:     blog
-tags:         celostátní životní-prostředí
+tags:         celostátní životní-prostředí myslivost chovatelství krajinotvorba
 layout:       post
 title:        "Elfmark: Zachovejme vlka jako symbol ochránce lesa"
 image:        posts/vlci.jpg
