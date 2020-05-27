@@ -1,7 +1,7 @@
 ---
 date:         2020-02-19
 category:     blog
-tags:         zemědělství legislativa celostátní
+tags:         sněmovna legislativa živočišná-výroba
 layout:       post
 title:        "Sněmovní výbory nepodpořily zrušení klecových chovů. České zemědělství nemá nakročeno do 21. století, varuje Pošvář"
 image:        posts/posvar.jpg
