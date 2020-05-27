@@ -1,7 +1,7 @@
 ---
 date:         2020-01-02
 category:     blog
-tags:         vláda zemědělství
+tags:         lesnictví kontrola-moci-a-mocných
 layout:       post
 title:        "Piráti vyzývají předsedu vlády: Nehazardujte se státními lesy!"
 image:        posts/holomcik-mikro.jpg
