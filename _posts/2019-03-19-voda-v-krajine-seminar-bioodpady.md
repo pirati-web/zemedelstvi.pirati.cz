@@ -1,7 +1,7 @@
 ---
 date:         2019-03-19
 category:     blog
-tags:         sněmovna celostátní životní-prostředí
+tags:         sněmovna životní-prostředí krajinotvorba vodohospodářství
 layout:       post
 title:        "Lepší využití bioodpadů zvýší kvalitu půdy a pomůže k zadržení vody v krajině, říká Pirátka Balcarová"
 image:        posts/balcarova-bioodpady.jpg
