@@ -1,7 +1,7 @@
 ---
 date:         2020-03-25
 category:     blog
-tags:         celostátní zemědělství legislativa
+tags:         sněmovna legislativa potravinářství podpora-zemědělcům
 layout:       post
 title:        "Piráti se obrátili na Ministerstvo zemědělství s návrhy podporujícími domácí zemědělce a producenty potravin"
 image:        posts/holomcik.jpg
