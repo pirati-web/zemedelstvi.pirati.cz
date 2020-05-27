@@ -1,7 +1,7 @@
 ---
 date:         2019-08-08
 category:     blog
-tags:         celostátní životní-prostředí
+tags:         životní-prostředí krajinotvorba lesnictví rostlinná-výroba živočišná-výroba vodohospodářství
 layout:       post
 title:        "Hospodaření v krajině významně ovlivňuje změnu klimatu, vláda by měla patřičně reagovat, komentuje zprávu IPCC Dana Balcarová"
 image:        posts/balcarova.jpg
