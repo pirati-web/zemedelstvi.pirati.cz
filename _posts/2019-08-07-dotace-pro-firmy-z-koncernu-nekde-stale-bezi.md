@@ -1,7 +1,7 @@
 ---
 date:         2019-08-07
 category:     blog
-tags:         celostátní kontrola-moci-a-mocných
+tags:         kontrola-moci-a-mocných podpora-zemědělcům
 layout:       post
 title:        "Piráti: Chaotický přístup úřadů ke střetu zájmů premiéra trvá. Některé úřady dál schvalují dotace firmám z koncernu Agrofert"
 image:        posts/ivan-bartos-out.jpg
