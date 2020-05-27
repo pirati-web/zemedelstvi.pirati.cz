@@ -15,8 +15,17 @@ keywords: aktuality, tiskové zprávy, press, blog
           </header>
           <div class="row">
             <div class="medium-8 columns">
-              <h2><hr></h2>
-
+              <table>
+                <tr><td><a href="{{site.baseurl}}/obory/rostlinna"><img src="{{site.baseurl}}/assets/img/rostlinna.jpg"></a></td>
+                  <td><a href="{{site.baseurl}}/obory/zivocisna"><img src="{{site.baseurl}}/assets/img/zivocisna.jpg"></a></td>
+                  <td><a href="{{site.baseurl}}/obory/vcelarstvi"><img src="{{site.baseurl}}/assets/img/vcelarstvi.jpg"></a></td></tr>
+                <tr><td><a href="{{site.baseurl}}/obory/vodohospodarstvi"><img src="{{site.baseurl}}/assets/img/vodohospodarstvi.jpg"></a></td>
+                  <td><a href="{{site.baseurl}}/obory/lesnictvi"><img src="{{site.baseurl}}/assets/img/lesnictvi.jpg"></a></td>
+                  <td><a href="{{site.baseurl}}/obory/zahradkarstvi"><img src="{{site.baseurl}}/assets/img/zahradkarstvi.jpg"></a></td></tr>
+                <tr><td><a href="{{site.baseurl}}/obory/myslivost"><img src="{{site.baseurl}}/assets/img/myslivost.jpg"></a></td>
+                  <td></td>
+                  <td><a href="{{site.baseurl}}/obory/rybarstvi"><img src="{{site.baseurl}}/assets/img/rybarstvi.jpg"></a></td></tr>
+              </table>  
           {% capture tags %}
             {% for tag in site.tags %}
               {{ tag[0] }}
