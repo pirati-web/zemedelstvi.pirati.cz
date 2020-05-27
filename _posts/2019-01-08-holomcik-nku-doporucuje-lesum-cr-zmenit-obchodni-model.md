@@ -1,7 +1,7 @@
 ---
 date:         2019-01-08
 category:     blog
-tags:         sněmovna komentář lesnictvi
+tags:         sněmovna komentář lesnictvi kurovec kontrola
 layout:       post
 title:        "Komentář Radka Holomčíka: Kontrola NKÚ potvrdila nutnost urychleně změnit obchodní model Lesů ČR"
 image:        posts/holomcik.jpg 
