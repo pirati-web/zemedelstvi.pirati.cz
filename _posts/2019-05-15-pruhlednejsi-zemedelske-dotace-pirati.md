@@ -1,7 +1,7 @@
 ---
 date:         2019-05-15
 category:     blog
-tags:         celostátní sněmovna legislativa
+tags:         sněmovna legislativa kontrola-moci-a-mocných podpora-zemědělcům
 layout:       post
 title:        "Komentář Radka Holomčíka: Díky Pirátům budou dotace v zemědělství průhlednější"
 image:        posts/holomcik.jpg
