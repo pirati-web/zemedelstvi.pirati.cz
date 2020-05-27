@@ -1,7 +1,7 @@
 ---
 date:         2019-06-19
 category:     blog
-tags:         sněmovna legislativa životní-prostředí rostlinná-výroba soběstačnost
+tags:         sněmovna legislativa životní-prostředí rostlinná-výroba krajinotvorba soběstačnost
 layout:       post
 title:        "Vládní koalice smetla pirátský návrh na konec povinnosti přimíchávat biopaliva"
 image:        posts/holomcik-balcarova.jpg
