@@ -1,7 +1,7 @@
 ---
 date:         2019-01-30
 category:     blog
-tags:         sněmovna životní-prostředí
+tags:         sněmovna životní-prostředí vodohospodářství
 layout:       post
 title:        "Jak prolomit sucho? Odpovědi přivezou do Brna odborníci z celé ČR"
 image:        posts/sucho.jpg 
