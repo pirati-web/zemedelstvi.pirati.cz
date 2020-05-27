@@ -1,7 +1,7 @@
 ---
 date:         2019-12-03
 category:     blog
-tags:         vláda sněmovna celostátní kontrola-moci-a-mocných
+tags:         sněmovna kontrola-moci-a-mocných podpora-zemědělcům
 layout:       post
 title:        "Protože úřady v minulosti dál vyplácely veřejné prostředky Agrofertu, podali jsme trestní oznámení v kauze střetu zájmů premiéra"
 image:        posts/wagenknecht99.jpg
