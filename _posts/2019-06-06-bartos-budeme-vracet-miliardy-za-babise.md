@@ -1,7 +1,7 @@
 ---
 date:         2019-06-06
 category:     blog
-tags:         celostátní kontrola-moci-a-mocných
+tags:         podpora-zemědělcům kontrola-moci-a-mocných
 layout:       post
 title:        "Komentář Ivana Bartoše: Druhá zpráva Evropské komise potvrzuje obavy občanů: budeme vracet miliardy za Babišův Agrofert"
 image:        posts/janusz-ivan-petr.jpg
