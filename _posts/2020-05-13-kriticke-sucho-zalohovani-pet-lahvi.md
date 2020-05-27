@@ -1,7 +1,7 @@
 ---
 date:         2020-05-13
 category:     blog
-tags:         sněmovna životní-prostředí
+tags:         sněmovna životní-prostředí vodohospodářství
 layout:       post
 title:        "Výbor pro životní prostředí otevřel diskuzi o kritickém stavu sucha a zálohování PET lahví"
 image:        posts/balcarova-vybor.jpg
