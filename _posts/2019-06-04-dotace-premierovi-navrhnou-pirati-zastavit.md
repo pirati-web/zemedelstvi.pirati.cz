@@ -1,7 +1,7 @@
 ---
 date:         2019-06-04
 category:     blog
-tags:         celostátní sněmovna kontrola-moci-a-mocných
+tags:         sněmovna kontrola-moci-a-mocných podpora-zemědělcům
 layout:       post
 title:        "Piráti po dohodě s opozičními stranami navrhnou Sněmovně zastavení nelegálních dotací předsedovi vlády"
 image:        posts/bartos-michalek.jpg
