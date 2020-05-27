@@ -1,7 +1,7 @@
 ---
 date:         2019-07-11
 category:     blog
-tags:         celostátní sněmovna interpelace zemědělství průmysl
+tags:         sněmovna interpelace podpora-zemědělcům kontrola-moci-a-mocných
 layout:       post
 title:        "Pirát Jiránek bude interpelovat ministra Havlíčka kvůli vyplácení dotací koncernu Agrofert"
 image:        posts/jiranek.jpg
