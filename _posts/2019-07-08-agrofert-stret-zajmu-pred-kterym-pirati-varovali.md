@@ -1,7 +1,7 @@
 ---
 date:         2019-07-08
 category:     blog
-tags:         celostátní vláda exekuce
+tags:         kontrola-moci-a-mocných 
 layout:       post
 title:        "Piráti varovali úřady před nedodržováním zákona o střetu zájmů"
 image:        posts/ivan-bartos-balkon.jpeg
