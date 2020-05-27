@@ -1,7 +1,7 @@
 ---
 date:         2019-09-13
 category:     blog
-tags:         celostátní legislativa zemědělství
+tags:         legislativa lesnictví krajinotvorba
 layout:       post
 title:        "Poslanecká sněmovna schválila polovičatou novelu lesního zákona"
 image:        posts/holomcik-balcarova.jpg
