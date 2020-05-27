@@ -1,7 +1,7 @@
 ---
 date:         2020-01-31
 category:     blog
-tags:         sněmovna celostátní životní-prostředí
+tags:         sněmovna životní-prostředí zahrádkářství krajinotvorba
 layout:       post
 title:        "Zákon pro zahrádkáře prošel do druhého čtení. Definuje zahrádkářství jako prospěšnou činnost"
 image:        posts/posvar.jpg
