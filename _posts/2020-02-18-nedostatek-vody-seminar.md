@@ -1,7 +1,7 @@
 ---
 date:         2020-02-18
 category:     blog
-tags:         kontrola-moci-a-mocných celostátní
+tags:         kontrola-moci-a-mocných krajinotvorba vodohospodářství
 layout:       post
 title:        "Komentář Dany Balcarové: Nedostatek vody vyřeší podpora jejího zadržování v krajině, péče o ekosystémy a vývoj nových technologií"
 image:        posts/balcarova-voda.jpg
