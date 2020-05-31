@@ -30,22 +30,22 @@ main:
         name: Lesnictví
         match: lesnictvi
       - link: /obory/potravinarstvi/
-        name: Potravinářství
+        name: Potravináři
         match: potravinarstvi
       - link: /obory/myslivost/
-        name: Myslivost
+        name: Myslivci
         match: myslivost
       - link: /obory/rybarstvi/
-        name: Rybářství
+        name: Rybáři
         match: rybarstvi
       - link: /obory/zahradkarstvi/
-        name: Zahrádkářství
+        name: Zahrádkáři
         match: zahradkarstvi
       - link: /obory/vcelarstvi/
-        name: Včelařství
+        name: Včelaři
         match: vcelarstvi 
       - link: /obory/vodohospodarstvi/
-        name: Vodohospodářství
+        name: Vodohospodáři
         match: vodohospodarstvi        
   - link: /kontakt/
     name: Kontakt
