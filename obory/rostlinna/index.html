@@ -11,13 +11,13 @@ keywords: Rostlinná výroba v zemědělství, tiskové zprávy, press, blog
     <div class="o-section">
       <div class="o-section-inner">
           <header class="c-page-header">
-            <h1 itemprop="headline" class="c-page-title">Aktuality rostlinné výroby</h1>
+            <h1 itemprop="headline" class="c-page-title">Z rostlinné výroby</h1>
           </header>
           {% assign tag = 'rostlinná-výroba'  %}
-          <ul>
+          <hr><ul>
           {% for post in site.tags[tag] %}
             <li><a href="{{ post.url }}">{{ post.title }}</a></li>{% endfor %}
-          </ul>
+        </ul></hr>
          {% assign posts=site.tags[tag] %} 
          {% include articles/list-responsive.html posts=posts %}
          {% include articles/pagination.html paginator=paginator %}
