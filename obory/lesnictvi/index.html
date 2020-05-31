@@ -12,13 +12,13 @@ tags: [lesnictvi,lesy,sucho,kurovec]
     <div class="o-section">
       <div class="o-section-inner">
           <header class="c-page-header">
-            <h1 itemprop="headline" class="c-page-title">Aktuality lesnictví</h1>
+            <h1 itemprop="headline" class="c-page-title">Lesnictví</h1>
           </header>
           {% assign tag = 'lesnictví'  %}
           <hr><ul>
           {% for post in site.tags[tag] %}
             <li><a href="{{ post.url }}">{{ post.title }}</a></li>{% endfor %}
-          </ul><hr>
+          </ul><hr><hr>
          {% assign posts=site.tags[tag] %} 
          {% include articles/list-responsive.html posts=posts %}
          {% include articles/pagination.html paginator=paginator %}
