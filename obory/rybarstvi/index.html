@@ -11,13 +11,13 @@ keywords: Rybářství, Zemědělství, Piráti, tiskové zprávy, press, blog
     <div class="o-section">
       <div class="o-section-inner">
           <header class="c-page-header">
-            <h1 itemprop="headline" class="c-page-title">Aktuality rybářství</h1>
+            <h1 itemprop="headline" class="c-page-title">rybářství</h1>
           </header>
           {% assign tag = 'rybářství'  %}
-          <ul>
+          <hr><ul>
           {% for post in site.tags[tag] %}
             <li><a href="{{ post.url }}">{{ post.title }}</a></li>{% endfor %}
-          </ul>
+          </ul></hr>
          {% assign posts=site.tags[tag] %} 
          {% include articles/list-responsive.html posts=posts %}
          {% include articles/pagination.html paginator=paginator %}
