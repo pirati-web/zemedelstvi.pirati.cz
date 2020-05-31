@@ -32,18 +32,21 @@ main:
       - link: /obory/potravinarstvi/
         name: Potravinářství
         match: potravinarstvi
-      - link: /obory/vcelarstvi/
-        name: Včelařství
-        match: vcelarstvi
       - link: /obory/myslivost/
         name: Myslivost
         match: myslivost
       - link: /obory/rybarstvi/
         name: Rybářství
         match: rybarstvi
+      - link: /obory/zahradkarstvi/
+        name: Zahrádkářství
+        match: zahradkarstvi
+      - link: /obory/vcelarstvi/
+        name: Včelařství
+        match: vcelarstvi 
       - link: /obory/vodohospodarstvi/
         name: Vodohospodářství
-        match: vodohospodarstvi 
+        match: vodohospodarstvi        
   - link: /kontakt/
     name: Kontakt
     match: kontakt
