@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 category: CLANKY
 title: 'Bojovat proti suchu přehradami? Ne, raději zadržujme vodu v krajině, říká v komentáři Hana Ančincová'
 date: 2020-05-13
