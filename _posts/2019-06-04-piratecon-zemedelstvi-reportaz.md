@@ -1,6 +1,6 @@
 ---
 date: 2019-06-04
-category: blog
+category: posts
 layout: post
 title: Přes 3 miliony evropských zemědělců odejde do deseti let do důchodu. Nahradí je někdo?
 author: Karolína Nečadová
