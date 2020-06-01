@@ -26,7 +26,7 @@ Debata začala krátce po 18. hodině, pirátský poslanec **Radek Holomčík** 
 V průběhu besedy se se svými podněty a dotazy zapojovali návštěvníci, mezi kterými byli i zastupitelé různých měst a obcí, které tuto problematiku denně řeší. Diskuze se postupně přesunula ke konkrétním příkladům, které obce a města trápí, a obce se pak často ztrácí v byrokratickém moři žádostí a povolení.
 
 
-{% asset 'articles/2020/holomcik2.jpg' magick:resize='751x422^' 
+{% asset 'posts/holomcik2.jpg' magick:resize='751x422^' 
 magick:gravity='north' alt='beseda'%}
 
 
@@ -36,5 +36,5 @@ Příjemnou atmosféru při diskuzi podpořilo občerstvení, jenž na akci posk
 
 Akce se velice povedla a již v tuto chvíli pro vás připravujeme další besedu na téma *Domácí nekomerční výroba piva, tzv. domovarnictví*, s poslanci **Ondřejem Polanským, Radkem Holomčíkem** a našim lídrem do krajských voleb **Danielem Lebduškou**. O termínu akce vás budeme informovat na našem facebooku a webu.
 
-{% asset 'articles/2020/holomcik3.jpg' magick:resize='751x422^' 
+{% asset 'posts/holomcik3.jpg' magick:resize='751x422^' 
 magick:gravity='north' alt='občerstvení'%}
