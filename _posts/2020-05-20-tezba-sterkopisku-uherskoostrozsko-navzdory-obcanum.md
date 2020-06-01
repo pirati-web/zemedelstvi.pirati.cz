@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 category: CLANKY
 title: 'Riziková těžba štěrkopísku na Uherskoostrožsku navzdory občanům a obavám o pitnou vodu'
 date: 2020-05-20
