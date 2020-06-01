@@ -18,7 +18,6 @@ Ostrava, 13. dubna 2020 – **Hrdinou dnešních dní můžeš být i TY! To je 
 
 Cílem této výzvy je ale motivovat lidi k nákupu v jakémkoliv malém obchůdku ve svém okolí místo supermarketu, nakoupit v „okně“ kavárny nebo jiného podniku, objednat si jídlo ze své oblíbené restaurace. Prostě podpořit lokální ekonomiku a udržet cirkulaci peněz v místě, kde žijeme.
 
-{% include image-gallery.html folder="/assets/img/articles/2020/bud-hrdina/" %}
 
 Ještě důležitější bude tato podpora po uvolnění restrikcí. Živnostníci, kteří znovu otevřou, se budou muset otřepat z nečekaného přerušení jejich činnosti.
 
