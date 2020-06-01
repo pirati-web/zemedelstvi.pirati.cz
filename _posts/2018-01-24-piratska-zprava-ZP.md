@@ -5,7 +5,7 @@ title: 'Ovzduší v kraji se nelepší, opakují se úniky jedů do vody'
 date: 2018-01-24T07:27:43.824Z
 author: Jan Nezhyba
 authorId: jan.nezhyba
-image: ostrava-ovzdusi.jpg
+image: posts/ostrava-ovzdusi.jpg
 tags:
   - Ekologie
   - Ovzduší
