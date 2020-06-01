@@ -1,17 +1,12 @@
 ---
 layout: post
-category: CLANKY
+category: blog
 title: 'O vodě, o trávě, o lese - beseda s Janem Nezhybou'
-date: 2017-05-01T08:51:43.824Z
+date: 2017-05-01
 author: Ondřej Polanský
 authorId: ondrej.polansky
 image: posts/beseda_nezhyba.jpg
-tags:
-  - Beseda
-  - Ekologie
-  - Jan-Nezhyba
-  - lesnictví
-  - vodohospodářství
+tags: beseda ekologie Jan-Nezhyba lesnictví vodohospodářství
 ---
 
 Ostravští Piráti zvou na besedu nazvanou "O vodě, o trávě, o lese" s Janem Nezhybou. 
