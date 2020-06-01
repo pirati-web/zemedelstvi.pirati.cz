@@ -1,10 +1,10 @@
 ---
 date: 2019-06-04
 category: blog
-tags: PirateCon Jihlava Jan Pošvář zemědělství rostlinná živočišná včelařství
 layout: post
 title: Přes 3 miliony evropských zemědělců odejde do deseti let do důchodu. Nahradí je někdo?
 author: Karolína Nečadová
+tags:  zemědělství rostlinná živočišná včelařství
 authorId:     
 image: posts/2019-06-04-piratecon-zemedelstvi-reportaz.jpg
 ---
