@@ -1,7 +1,7 @@
 ---
 date: 2020-02-24
 category: blog
-tags: konopí Jihlava rostlinná
+tags: konopí Jihlava rostlinná zahrádkářství
 layout: post
 title: Piráti budou v Jihlavě diskutovat o přínosech a uplatnění konopí nejen v zemědělství
 author: Redakce
