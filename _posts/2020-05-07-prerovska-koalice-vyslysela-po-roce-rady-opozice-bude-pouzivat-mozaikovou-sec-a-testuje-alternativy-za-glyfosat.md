@@ -10,7 +10,7 @@ tags:
 - myslivost
 - rostlinná
 author: Mediální odbor
-image: assets/img/articles/2020/2020-05-07-prerovska-koalice-vyslysela-po-roce-rady-opozice-bude-pouzivat-mozaikovou-sec-a-testuje-alternativy-za-glyfosat.jpg  #751x422 pixelu
+image: posts/2020-05-07-prerovska-koalice-vyslysela-po-roce-rady-opozice-bude-pouzivat-mozaikovou-sec-a-testuje-alternativy-za-glyfosat.jpg  #751x422 pixelu
 redirect_from:
   - /tiskove-zpravy/otevreny-dopis-pro-vedeni-mestyce-brodek-u-prerova.html
 ---
