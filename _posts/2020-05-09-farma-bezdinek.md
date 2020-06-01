@@ -4,7 +4,7 @@ category: CLANKY
 title: 'Farma Bezdínek: Zeleninová oáza uprostřed pohornické krajiny Karvinska'
 date: 2020-05-09T08:00:00.000Z
 author: Jana Ožanová
-image: posts/farma-bezdinek.jpg
+image: posts/farma_bezdinek.jpg
 tags:
   - MS-Karvinsko
   - Ekologie
