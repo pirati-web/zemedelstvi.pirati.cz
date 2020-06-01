@@ -5,6 +5,8 @@ title: Stop glyfosátu! Piráti chtějí, aby město přestalo používat látku
 date: 2019-03-27
 tags: 
 - přerov
+- rybářství
+- vodohospodářství
 author: Mediální odbor
 image:  posts/2019-03-27-stop-glyfosatu-pirati-chteji-aby-mesto-prestalo-pouzivat-latku-ktera-ma-potencialní-karcinogenni-ucinky.jpg  #751x422 pixelu
 ---
