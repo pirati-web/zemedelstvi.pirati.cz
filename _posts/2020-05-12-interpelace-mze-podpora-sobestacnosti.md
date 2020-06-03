@@ -1,7 +1,7 @@
 ---
 date: 2020-05-12
 category: blog
-tags: zemědělství sněmovna interpelace koronavirus rostlinná živočišná potravinářství kontrola-moci-a-mocných soběstačnost
+tags: zemědělství sněmovna interpelace koronavirus rostlinná-výroba živočišná-výroba potravinářství kontrola-moci-a-mocných soběstačnost
 layout: post
 title: Piráti se ptají, jak rozdělí Ministerstvo zemědělství 4,3 miliardy korun na podporu soběstačnosti
 author: Redakce
