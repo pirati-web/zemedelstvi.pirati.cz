@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 category: CLANKY
 title: 'Úklid Medkových rybníků'
 date: 2018-09-18T04:44:00.032Z
