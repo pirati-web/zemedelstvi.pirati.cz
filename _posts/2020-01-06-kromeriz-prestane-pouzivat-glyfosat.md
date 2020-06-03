@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 category: CLANKY
 title: 'Kroměříž přestane na většině svého území používat k hubení plevele nebezpečný glyfosát'
 date: 2020-01-06
