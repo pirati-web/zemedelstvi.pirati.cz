@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 category: CLANKY
 title: 'Voda patří obcím'
 date: 2018-09-21T04:44:00.032Z
