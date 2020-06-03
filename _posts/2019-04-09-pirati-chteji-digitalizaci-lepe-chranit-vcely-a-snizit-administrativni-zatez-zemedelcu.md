@@ -1,5 +1,5 @@
 ---
-date:         2020-05-13
+date:         2019-09-04
 category:     blog
 tags:         sněmovna životní-prostředí zemědělství včelařství digitalizace Radek-Holomčík
 layout:       post
