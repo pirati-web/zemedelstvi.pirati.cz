@@ -3,7 +3,7 @@ date:         2019-09-04
 category:     blog
 tags:         sněmovna životní-prostředí zemědělství včelařství digitalizace Radek-Holomčík
 layout:       post
-title:        "Výbor pro životní prostředí otevřel diskuzi o kritickém stavu sucha a zálohování PET lahví"
+title:        "Piráti chtějí digitalizací lépe chránit včely a snížit administrativní zátěž zemědělců"
 image:        posts/radek_holomcik_vcely.jpg
 author:       Radek Holomčík
 ---  
