@@ -4,7 +4,7 @@ category:     blog
 tags:         živočišná-výroba drůbežářství chovatelství Dana-Balcarová
 layout:       post
 title:        "Komentář Dany Balcarové: Patří klecové chovy slepic do jedenadvacátého století?"
-image:        posts/balcarova-klece.jpg
+image:        posts/balcarova_klece.jpg
 author:       Dana Balcarová
 ---  
 
