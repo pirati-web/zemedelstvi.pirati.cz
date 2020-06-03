@@ -1,10 +1,10 @@
 ---
-date:         2018-08-28
+date:         2019-08-28
 category:     blog
 tags:         lesnictví živočišná-výroba krajinotvorba
 layout:       post
 title:        "Radek Holomčík a Dan Leština: Proč ženou Piráti dobytek do lesa?"
-image:        posts/balcarova-vybor.jpg
+image:        posts/vepri_v_lese.jpg
 author:       Radek Holomčík a Dan Leština
 ---  
 
