@@ -1,11 +1,11 @@
 ---
 date:         2020-06-03
 category:     blog
-tags:         zemědělství potravinářství rostlinná živočišná Jan-Lehejček životní-prostředí
+tags:         zemědělství potravinářství rostlinná-výroba živočišná-výroba Jiří-Lehejček životní-prostředí
 layout:       post
 title:        "Z pole na vidličku: Blízké výzvy pro evropské zemědělce a krajinu"
 image:        posts/z_farm_na_vidlicku.jpg
-author:       Jan Lehejček
+author:       Jiří Lehejček
 ---  
 
 Článek vznikl v reakci na množící se prohlášení představitelů české vlády, která zpochybňují český závazek dále podporovat Zelenou dohodu pro Evropu. Vzhledem k tomu, že [__Farm to fork strategy__](https://www.ifpri.org/event/european-green-deal-farm-fork-strategy-sustainable-food) je její součástí a vzhledem k prohlubujícímu se suchu v krajině, považujeme tento přístup za neakceptovatelný a nezodpovědný k obyvatelům ČR. Přestože konkrétní podoba strategie zatím nebyla zveřejněna, i na ní je již soustředěna negativní kampaň zejména Agrární komory. Z toho důvodu jsme se rozhodli publikovat kontextuální článek, který má za cíl představit skutečný potenciál transformace evropského a českého zemědělství a přístupu ke krajině obecně.
