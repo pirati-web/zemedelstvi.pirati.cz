@@ -6,7 +6,7 @@ layout: post
 title: Přehrady sucho nevyřeší. Zdravá krajina ano!
 author: Blanka Lednická
 authorId:  blanka.lednicka
-image: posts/2020-05-15-prehrady-nejsou-resení-sucha.jpg
+image: posts/2020-05-15-prehrady-nejsou-resení-sucha-smaller.jpg
 ---
 
 *Olešná u Havlíčkova Brodu, 15. května 2020* - Potřebujeme nové vodní nádrže? 
