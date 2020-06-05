@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 category: CLANKY
 title: 'Město Zlín začne efektivně využívat dešťovou vodu'
 date: 2020-05-23
