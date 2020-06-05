@@ -1,7 +1,7 @@
 ---
 date: 2020-05-15
 category: blog
-tags: sucho zemědělství vodohospodářství myslivost
+tags: sucho zemědělství vodohospodářství rybářství
 layout: post
 title: Přehrady sucho nevyřeší. Zdravá krajina ano!
 author: Blanka Lednická
