@@ -6,7 +6,7 @@ layout: post
 title: Přehrady sucho nevyřeší. Zdravá krajina ano!
 author: Blanka Lednická
 authorId:  blanka.lednicka
-image: posts/2020-05-15-prehrady-nejsou-reseni-sucha-smaller.jpg
+image: posts/2020-05-15-prehrady-nejsou-resení-sucha-smaller.jpg
 ---
 
 *Olešná u Havlíčkova Brodu, 15. května 2020* - Potřebujeme nové vodní nádrže? 
@@ -17,7 +17,7 @@ Nové přehrady, o kterých začalo tento týden „básnit“ ministerstvo zem�
 
 Pojďme peníze, určené na tyto projekty, použít na řešení problémů naší krajiny a toho, aby byla schopna zadržet vodu a ta z ní zbytečně neodtékala. 
 
-![Dešťovka koloběh](https://zemedelstvi.pirati.cz/assets/img/posts/2020-05-15-prehrady-nejsou-reseni-sucha.jpg)
+![Dešťovka koloběh](https://zemedelstvi.pirati.cz/assets/img/posts/2020-05-15-prehrady-nejsou-resení-sucha.jpg)
 
 
 Základem je pestrá krajina, ve které najdeme tůně, mokřady, remízky, aleje, vodní toky v přirozených korytech. Potřebujeme oživit ornou půdu a vrátit jí její retenční schopnost, kterou kvůli intenzivnímu zemědělství ztratila.
