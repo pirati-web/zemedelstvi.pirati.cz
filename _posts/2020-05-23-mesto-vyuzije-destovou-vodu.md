@@ -14,4 +14,5 @@ S přibývajícími dny bez dešťů je potřeba začít umět pracovat se srá�
 „Rozhodli jsme se využít městské střechy z bytových či nebytových prostor, ale i z městských sportovišť k zachycení srážkových vod. Podaří se nám tak ušetřit část nákladů a hlavně nenecháme vodu, které ubývá, bez užitku,” shrnul pirátský radní Jiří Jaroš.
 
 Radnice chce čerpat dotace ve výši až 85% na financování tohoto projektu. Podle serveru [destovavoda.cz](https://www.destovavoda.cz){:target="_blank"} je spotřeba v běžné domácnosti asi 130 litrů na osobu denně. Dešťovou vodu lze využít zhruba v 50 procentech případů.
----
+
+- - -
