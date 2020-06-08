@@ -8,7 +8,7 @@ authorId: radek.holomcik
 image: posts/dry_land.jpg
 description: >-
   Evropská unie již nechce dotacemi podporovat velké zemědělské podniky, ale česká vláda a tvůrci zemědělské politiky to ignorují. Piráti to rozhodně řešit budou.
-tags: sucho zemědělství rostlinná živočišná potravinářství životní-prostředí dotace
+tags: sucho zemědělství rostlinná-výroba živočišná-výroba potravinářství životní-prostředí podpora-zemědělcům kontrola-moci-a-mocných
 ---
 Na serveru Euro vyšla [zajímavá zpráva](http://www.euro.cz/politika/eu-uz-nechce-podporovat-dotacemi-velke-zemedelske-podniky-cesko-nesouhlasi-1368463#){:target="_blank"}, že Evropská unie již nechce dotacemi podporovat velké zemědělské podniky, ale česká vláda a tvůrci zemědělské politiky to ignorují. Není to žádná novinka - Piráti na tento stav poukazují už nějakou dobu a malí zemědělci ještě déle. Dobře je, že se o tento doposud přehlížený problém začínají zajímat i média a že se snad dočkáme i zvýšení zájmu veřejnosti. Je totiž potřeba rozbourat iluzi “hodných” ministrů, kteří hájí národní zájmy před tou zlou a něco neustále přikazující EU. Zájmy totiž naší vládou, a v tomto případě Ministerstvem zemědělství ČR, hájeny jsou, jen ne ty národní. Těží z toho úzká skupina agrokorporací, které si ze zemědělských dotací udělaly velice výnosný byznys.
 
