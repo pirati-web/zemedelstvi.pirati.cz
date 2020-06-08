@@ -1,7 +1,7 @@
 ---
 date: 2019-12-17
 category: blog
-tags: ani kapka vody nazmar Zdoňov vodohospodářství
+tags: voda obec-Zdoňov vodohospodářství krajinotvorba sucho
 layout: post
 title: Ani kapka vody nazmar
 author: Hana Hajnová
