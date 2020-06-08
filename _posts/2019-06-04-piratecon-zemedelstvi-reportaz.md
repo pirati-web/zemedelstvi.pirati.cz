@@ -4,7 +4,7 @@ category: posts
 layout: post
 title: Přes 3 miliony evropských zemědělců odejde do deseti let do důchodu. Nahradí je někdo?
 author: Karolína Nečadová
-tags:  zemědělství rostlinná živočišná včelařství
+tags:  zemědělství rostlinná-výroba živočišná-výroba soběstačnost 
 authorId:     
 image: posts/2019-06-04-piratecon-zemedelstvi-reportaz.jpg
 ---
