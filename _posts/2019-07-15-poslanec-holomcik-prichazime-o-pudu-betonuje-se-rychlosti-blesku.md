@@ -3,7 +3,7 @@ category: blog
 layout: post
 date: 2019-07-15
 #published: false
-tags: životní_prostředí Kladno rostlinná živočišná
+tags: životní_prostředí Kladno rostlinná-výroba živočišná-výroba včelařství lesnictví vodohospodářství sucho
 title: 'Poslanec Holomčík: Přicházíme o půdu, betonuje se rychlostí blesku'
 description: 'Kladno, rozhovor'
 author: Jan Lukášek
