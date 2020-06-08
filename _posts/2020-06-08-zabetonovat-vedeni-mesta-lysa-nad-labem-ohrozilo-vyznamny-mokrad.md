@@ -1,7 +1,7 @@
 ---
 date:         2020-06-08
 category:     blog
-tags:         sněmovna životní-prostředí vodohospodářství středočeský-kraj Dominika-Michailidu
+tags:         sněmovna Dominika-Michailidu životní-prostředí vodohospodářství středočeský-kraj sucho
 layout:       post
 title:        "Zabetonovat? Vedení města Lysá nad Labem ohrozilo významný mokřad"
 image:        posts/mokrad_lysa.jpg
