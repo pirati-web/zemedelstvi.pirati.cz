@@ -10,7 +10,7 @@ tags:
   - Ekologie
   - Zemědělství
   - Zuzana-Klusová
-  - rostlinná
+  - rostlinná-výroba
 ---
 
 Dolní Lutyně, 10. května 2020 – **Farma Bezdínek je ukázkovým příkladem toho, že transformace našeho regionu už začala. Na vlastní oči se o tom přesvědčili Zuzana Klusová a Radim Kravčík, kteří farmu navštívili a mohli si tak „osahat” zdejší šetrný způsob pěstování zeleniny ve sklenících. Z exkurze si odnášeli kromě čerstvě natrhaných rajčat a okurek taky naději, že nikdy není pozdě přehodit výhybku a vydat se (staro)novými cestami udržitelného zemědělství s ohledem na životní prostředí. Místní farmáři využívají řadu chytrých a přitom jednoduchých řešení a do budoucna mají cílevědomé a smysluplné vize.**
