@@ -6,7 +6,7 @@ date: 2017-05-01
 author: Ondřej Polanský
 authorId: ondrej.polansky
 image: posts/beseda_nezhyba.jpg
-tags: beseda ekologie Jan-Nezhyba lesnictví vodohospodářství
+tags: beseda životní-prostředí Jan-Nezhyba lesnictví vodohospodářství sucho
 ---
 
 Ostravští Piráti zvou na besedu nazvanou "O vodě, o trávě, o lese" s Janem Nezhybou. 
