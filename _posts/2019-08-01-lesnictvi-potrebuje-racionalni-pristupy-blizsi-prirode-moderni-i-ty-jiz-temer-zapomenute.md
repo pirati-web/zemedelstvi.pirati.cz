@@ -1,7 +1,7 @@
 ---
 date:         2019-08-01
 category:     blog
-tags:         lesnictví krajinotvorba životní-prostředí myslivost
+tags:         lesnictví krajinotvorba životní-prostředí myslivost sucho
 layout:       post
 title:        "Lesnictví potřebuje racionální přístupy bližší přírodě – moderní i ty již téměř zapomenuté"
 image:        posts/listnaty_les.jpg
