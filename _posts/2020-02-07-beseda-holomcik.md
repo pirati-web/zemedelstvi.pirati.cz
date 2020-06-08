@@ -7,8 +7,9 @@ tags:
     - rozhovor
     - ParduPiCe
     - vodohospodářství
-    - rostlinná
+    - rostlinná-výroba
     - lesnictví
+    - sucho
 author: Piráti Pardubického kraje
 image: posts/holomcik1.jpg
 ---
