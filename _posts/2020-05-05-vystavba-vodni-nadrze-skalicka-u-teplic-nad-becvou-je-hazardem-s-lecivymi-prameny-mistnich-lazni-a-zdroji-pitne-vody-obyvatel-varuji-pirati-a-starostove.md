@@ -6,6 +6,7 @@ date: 2020-05-05
 tags: 
 - olomouc
 - vodohospodářství
+- sucho
 author: Antonín Štěpán
 image: posts/2020-05-05-vystavba-vodni-nadrze.jpg  #751x422 pixelu
 ---
