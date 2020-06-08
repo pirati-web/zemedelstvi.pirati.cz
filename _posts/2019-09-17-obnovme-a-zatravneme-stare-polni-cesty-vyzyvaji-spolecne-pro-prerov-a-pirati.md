@@ -7,6 +7,7 @@ tags:
 - přerov
 - vodohospodářství
 - myslivost
+- sucho
 author: Mediální odbor
 image: posts/2019-09-17-obnovme-a-zatravneme-stare-polni-cesty-vyzyvaji-spolecne-pro-prerov-a-pirati.jpg  #751x422 pixelu
 ---
