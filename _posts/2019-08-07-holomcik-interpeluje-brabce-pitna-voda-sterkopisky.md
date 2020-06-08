@@ -1,7 +1,7 @@
 ---
 date:         2019-08-07
 category:     blog
-tags:         kontrola-moci-a-mocných životní-prostředí vodohospodářství soběstačnost
+tags:         kontrola-moci-a-mocných životní-prostředí vodohospodářství soběstačnost sucho
 layout:       post
 title:        "Pirát Holomčík žádá ministra Brabce o vysvětlení postupu úřadů v případě ohrožení pitné vody pro 140 tisíc lidí
 "
