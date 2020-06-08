@@ -9,7 +9,7 @@ image: posts/potok.jpg
 description: >-
   Strany zastoupeny ve Sněmovně se buď přímo podílely na pochybeních vedoucích k otrávení vody v Česku  nebo se o ně vůbec nezajímaly. Pomožte Pirátům to změnit.
 
-tags: voda vodohospodářství rybářství zemědělství životní-prostředí
+tags: voda vodohospodářství rybářství zemědělství životní-prostředí sucho
 ---
 
 V jedné básni velkého básníka mého rodného regionu věnované vodě se píše: „Ubývá míst, kam chodívala pro vodu…“. Něco mi říká, že by byl Jan Skácel hodně v rozpacích, kdyby viděl, co se v jeho zemi po třech dekádách od jeho smrti s životodárnou tekutinou děje. A přestože je problém budoucího sucha a hrozící nedostupnosti vody nejčastěji prezentován jako problém ekologický, z našeho pohledu je pravda výrazně smutnější. Jako viníka vidíme řadu kroků porevoluční politiky a mnoha politiků, kteří se pokrytecky už za pár týdnů chtějí nechat znovuzvolit do Poslanecké sněmovny.
