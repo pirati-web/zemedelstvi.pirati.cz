@@ -1,7 +1,7 @@
 ---
 date:         2020-01-29
 category:     blog
-tags:         vodohospodářství sněmovna životní-prostředí  krajinotvorba Dana-Balcarová Radek-Holomčík
+tags:         sněmovna Dana-Balcarová Radek-Holomčík životní-prostředí  krajinotvorba vodohospodářství sucho
 layout:       post
 title:        "Piráti: Novela vodního zákona řeší důsledky, nikoliv příčinu, chceme změnu přístupu ke krajině"
 image:        posts/radek_dana_voda.jpg
