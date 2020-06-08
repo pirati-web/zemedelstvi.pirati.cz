@@ -8,7 +8,6 @@ tags:
 - vodohospodářství
 - rybářství
 - myslivost
-- rostlinná
 author: Mediální odbor
 image: posts/2020-05-07-prerovska-koalice-vyslysela-po-roce-rady-opozice-bude-pouzivat-mozaikovou-sec-a-testuje-alternativy-za-glyfosat.jpg  #751x422 pixelu
 redirect_from:
