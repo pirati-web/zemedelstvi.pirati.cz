@@ -1,11 +1,11 @@
 ---
-layout: blog
+layout: post
 category: CLANKY
 title: 'Napajedelské noviny - Slavný hřebčín v ohrožení, rozšíření těžby štěrkopísku a pokusy radnice o otevřenost.'
 date: 2020-06-16
 author: Michal Štěpaník
 authorId: michal.stepanik
-image: /posts/nn.jpg  
+image: posts/nn.jpg  
 tags: živočišná-výroba hřebčín Napajedla Michal-Štěpaník vodohospodářství
 ---
 
