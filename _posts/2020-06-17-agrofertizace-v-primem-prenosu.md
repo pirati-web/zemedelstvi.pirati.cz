@@ -1,4 +1,3 @@
-
 ---
 date:         2020-06-17
 category:     blog
@@ -6,7 +5,7 @@ tags:         sněmovna zemědělství rostlinná-výroba živočišná-výroba 
 layout:       post
 title:        "Agrofertizace v přímém přenosu: Návrh zákona o evidenci skutečných majitelů ušili Babišovi na míru"
 image:        posts/bartos007.jpg
-author:       Dana Balcarová
+author:       Mediální odbor
 ---  
 
 Piráti spolu se STAN a KDU-ČSL připravili pozměňovací návrhy k zákonu o evidenci skutečných majitelů firem, který míří do Sněmovny. Ten by totiž ve stávající podobě umožňoval Andrejovi Babišovi využít účelové výjimky pro podniky zaparkované ve svěřenských fondech a tvrdit, že skutečným majitelem holdingu Agrofert není on.
