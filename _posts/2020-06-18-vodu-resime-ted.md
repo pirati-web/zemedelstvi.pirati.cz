@@ -36,7 +36,3 @@ Třetí pilíř „živá a udržitelná města“ popsal pirátský poslanec Fr
 [Vodu řešíme teď](https://voda.pirati.cz)
  
 ---
-
-**Kontakt pro média**
-
-Hana Hajnová, 721 684 323, <hana.hajnova@pirati.cz>
