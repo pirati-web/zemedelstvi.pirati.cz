@@ -1,7 +1,7 @@
 ---
 date:         2020-06-25
 category:     blog
-tags:         zemědělství soběstačnost rostlinná-výroba zahrádkářství Michal-Polák Radka-Pokorná 
+tags:         zemědělství soběstačnost zahrádkářství Michal-Polák Radka-Pokorná 
 layout:       post
 title:        "Metodika komunitních zahrad vám otevře dveře na úřadech"
 image:        posts/sazenice-do-hliny.jpg
