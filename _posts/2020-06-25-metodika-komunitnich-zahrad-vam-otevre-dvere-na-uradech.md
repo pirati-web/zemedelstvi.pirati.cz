@@ -25,3 +25,5 @@ V metodice jsou spíše věci, které lidem pomohou s argumentací na úřadech.
 
 **Radko, poprosil bych vás, abyste lidi, kteří třeba ještě nejsou rozhodnutí, že na Piratencon dorazí, navnadila informací, co všechno mohou ve vašem příspěvku očekávat?**
 Stručně projdu všechny zkušenosti a případná úskalí a budu ráda, když se návštěvníci budou co nejvíce ptát. Nepůjde o odbornou debatu, ale o předání hlavně praktických zkušeností, to ostatní se dočtou v knížce nebo v metodice. Pokud se sejde skupina, která už o tématu něco ví, půjdeme víc do hloubky.  
+
+*[Facebook událost](https://www.facebook.com/events/s/piratecon-komunitni-zahrady/583314608980424/)*
