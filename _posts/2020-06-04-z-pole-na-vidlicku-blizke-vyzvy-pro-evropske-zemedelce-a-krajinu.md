@@ -1,5 +1,5 @@
 ---
-date:         2020-06-03
+date:         2020-07-13
 category:     blog
 tags:         zemědělství potravinářství rostlinná-výroba živočišná-výroba Jiří-Lehejček životní-prostředí
 layout:       post
@@ -17,7 +17,7 @@ Ač by se mohlo zdát, že návrat českého zemědělství do soukromých rukou
 
 Ač byly při našem vstupu do EU velké naděje vkládány do mechanismů Společné zemědělské politiky, nastavení jejích konkrétních pravidel je v rukou členského státu. Historicky vynikající vztahy představitelů průmyslových agrokoncernů s vládou (v nedávné době pak dokonce úplné splynutí obou skupin) způsobily, že zdaleka největší díl ze společného koláče zemědělských dotací ukusují ti, jejichž osevní postup v drtivé většině nerespektuje potřeby půdy a využívají praktiky podporující erozi, čímž prohlubují problémy spojené se [suchem a úbytkem biodiverzity](https://mapy.vumop.cz/). 
 
-![Z farmy přímo na vidličku](https://zemedelstvi.pirati.cz/assets/posts/z_farm_na_vidlicku_2.jpg)
+![Z farmy přímo na vidličku](https://zemedelstvi.pirati.cz/assets/posts/4242.jpg)
 
 Není jiného hospodářského odvětví, které by dostávalo tak bezprecedentní podporu z veřejných rozpočtů EU (SZP EU se podílí na výdajích evropské kasy ze 40 %!) a přitom by tak často jednalo zcela proti veřejnému zájmu. Argumenty agrokoncernů, že alternativou je obrovské zdražení potravin, případně jejich dovoz (a tedy závislost) ze třetích zemí již dávno neobstojí. __Evropské ale i světové zemědělství je schopné vyprodukovat kvalitní, zdravé a klimaticky příznivé [potraviny v dostatečném množství](https://www.nature.com/articles/s41467-017-01410-w), aniž by si při tom vybíralo daň v krajině, kterou nakonec opět platíme my všichni.__ Vyžaduje to více znalostí i práce, nicméně kvůli současné evropské nadprodukci potravin a vysoké efektivitě práce to s sebou nemusí přinést zdražení. V každém případě, jejich všeobecná cenová dostupnost musí být řešena hospodářskou politikou a případně i sociálními programy, nikoli drahým ničením krajiny.
 
