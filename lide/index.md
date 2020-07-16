@@ -14,7 +14,7 @@ keywords: zemědělci, lesníci, rolníci, rybáři, myslivci, včelaři, zahrá
 
                             <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
                                 <li class="c-simple-accordion-item is-active" data-accordion-item="">
-                                    <h2><a href="#garant" class="c-simple-accordion-title">Garant programového bodu</a></h2>
+                                    <h1><a href="#garant" class="c-simple-accordion-title">Garant programového bodu</a></h1>
                                     <div id="garant" class="c-simple-accordion-content" data-tab-content="">
                                         {% assign team = site.people | where_exp:"item","item.categories contains 'garant'" | sort:"ordgarant" %}
                                         {% include people/list-2col.html param=team %}
@@ -23,7 +23,7 @@ keywords: zemědělci, lesníci, rolníci, rybáři, myslivci, včelaři, zahrá
                             </ul>
                             <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
                                 <li class="c-simple-accordion-item" data-accordion-item="">
-                                    <h2><a href="#snemovna" class="c-simple-accordion-title">Poslanci a poslankyně</a></h2>
+                                    <h1><a href="#snemovna" class="c-simple-accordion-title">Poslanci a poslankyně</a></h1>
                                     <div id="snemovna" class="c-simple-accordion-content" data-tab-content="">
                                         {% assign team = site.people | where_exp:"item","item.categories contains 'poslanec'" | sort:"ordpsp" %}
                                         {% include people/list-2col.html param=team %}
@@ -32,7 +32,7 @@ keywords: zemědělci, lesníci, rolníci, rybáři, myslivci, včelaři, zahrá
                             </ul>
                             <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
                                 <li class="c-simple-accordion-item" data-accordion-item="">
-                                    <h2><a href="#ket" class="c-simple-accordion-title">Krajští experti resortu</a></h2>
+                                    <h1><a href="#ket" class="c-simple-accordion-title">Krajští experti resortu</a></h1>
                                     <div id="ket" class="c-simple-accordion-content" data-tab-content="">
                                         <div class="c-simple-accordion-content-block">
                                             <h3>Zlínský kraj</h3>
