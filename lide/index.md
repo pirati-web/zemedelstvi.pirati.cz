@@ -10,12 +10,12 @@ keywords: zemědělci, lesníci, rolníci, rybáři, myslivci, včelaři, zahrá
     <div class="o-section">
       <div class="o-section-inner">
           <header class="c-page-header">
-            <h1 itemprop="headline" class="c-page-title">Garant programového bodu</h1>
+            {% assign garant = site.people | where: "category", "garant" %}
+            <h1 itemprop="headline" class="c-page-title">{{ staff_member.name }}Garant programového bodu</h1>
           </header>
-          {% assign tag = 'garant'  %}
           <ul>
           {% for staff_member in site.people %}
-            <h2>{{ staff_member.name }} - {{ staff_member.description | markdownify}}</h2>
+            <p><img src="{{ staff_member.img }}"><b>{{ staff_member.name }}</b> - {{ staff_member.description | markdownify}}</p>
           {% endfor %}
           </ul><hr><hr>
       </div>
