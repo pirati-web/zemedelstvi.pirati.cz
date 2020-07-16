@@ -11,13 +11,25 @@ keywords: zemědělci, lesníci, rolníci, rybáři, myslivci, včelaři, zahrá
       <div class="o-section-inner">
           <header class="c-page-header">
             {% assign garant = site.people | where: "category", "garant" %}
-            <h1 itemprop="headline" class="c-page-title">{{ staff_member.name }}Garant programového bodu</h1>
+            <h1 itemprop="headline" class="c-page-title">{{ garant.name }}Garant programového bodu</h1>
           </header>
-          <ul>
-          {% for staff_member in site.people %}
-            <p><img src="{{ staff_member.img }}"><b>{{ staff_member.name }}</b> - {{ staff_member.description | markdownify}}</p>
+          <hr><h1 itemprop="headline" class="c-page-title">Poslanci resortu zemědělství</h1>
+          {% for clen in site.people  | where: "category", "poslanec" %}
+            <p><img src="{{ clen.img }}"><b>{{ clen.name }}</b> - {{ clen.description | markdownify}}</p>
           {% endfor %}
-          </ul><hr><hr>
+          <hr><h1 itemprop="headline" class="c-page-title">Experti Středočeský kraj</h1>
+          {% for clen in site.people  | where: "category", "středočeský" %}
+            <p><img src="{{ clen.img }}"><b>{{ clen.name }}</b> - {{ clen.description | markdownify}}</p>
+          {% endfor %}        
+          <hr><h1 itemprop="headline" class="c-page-title">Experti Hl.m. Praha</h1>
+          {% for clen in site.people  | where: "category", "středočeský" %}
+            <p><img src="{{ clen.img }}"><b>{{ clen.name }}</b> - {{ clen.description | markdownify}}</p>
+          {% endfor %}   
+          <hr><h1 itemprop="headline" class="c-page-title">Experti Kraj Vysočina</h1>
+          {% for clen in site.people  | where: "category", "středočeský" %}
+            <p><img src="{{ clen.img }}"><b>{{ clen.name }}</b> - {{ clen.description | markdownify}}</p>
+          {% endfor %}   
+        <hr>
       </div>
     </div>
   </div>
