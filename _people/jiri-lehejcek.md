@@ -3,12 +3,12 @@ uid: jiri.lehejcek
 name:     Jiří Lehejček  	# běžně používáné jméno
 fullname: Mgr. Ing. Jiří Lehejček, Ph.D.  	# jméno s tituly etc.
 category:                   # kategorie: clenove
-- garant-programu
+- garant
 - zlínský
 - expert-lesník
 - expert-geograf
 - expert-geoekolog
-
+tags: garant
 img: people/jiri-lehejcek.jpg   # 165 x 220
 description: VŠ pedagog, polární ekolog # kratký popis, max 160 znaků
 mail:
