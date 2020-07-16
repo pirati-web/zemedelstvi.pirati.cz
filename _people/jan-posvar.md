@@ -5,9 +5,9 @@ titles:
   before:
   after:
 category:
-  - clenove
-  - pks
   - poslanec
+  - expert-programátor
+  - expert-řízení
 ordpks: 4
 description: 3. místopředseda Krajského sdružení Vysočina # zobrazuje se v lide
 profession: poslanec
