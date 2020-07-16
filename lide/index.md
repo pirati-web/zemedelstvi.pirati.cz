@@ -85,13 +85,13 @@ keywords: zemědělci, lesníci, rolníci, rybáři, myslivci, včelaři, zahrá
                                 </li>
                             </ul>
                             <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
-                                <li class="c-simple-accordion-item" data-accordion-item="">
-                                    <a href="#snemovna" class="c-simple-accordion-title"><h1>Poslanci a poslankyně</h1></a>
+                                <h1><li class="c-simple-accordion-item" data-accordion-item="">
+                                    <a href="#snemovna" class="c-simple-accordion-title">Poslanci a poslankyně</a>
                                     <div id="snemovna" class="c-simple-accordion-content" data-tab-content="">
                                         {% assign team = site.people | where_exp:"item","item.categories contains 'poslanec'" | sort:"ordpsp" %}
                                         {% include people/list-2col.html param=team %}
                                     </div>
-                                </li>
+                                </li></h1>
                             </ul>
                             <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
                                 <li class="c-simple-accordion-item" data-accordion-item="">
