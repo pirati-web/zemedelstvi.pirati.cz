@@ -10,7 +10,7 @@ keywords: zemědělci, lesníci, rolníci, rybáři, myslivci, včelaři, zahrá
     <div class="o-section">
       <div class="o-section-inner">
           <header class="c-page-header">
-            {% assign garant = site.people | where: "category", "garant" %}
+            {% assign garant = site.people | where: "tag", "garant" %}
             <h1 itemprop="headline" class="c-page-title">{{ garant.name }}Garant programového bodu</h1>
           </header>
           <hr><h1 itemprop="headline" class="c-page-title">Poslanci resortu zemědělství</h1>
