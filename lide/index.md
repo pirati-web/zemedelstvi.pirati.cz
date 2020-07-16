@@ -26,11 +26,7 @@ keywords: zemědělci, lesníci, rolníci, rybáři, myslivci, včelaři, zahrá
                                                     <ul>
                                                         <li>
                                                             <input type="checkbox" name="group[]" id="group1" value="">
-                                                            <label for="group1">Předsednictvo strany</label>
-                                                        </li>
-                                                        <li>
-                                                            <input type="checkbox" name="group[]" id="group7" value="">
-                                                            <label for="group7">Europoslanci a europoslankyně</label>
+                                                            <label for="group1">Garant programového bodu</label>
                                                         </li>
                                                         <li>
                                                             <input type="checkbox" name="group[]" id="group6" value="">
@@ -38,11 +34,7 @@ keywords: zemědělci, lesníci, rolníci, rybáři, myslivci, včelaři, zahrá
                                                         </li>
                                                         <li>
                                                             <input type="checkbox" name="group[]" id="group2" value="">
-                                                            <label for="group2">Krajští zastupitelé</label>
-                                                        </li>
-                                                        <li>
-                                                            <input type="checkbox" name="group[]" id="group3" value="">
-                                                            <label for="group3">Senátoři s podporou Pirátů</label>
+                                                            <label for="group2">Krajští experti</label>
                                                         </li>
                                                         <li class="spacer"></li>
                                                         <li>
