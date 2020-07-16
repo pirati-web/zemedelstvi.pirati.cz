@@ -11,73 +11,9 @@ keywords: zemědělci, lesníci, rolníci, rybáři, myslivci, včelaři, zahrá
                 <main class="o-section-block">
                     <div class="c-BasicPage">
                         <div class="c-BasicPage-content">
-                            {% comment %}
-                            <div class="c-BasicPage-header c-BasicPage-header--horizontal c-BasicPage-header--horizontal--mobilestacked">
-                                <h1 class="c-BasicPage__title"> Organizace </h1>
-                                <div class="c-BasicPage__meta">
-                                    <div class="c-BasicPage__meta-filters">
-                                        <div class="c-BasicPage__meta-filter-block">
-                                            <div class="c-BasicPage__meta-filters__title">Filtr</div>
-                                        </div>
-                                        <div class="c-BasicPage__meta-filter-block">
-                                            <div class="c-BasicPage__meta-filter">
-                                                <button class="c-BasicPage__meta-filter-btn" type="button" data-toggle="category-filters">Všechny kategorie</button>
-                                                <div class="c-BasicPage__meta-filter-dropdown" id="category-filters" style="display: none; " data-toggler="is-open">
-                                                    <ul>
-                                                        <li>
-                                                            <input type="checkbox" name="group[]" id="group1" value="">
-                                                            <label for="group1">Garant programového bodu</label>
-                                                        </li>
-                                                        <li>
-                                                            <input type="checkbox" name="group[]" id="group6" value="">
-                                                            <label for="group6">Poslanci a poslankyně</label>
-                                                        </li>
-                                                        <li>
-                                                            <input type="checkbox" name="group[]" id="group2" value="">
-                                                            <label for="group2">Krajští experti</label>
-                                                        </li>
-                                                        <li class="spacer"></li>
-                                                        <li>
-                                                            <input type="checkbox" name="group[]" id="group5" value="" checked="">
-                                                            <label for="group5">Všechny kategorie</label>
-                                                        </li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="c-BasicPage__meta-filter-block">
-                                            <div class="c-BasicPage__meta-filter">
-                                                <button class="c-BasicPage__meta-filter-btn" type="button" data-toggle="region-filters">Všechny kraje</button>
-                                                <div class="c-BasicPage__meta-filter-dropdown" id="region-filters" style="display: none; " data-toggler="is-open">
-                                                    <ul>
-                                                        <li>
-                                                            <input type="checkbox" name="group[]" id="region_group1" value="">
-                                                            <label for="region_group1">Středočeský kraj</label>
-                                                        </li>
-                                                        <li>
-                                                            <input type="checkbox" name="group[]" id="region_group2" value="">
-                                                            <label for="region_group2">Moravskoslezský kraj</label>
-                                                        </li>
-                                                        <li>
-                                                            <input type="checkbox" name="group[]" id="region_group3" value="">
-                                                            <label for="region_group3">Zlínský kraj</label>
-                                                        </li>
-                                                        <li class="spacer"></li>
-                                                        <li>
-                                                            <input type="checkbox" name="group[]" id="region_group4" value="" checked="">
-                                                            <label for="region_group4">Všechny kraje</label>
-                                                        </li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            {% endcomment %}
                             <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
                                 <li class="c-simple-accordion-item is-active" data-accordion-item="">
-                                    <a href="#garant" class="c-simple-accordion-title">Garant programového bodu</a>
+                                    <a href="#garant" class="c-simple-accordion-title">GARANT PROGRAMOVÉHO BODU</a>
                                     <div id="garant" class="c-simple-accordion-content" data-tab-content="">
                                         {% assign team = site.people | where_exp:"item","item.categories contains 'garant'" | sort:"ordgarant" %}
                                         {% include people/list-2col.html param=team %}
@@ -86,7 +22,7 @@ keywords: zemědělci, lesníci, rolníci, rybáři, myslivci, včelaři, zahrá
                             </ul>
                             <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
                                 <h1><li class="c-simple-accordion-item" data-accordion-item="">
-                                    <a href="#snemovna" class="c-simple-accordion-title">Poslanci a poslankyně</a>
+                                    <a href="#snemovna" class="c-simple-accordion-title">POSLANCI A POSLANKYNĚ</a>
                                     <div id="snemovna" class="c-simple-accordion-content" data-tab-content="">
                                         {% assign team = site.people | where_exp:"item","item.categories contains 'poslanec'" | sort:"ordpsp" %}
                                         {% include people/list-2col.html param=team %}
@@ -95,7 +31,7 @@ keywords: zemědělci, lesníci, rolníci, rybáři, myslivci, včelaři, zahrá
                             </ul>
                             <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
                                 <li class="c-simple-accordion-item" data-accordion-item="">
-                                    <a href="#ket" class="c-simple-accordion-title">Krajští experti resortu</a>
+                                    <a href="#ket" class="c-simple-accordion-title">KRAJŠTÍ EXPERTI RESORTU</a>
                                     <div id="ket" class="c-simple-accordion-content" data-tab-content="">
                                         <div class="c-simple-accordion-content-block">
                                             <h3>Zlínský kraj</h3>
