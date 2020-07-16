@@ -109,7 +109,7 @@ keywords: zemědělci, lesníci, rolníci, rybáři, myslivci, včelaři, zahrá
                                         </div>
                                         <div class="c-simple-accordion-content-block">
                                             <h3>Moravskoslezský kraj</h3>
-                                            {% assign team = site.people | where_exp:"item","item.categories contains 'moravskoslezský" %}
+                                            {% assign team = site.people | where_exp:"item","item.categories contains 'moravskoslezský'" %}
                                             {% include people/list-2col.html param=team %}
                                         </div>
                                         <div class="c-simple-accordion-content-block">
