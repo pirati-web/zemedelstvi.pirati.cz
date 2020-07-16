@@ -16,12 +16,8 @@ keywords: zemědělci, lesníci, rolníci, rybáři, myslivci, včelaři, zahrá
           <ul>
           {% for staff_member in site.people %}
             <h2>{{ staff_member.name }} - {{ staff_member.description | markdownify}}</h2>
-            <p><img src={{ staff_member.img  }}></p>
           {% endfor %}
           </ul><hr><hr>
-         {% assign posts=site.people %} 
-         {% include articles/list-responsive.html posts=posts %}
-         {% include articles/pagination.html paginator=paginator %}
       </div>
     </div>
   </div>
