@@ -34,17 +34,17 @@ keywords: zemědělci, lesníci, rolníci, rybáři, myslivci, včelaři, zahrá
                                     <a href="#ket"  class="c-simple-accordion-title">KRAJŠTÍ EXPERTI RESORTU</a>
                                     <div id="ket" class="c-simple-accordion-content" data-tab-content="">
                                         <div class="c-simple-accordion-content-block">
-                                            <h3>Zlínský kraj</h3>
+                                            <hr><h2>Zlínský kraj</h2><hr>
                                             {% assign team = site.people | where_exp:"item","item.categories contains 'zlínský'" %}
                                             {% include people/list-2col.html param=team %}
                                         </div>
                                       <div class="c-simple-accordion-content-block">
-                                            <h3>Kraj Vysočina</h3>
+                                            <hr><h2>Kraj Vysočina</h2><hr>
                                             {% assign team = site.people | where_exp:"item","item.categories contains 'vysočina'" %}
                                             {% include people/list-2col.html param=team %}
                                         </div>
                                         <div class="c-simple-accordion-content-block">
-                                            <h3>Moravskoslezský kraj</h3>
+                                            <hr><h2>Moravskoslezský kraj</h2><hr>
                                             {% assign team = site.people | where_exp:"item","item.categories contains 'moravskoslezský'" %}
                                             {% include people/list-2col.html param=team %}
                                         </div>
@@ -54,12 +54,12 @@ keywords: zemědělci, lesníci, rolníci, rybáři, myslivci, včelaři, zahrá
                                             {% include people/list-2col.html param=team %}
                                        </div>
                                        <div class="c-simple-accordion-content-block">
-                                            <h3>Plzeňský kraj</h3>
+                                            <h3>Plzeňský kraj</h2><hr>
                                             {% assign team = site.people | where_exp:"item","item.categories contains 'plzeňský'" %}
                                             {% include people/list-2col.html param=team %}
                                        </div>
                                         <div class="c-simple-accordion-content-block">
-                                            <h3>Ústecký kraj</h3>
+                                            <hr><h2>Ústecký kraj</h2><hr>
                                             {% assign team = site.people | where_exp:"item","item.categories contains 'ústecký'" %}
                                             {% include people/list-2col.html param=team %}
                                         </div>
@@ -69,7 +69,7 @@ keywords: zemědělci, lesníci, rolníci, rybáři, myslivci, včelaři, zahrá
                                             {% include people/list-2col.html param=team %}
                                         </div>
                                         <div class="c-simple-accordion-content-block">
-                                            <h3>Královéhradecký kraj</h3>
+                                            <h3>Královéhradecký kraj</h2><hr>
                                             {% assign team = site.people | where_exp:"item","item.categories contains 'hradec'" %}
                                             {% include people/list-2col.html param=team %}
                                        </div>
@@ -79,33 +79,31 @@ keywords: zemědělci, lesníci, rolníci, rybáři, myslivci, včelaři, zahrá
                                             {% include people/list-2col.html param=team %}
                                        </div>
                                         <div class="c-simple-accordion-content-block">
-                                            <h3>Liberecký kraj</h3>
+                                            <hr><h2>Liberecký kraj</h2><hr>
                                             {% assign team = site.people | where_exp:"item","item.categories contains 'liberecký'"%}
                                             {% include people/list-2col.html param=team %}
                                         </div>
                                         <div class="c-simple-accordion-content-block">
-                                            <h3>Pardubický kraj</h3>
+                                            <hr><h2>Pardubický kraj</h3>
                                             {% assign team = site.people | where_exp:"item","item.categories contains 'pardubický'" %}
                                             {% include people/list-2col.html param=team %}
                                         </div>
                                         <div class="c-simple-accordion-content-block">
-                                            <h3>Královéhradecký kraj</h3>
+                                            <h3>Královéhradecký kraj</h2><hr>
                                             {% assign team = site.people | where_exp:"item","item.categories contains 'královehradecký'" %}
                                             {% include people/list-2col.html param=team %}
                                        </div>
                                        <div class="c-simple-accordion-content-block">
-                                            <h3>Středočeský kraj</h3>
+                                            <hr><h2>Středočeský kraj</h2><hr>
                                             {% assign team = site.people | where_exp:"item","item.categories contains 'středočeský'" %}
                                             {% include people/list-2col.html param=team %}
                                        </div>
                                         <div class="c-simple-accordion-content-block">
-                                            <h3>Hlavní město Praha</h3>
+                                            <hr><h2>Hlavní město Praha</h3>
                                             {% assign team = site.people | where_exp:"item","item.categories contains 'praha'" | sort:"ordpraha" %}
                                             {% include people/list-2col.html param=team %}
                                         </div>
-                                  </div>
-
-                                </li>
+                                  </div></li>
                             </ul>
                         </div>
                     </div>
