@@ -8,6 +8,7 @@ category:                 	# kategorie: kandidat, pks, zastupitel
 - kontaktni_osoba
 - psp
 - poslanec
+- jihomoravský
 - expert-manager
 - expert-média
 
