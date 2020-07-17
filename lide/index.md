@@ -103,9 +103,7 @@ keywords: zemědělci, lesníci, rolníci, rybáři, myslivci, včelaři, zahrá
                                             {% assign team = site.people | where_exp:"item","item.categories contains 'praha'" | sort:"ordpraha" %}
                                             {% include people/list-2col.html param=team %}
                                         </div>
-                                  </div>
-
-                                </li>
+                                  </div></li>
                             </ul>
                         </div>
                     </div>
