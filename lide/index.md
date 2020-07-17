@@ -12,13 +12,13 @@ keywords: zemědělci, lesníci, rolníci, rybáři, myslivci, včelaři, zahrá
                     <div class="c-BasicPage">
                         <div class="c-BasicPage-content">
                             <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
-                                <li class="c-simple-accordion-item is-active" data-accordion-item="">
-                                  <a href="#garant"><h2>GARANT PROGRAMOVÉHO BODU</h2></a>
+                                <h2><li class="c-simple-accordion-item is-active" data-accordion-item="">
+                                  <a href="#garant">GARANT PROGRAMOVÉHO BODU</a>
                                     <div id="garant" class="c-simple-accordion-content" data-tab-content="">
                                         {% assign team = site.people | where_exp:"item","item.categories contains 'garant'" | sort:"ordgarant" %}
                                         {% include people/list-2col.html param=team %}
                                     </div>
-                                </li>
+                                </li></h2>
                             </ul>
                             <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
                                 <li class="c-simple-accordion-item" data-accordion-item="">
