@@ -6,6 +6,7 @@ titles:
   after:
 category:
   - poslanec
+  - vysočina
   - expert-programátor
   - expert-řízení
 ordpks: 4
