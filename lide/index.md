@@ -29,9 +29,9 @@ keywords: zemědělci, lesníci, rolníci, rybáři, myslivci, včelaři, zahrá
                                     </div>
                                 </li>
                             </ul>
-                            <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
-                                <li class="c-simple-accordion-item" data-accordion-item="">
-                                    <a href="#ket" class="page-title">KRAJŠTÍ EXPERTI RESORTU</a>
+                            <ul class="c-simple-accordion  content-block" data-accordion="" data-options="allowAllClosed: true">
+                                <li class="c-simple-accordion-item  content-block" data-accordion-item="">
+                                    <a href="#ket" class="content-block">KRAJŠTÍ EXPERTI RESORTU</a>
                                     <div id="ket" class="c-simple-accordion-content" data-tab-content="">
                                         <div class="c-simple-accordion-content-block">
                                             <h3>Zlínský kraj</h3>
