@@ -12,13 +12,13 @@ keywords: zemědělci, lesníci, rolníci, rybáři, myslivci, včelaři, zahrá
                     <div class="c-BasicPage">
                         <div class="c-BasicPage-content">
                             <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
-                                <h2><li class="c-simple-accordion-item is-active" data-accordion-item="">
+                                <li class="c-simple-accordion-item is-active" data-accordion-item="">
                                   <a href="#garant">GARANT PROGRAMOVÉHO BODU</a>
                                     <div id="garant" class="c-simple-accordion-content" data-tab-content="">
                                         {% assign team = site.people | where_exp:"item","item.categories contains 'garant'" | sort:"ordgarant" %}
                                         {% include people/list-2col.html param=team %}
                                     </div>
-                                </li></h2>
+                                </li>
                             </ul>
                             <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
                                 <li class="c-simple-accordion-item" data-accordion-item="">
@@ -31,7 +31,7 @@ keywords: zemědělci, lesníci, rolníci, rybáři, myslivci, včelaři, zahrá
                             </ul>
                             <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
                                 <li class="c-simple-accordion-item" data-accordion-item="">
-                                    <a href="#ket" class="c-simple-accordion-title">KRAJŠTÍ EXPERTI RESORTU</a>
+                                     <h3><a href="#ket" class="c-simple-accordion-title">KRAJŠTÍ EXPERTI RESORTU</a></h3>
                                     <div id="ket" class="c-simple-accordion-content" data-tab-content="">
                                         <div class="c-simple-accordion-content-block">
                                             <h3>Zlínský kraj</h3>
