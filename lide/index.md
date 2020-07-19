@@ -13,7 +13,7 @@ keywords: zemědělci, lesníci, rolníci, rybáři, myslivci, včelaři, zahrá
                         <div class="c-BasicPage-content">
                             <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
                                 <li class="c-simple-accordion-item is-active" data-accordion-item="">
-                                  <a href="#garant" class="c-simple-accordion-title"><hr><h3>GARANT PROGRAMOVÉHO BODU</h3><hr></a>                               
+                                  <a href="#garant" class="c-simple-accordion-title"><hr><h3>GARANT PROGRAMOVÉHO BODU</h3><hr></a>
                                     <div id="garant" class="c-simple-accordion-content" data-tab-content="">
                                         {% assign team = site.people | where_exp:"item","item.categories contains 'garant'" | sort:"ordgarant" %}
                                         {% include people/list-2col.html param=team %}
@@ -52,10 +52,8 @@ keywords: zemědělci, lesníci, rolníci, rybáři, myslivci, včelaři, zahrá
                                             {% include people/list-2col.html param=team %}
                                        </div></div>
                                 </li>
-                            </ul>
-                            <ul class="c-simple-accordion  content-block" data-accordion="" data-options="allowAllClosed: true">
                                 <li class="c-simple-accordion-item  content-block" data-accordion-item="">
-                                    <a href="#ketplzensky"  class="c-simple-accordion-title"><hr><h3>EXPERTI RESORTU - PLZEŇSKÝ KRAJ</h3><hr></a>                 
+                                    <a href="#ketplzensky"  class="c-simple-accordion-title"><hr><h3>EXPERTI RESORTU - PLZEŇSKÝ KRAJ</h3><hr></a>
                                     <div id="ketplzensky" class="c-simple-accordion-content" data-tab-content="">
                                        <div class="c-simple-accordion-content-block">
                                             {% assign team = site.people | where_exp:"item","item.categories contains 'plzeňský'" %}
@@ -94,7 +92,6 @@ keywords: zemědělci, lesníci, rolníci, rybáři, myslivci, včelaři, zahrá
                                     <a href="#ketjihomoravsky"  class="c-simple-accordion-title"><hr><h3>EXPERTI RESORTU - JIHOMORAVSKÝ KRAJ</h3><hr></a>
                                       <div id="ketjihomoravsky" class="c-simple-accordion-content" data-tab-content="">
                                        <div class="c-simple-accordion-content-block">
-                                            <br><br><hr><h1>Jihomoravský kraj</h1>
                                             {% assign team = site.people | where_exp:"item","item.categories contains 'jihomoravský'" %}
                                             {% include people/list-2col.html param=team %}
                                        </div>
