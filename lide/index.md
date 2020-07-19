@@ -46,9 +46,7 @@ keywords: zemědělci, lesníci, rolníci, rybáři, myslivci, včelaři, zahrá
                                     <div id="ketvysocina" class="c-simple-accordion-content" data-tab-content="">									
                                         <div class="c-simple-accordion-content-block">
                                             {% assign team = site.people | where_exp:"item","item.categories contains 'vysočina'" %}
-                                            {% include people/list-2col.html param=team %}
-                                        </div>
-								                    </div>	
+                                          {% include people/list-2col.html param=team %}</div></div>
                                 </li>
                             </ul>
                             <ul class="c-simple-accordion  content-block" data-accordion="" data-options="allowAllClosed: true">
@@ -58,11 +56,9 @@ keywords: zemědělci, lesníci, rolníci, rybáři, myslivci, včelaři, zahrá
                                         <div class="c-simple-accordion-content-block">
                                             {% assign team = site.people | where_exp:"item","item.categories contains 'moravskoslezský'" %}
                                             {% include people/list-2col.html param=team %}
-                                        </div>
-									                   </div>	
+                                        </div></div>	
                                  </li>
                             </ul>
-
                         </div>
                     </div>
                 </main>
