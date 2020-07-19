@@ -141,7 +141,6 @@ keywords: zemědělci, lesníci, rolníci, rybáři, myslivci, včelaři, zahrá
                                      </div>
                                    </li>
                             </ul>
-                        </div>
                     </div>
                 </main>
             </div>
