@@ -6,6 +6,7 @@ category:
   - clenove
   - zastupitel
   - zastupitel_turnov
+  - liberecký  
 ordzastupitel: 3  
 ordclenove: 3  
 description: Vlakvedoucí, zastupitel města Turnov

@@ -5,7 +5,7 @@ fullname: Jiří Šťastný   	# jméno s tituly etc.
 category:
   - clenove
   - kandidat-obec
-  - ústecký
+  - liberecký
 ordclenove: 2
 description:  včelař, student TUL - krizové řízení
 img: people/jiri-stastny.jpg # zakomentuj radek dokud není fotka

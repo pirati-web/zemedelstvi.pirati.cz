@@ -5,6 +5,7 @@ fullname: Bc. Kateřina Jínová  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
 - zastupitel
 - zastupitel_ostatni
+- liberecký
 ordzastupitel: 1
 ordkodo: 2
 img: people/katerina-jinova.jpg   # 165 x 220

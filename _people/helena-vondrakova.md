@@ -5,6 +5,7 @@ fullname: Helena Vondráková  		# jméno s tituly etc.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - pks
 - zastupitel_ostatni
+- liberecký
 ordzastupitel: 2
 ordpks: 2
 img: people/helena-vondrakova.jpg           # 165 x 220
