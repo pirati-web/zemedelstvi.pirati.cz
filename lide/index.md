@@ -13,171 +13,138 @@ keywords: zemědělci, lesníci, rolníci, rybáři, myslivci, včelaři, zahrá
                         <div class="c-BasicPage-content">
                             <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
                                 <li class="c-simple-accordion-item is-active" data-accordion-item="">
-                                  <a href="#garant" class="c-simple-accordion-title">GARANT PROGRAMOVÉHO BODU</a>
+                                  <a href="#garant" class="c-simple-accordion-title"><h4>GARANT PROGRAMOVÉHO BODU</h4></a>
                                     <div id="garant" class="c-simple-accordion-content" data-tab-content="">
                                         {% assign team = site.people | where_exp:"item","item.categories contains 'garant'" | sort:"ordgarant" %}
                                         {% include people/list-2col.html param=team %}
                                     </div>
                                 </li>
-                            </ul>
-                            <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
                                 <li class="c-simple-accordion-item" data-accordion-item="">
-                                    <a href="#snemovna" class="c-simple-accordion-title"><hr><h1>POSLANCI A POSLANKYNĚ</a>
+                                    <a href="#snemovna" class="c-simple-accordion-title"><h4>POSLANCI A POSLANKYNĚ</h4></a>
                                     <div id="snemovna" class="c-simple-accordion-content" data-tab-content="">
                                         {% assign team = site.people | where_exp:"item","item.categories contains 'poslanec'" | sort:"ordpsp" %}
                                         {% include people/list-2col.html param=team %}
                                     </div>
                                 </li>
-                            </ul>
-                            <ul class="c-simple-accordion  content-block" data-accordion="" data-options="allowAllClosed: true">
                                 <li class="c-simple-accordion-item  content-block" data-accordion-item="">
-                                    <a href="#ketzlinsky"  class="c-simple-accordion-title"><hr><h1>EXPERTI RESORTU - ZLÍNSKÝ KRAJ</h1><hr></a>
+                                    <a href="#ketolomoucky"  class="c-simple-accordion-title"><h4>EXPERTI RESORTU - OLOMOUCKÝ KRAJ</h4></a>
+                                    <div id="ketolomoucky" class="c-simple-accordion-content" data-tab-content="">
+                                        <div class="c-simple-accordion-content-block">
+                                            {% assign team = site.people | where_exp:"item","item.categories contains 'olomoucký'" %}
+                                            {% include people/list-2col.html param=team %}
+                                        </div></div></li>
+                                <li class="c-simple-accordion-item  content-block" data-accordion-item="">
+                                    <a href="#ketzlinsky"  class="c-simple-accordion-title"><h4>EXPERTI RESORTU - ZLÍNSKÝ KRAJ</h4></a>
                                     <div id="ketzlinsky" class="c-simple-accordion-content" data-tab-content="">
                                         <div class="c-simple-accordion-content-block">
                                             {% assign team = site.people | where_exp:"item","item.categories contains 'zlínský'" %}
                                             {% include people/list-2col.html param=team %}
+                                        </div></div></li>                              
+                                <li class="c-simple-accordion-item" data-accordion-item="">                                  
+                                    <a href="#ketvysocina" class="c-simple-accordion-title"><h4>EXPERTI RESORTU - KRAJ VYSOČINA</h4></a>
+                                    <div id="ketvysocina" class="c-simple-accordion-content" data-tab-content="">
+                                        <div class="c-simple-accordion-content-block">
+                                            {% assign team = site.people | where_exp:"item","item.categories contains 'vysočina'" %}
+                                          {% include people/list-2col.html param=team %}
                                         </div>
                                     </div>
                                 </li>
-                            </ul>
-                            <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
-                                <li class="c-simple-accordion-item" data-accordion-item="">
-                                    <a href="#ketvysocina" class="c-simple-accordion-title"><hr><h1>EXPERTI RESORTU - KRAJ VYSOČINA</h1><hr></a>
-                                    <div id="ketvysocina" class="c-simple-accordion-content" data-tab-content="">									
-                                        <div class="c-simple-accordion-content-block">
-                                            {% assign team = site.people | where_exp:"item","item.categories contains 'vysočina'" %}
-                                            {% include people/list-2col.html param=team %}
-                                        </div>
-								                    </div>	
-                                </li>
-                            </ul>
-                            <ul class="c-simple-accordion  content-block" data-accordion="" data-options="allowAllClosed: true">
                                 <li class="c-simple-accordion-item  content-block" data-accordion-item="">
-                                    <a href="#ketmoravskoslezsky"  class="c-simple-accordion-title"><hr><h1>EXPERTI RESORTU - MORAVSKOSLEZSKÝ KRAJ</h1><hr></a>
-                                    <div id="ketmoravskoslezsky" class="c-simple-accordion-content" data-tab-content="">								
+                                    <a href="#ketmoravskoslezsky"  class="c-simple-accordion-title"><h4>EXPERTI RESORTU - MORAVSKOSLEZSKÝ KRAJ</h4></a>
+                                    <div id="ketmoravskoslezsky" class="c-simple-accordion-content" data-tab-content="">
                                         <div class="c-simple-accordion-content-block">
                                             {% assign team = site.people | where_exp:"item","item.categories contains 'moravskoslezský'" %}
                                             {% include people/list-2col.html param=team %}
                                         </div>
-									                   </div>	
+                                  </div>
                                  </li>
-                            </ul>
-                            <ul class="c-simple-accordion  content-block" data-accordion="" data-options="allowAllClosed: true">
                                 <li class="c-simple-accordion-item  content-block" data-accordion-item="">
-                                    <a href="#ketjihocesky"  class="c-simple-accordion-title"><hr><h1>EXPERTI RESORTU - JIHOČESKÝ KRAJ</h1><hr></a>
-								                   	<div id="ketjihocesky" class="c-simple-accordion-content" data-tab-content="">									
+                                    <a href="#ketjihocesky"  class="c-simple-accordion-title"><h4>EXPERTI RESORTU - JIHOČESKÝ KRAJ</h4></a>
+                                    <div id="ketjihocesky" class="c-simple-accordion-content" data-tab-content="">
                                         <div class="c-simple-accordion-content-block">
                                             {% assign team = site.people | where_exp:"item","item.categories contains 'jihočeský'" %}
                                             {% include people/list-2col.html param=team %}
-                                       </div>
-									                  </div>   
+                                       </div></div>
                                 </li>
-                            </ul>
-                            <ul class="c-simple-accordion  content-block" data-accordion="" data-options="allowAllClosed: true">
                                 <li class="c-simple-accordion-item  content-block" data-accordion-item="">
-                                    <a href="#ketplzensky"  class="c-simple-accordion-title"><hr><h1>EXPERTI RESORTU - PLZEŇSKÝ KRAJ</h1><hr></a>                 
-									                  <div id="ketplzensky" class="c-simple-accordion-content" data-tab-content="">	
+                                    <a href="#ketplzensky"  class="c-simple-accordion-title"><h4>EXPERTI RESORTU - PLZEŇSKÝ KRAJ</h4></a>
+                                    <div id="ketplzensky" class="c-simple-accordion-content" data-tab-content="">
                                        <div class="c-simple-accordion-content-block">
                                             {% assign team = site.people | where_exp:"item","item.categories contains 'plzeňský'" %}
                                             {% include people/list-2col.html param=team %}
                                        </div>
-                                    </div>									   
+                                    </div>
                                 </li>
-                            </ul>
-                            <ul class="c-simple-accordion  content-block" data-accordion="" data-options="allowAllClosed: true">
                                 <li class="c-simple-accordion-item  content-block" data-accordion-item="">
-                                    <a href="#ketplzensky"  class="c-simple-accordion-title"><hr><h1>EXPERTI RESORTU - ÚSTECKÝ KRAJ</h1><hr></a>
-									                  <div id="ketplzensky" class="c-simple-accordion-content" data-tab-content="">									
+                                    <a href="#ketustecky"  class="c-simple-accordion-title"><h4>EXPERTI RESORTU - ÚSTECKÝ KRAJ</h4></a>
+                                      <div id="ketustecky" class="c-simple-accordion-content" data-tab-content="">
                                         <div class="c-simple-accordion-content-block">
                                             {% assign team = site.people | where_exp:"item","item.categories contains 'ústecký'" %}
                                             {% include people/list-2col.html param=team %}
                                         </div>
-									                  </div>	
+                                      </div>
                                 </li>
-                            </ul>
-                            <ul class="c-simple-accordion  content-block" data-accordion="" data-options="allowAllClosed: true">
                                 <li class="c-simple-accordion-item  content-block" data-accordion-item="">
-                                    <a href="#ketkarlovarsky"  class="c-simple-accordion-title"><hr><h1>EXPERTI RESORTU - KARLOVARSKÝ KRAJ</h1><hr></a>
-									                  <div id="ketkarlovarsky" class="c-simple-accordion-content" data-tab-content="">									
+                                    <a href="#ketkarlovarsky"  class="c-simple-accordion-title"><h4>EXPERTI RESORTU - KARLOVARSKÝ KRAJ</h4></a>
+                                        <div id="ketkarlovarsky" class="c-simple-accordion-content" data-tab-content="">
                                         <div class="c-simple-accordion-content-block">
                                             {% assign team = site.people | where_exp:"item","item.categories contains 'karlovarský'" %}
                                             {% include people/list-2col.html param=team %}
                                         </div>
-									                  </div>	
+                                      </div>
                                 </li>
-                            </ul>
-                            <ul class="c-simple-accordion  content-block" data-accordion="" data-options="allowAllClosed: true">
                                 <li class="c-simple-accordion-item  content-block" data-accordion-item="">
-                                    <a href="#ketkarlovarsky"  class="c-simple-accordion-title"><hr><h1>EXPERTI RESORTU - KRÁLOVÉHRADECKÝ KRAJ</h1><hr></a>
-									                  <div id="ketkarlovarsky" class="c-simple-accordion-content" data-tab-content="">									
+                                    <a href="#ketkralovehradecky"  class="c-simple-accordion-title"><h4>EXPERTI RESORTU - KRÁLOVÉHRADECKÝ KRAJ</h4></a>
+                                      <div id="ketkralovehradecky" class="c-simple-accordion-content" data-tab-content="">
                                         <div class="c-simple-accordion-content-block">
                                             {% assign team = site.people | where_exp:"item","item.categories contains 'královéhradecký'" %}
                                             {% include people/list-2col.html param=team %}
                                        </div>
-									                  </div>   
+                                      </div>
                                 </li>
-                            </ul>
-                            <ul class="c-simple-accordion  content-block" data-accordion="" data-options="allowAllClosed: true">
                                 <li class="c-simple-accordion-item  content-block" data-accordion-item="">
-                                    <a href="#ketjihomoravsky"  class="c-simple-accordion-title"><hr><h1>EXPERTI RESORTU - JIHOMORAVSKÝ KRAJ</h1><hr></a>
-									                  <div id="ketjihomoravsky" class="c-simple-accordion-content" data-tab-content="">									
+                                    <a href="#ketjihomoravsky"  class="c-simple-accordion-title"><h4>EXPERTI RESORTU - JIHOMORAVSKÝ KRAJ</h4></a>
+                                      <div id="ketjihomoravsky" class="c-simple-accordion-content" data-tab-content="">
                                        <div class="c-simple-accordion-content-block">
-                                            <br><br><hr><h1>Jihomoravský kraj</h1>
                                             {% assign team = site.people | where_exp:"item","item.categories contains 'jihomoravský'" %}
                                             {% include people/list-2col.html param=team %}
                                        </div>
-									                  </div>   
+                                      </div>   
                                 </li>
-                            </ul>
-                            <ul class="c-simple-accordion  content-block" data-accordion="" data-options="allowAllClosed: true">
                                 <li class="c-simple-accordion-item  content-block" data-accordion-item="">
-                                    <a href="#ketliberecky"  class="c-simple-accordion-title"><hr><h1>EXPERTI RESORTU - LIBERECKÝ KRAJ</h1><hr></a>
-									                  <div id="ketliberecky" class="c-simple-accordion-content" data-tab-content="">									
+                                    <a href="#ketliberecky"  class="c-simple-accordion-title"><h4>EXPERTI RESORTU - LIBERECKÝ KRAJ</h4></a>
+                                      <div id="ketliberecky" class="c-simple-accordion-content" data-tab-content="">
                                         <div class="c-simple-accordion-content-block">
                                             {% assign team = site.people | where_exp:"item","item.categories contains 'liberecký'"%}
                                             {% include people/list-2col.html param=team %}
                                         </div>
-									                  </div>	
+                                      </div>
                                 </li>
-                            </ul>
-                            <ul class="c-simple-accordion  content-block" data-accordion="" data-options="allowAllClosed: true">
                                 <li class="c-simple-accordion-item  content-block" data-accordion-item="">
-                                    <a href="#ketpardubicky"  class="c-simple-accordion-title"><hr><h1>EXPERTI RESORTU - PARDUBICKÝ KRAJ</h1><hr></a>
-									                  <div id="ketpardubicky" class="c-simple-accordion-content" data-tab-content="">											
+                                    <a href="#ketpardubicky"  class="c-simple-accordion-title"><h4>EXPERTI RESORTU - PARDUBICKÝ KRAJ</h4></a>
+                                      <div id="ketpardubicky" class="c-simple-accordion-content" data-tab-content="">
                                         <div class="c-simple-accordion-content-block">
                                             {% assign team = site.people | where_exp:"item","item.categories contains 'pardubický'" %}
                                             {% include people/list-2col.html param=team %}
                                         </div>
-									                  </div>	
+                                      </div>
                                 </li>
-                            </ul>
-                            <ul class="c-simple-accordion  content-block" data-accordion="" data-options="allowAllClosed: true">
                                 <li class="c-simple-accordion-item  content-block" data-accordion-item="">
-                                    <a href="#ketstredocesky"  class="c-simple-accordion-title"><hr><h1>EXPERTI RESORTU - STŘEDOČESKÝ KRAJ</h1><hr></a>
-								                  	<div id="ketstredocesky" class="c-simple-accordion-content" data-tab-content="">										
+                                    <a href="#ketstredocesky"  class="c-simple-accordion-title"><h4>EXPERTI RESORTU - STŘEDOČESKÝ KRAJ</h4></a>
+                                      <div id="ketstredocesky" class="c-simple-accordion-content" data-tab-content="">
                                         <div class="c-simple-accordion-content-block">
                                             {% assign team = site.people | where_exp:"item","item.categories contains 'středočeský'" %}
                                             {% include people/list-2col.html param=team %}
                                         </div>
-									                  </div>   
+                                      </div>
                                 </li>
-                            </ul>
-                            <ul class="c-simple-accordion  content-block" data-accordion="" data-options="allowAllClosed: true">
                                 <li class="c-simple-accordion-item  content-block" data-accordion-item="">
-                                    <a href="#ketpraha"  class="c-simple-accordion-title"><hr><h1>EXPERTI RESORTU - HLAVNÍ MĚSTO PRAHA</h1><hr></a>
-									                  <div id="ketpraha" class="c-simple-accordion-content" data-tab-content="">
+                                    <a href="#ketpraha"  class="c-simple-accordion-title"><h4>EXPERTI RESORTU - HLAVNÍ MĚSTO PRAHA</h4></a>
+                                      <div id="ketpraha" class="c-simple-accordion-content" data-tab-content="">
                                         <div class="c-simple-accordion-content-block">
                                             {% assign team = site.people | where_exp:"item","item.categories contains 'praha'" | sort:"ordpraha" %}
                                             {% include people/list-2col.html param=team %}
                                         </div>
-                                     </div>
-								                 </li>
-                            </ul>
-                        </div>
-                    </div>
-                </main>
-            </div>
-        </section>
-        <!-- /. o-section -->
+                                     </div></li></ul></div></div></main></div></section>
     </div>
 </div>
