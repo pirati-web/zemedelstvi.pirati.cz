@@ -40,13 +40,10 @@ keywords: zemědělci, lesníci, rolníci, rybáři, myslivci, včelaři, zahrá
                                         <div class="c-simple-accordion-content-block">
                                             {% assign team = site.people | where_exp:"item","item.categories contains 'zlínský'" %}
                                             {% include people/list-2col.html param=team %}
-                                        </div>
-                                    </div>
-                                </li>
-                            </ul>
-                            <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
+                                        </div></div></li>
+                            </ul><ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
                                 <li class="c-simple-accordion-item" data-accordion-item="">
-                                    <a href="#ketvysocina" class="c-simple-accordion-title"><hr><h1>EXPERTI RESORTU - KRAJ VYSOČINA</h1><hr></a>
+                                    <a href="#ketvysocina" class="c-simple-accordion-title"><hr><h3>EXPERTI RESORTU - KRAJ VYSOČINA</h3><hr></a>
                                     <div id="ketvysocina" class="c-simple-accordion-content" data-tab-content="">									
                                         <div class="c-simple-accordion-content-block">
                                             {% assign team = site.people | where_exp:"item","item.categories contains 'vysočina'" %}
@@ -57,7 +54,7 @@ keywords: zemědělci, lesníci, rolníci, rybáři, myslivci, včelaři, zahrá
                             </ul>
                             <ul class="c-simple-accordion  content-block" data-accordion="" data-options="allowAllClosed: true">
                                 <li class="c-simple-accordion-item  content-block" data-accordion-item="">
-                                    <a href="#ketmoravskoslezsky"  class="c-simple-accordion-title"><hr><h1>EXPERTI RESORTU - MORAVSKOSLEZSKÝ KRAJ</h1><hr></a>
+                                    <a href="#ketmoravskoslezsky"  class="c-simple-accordion-title"><hr><h3>EXPERTI RESORTU - MORAVSKOSLEZSKÝ KRAJ</h3><hr></a>
                                     <div id="ketmoravskoslezsky" class="c-simple-accordion-content" data-tab-content="">								
                                         <div class="c-simple-accordion-content-block">
                                             {% assign team = site.people | where_exp:"item","item.categories contains 'moravskoslezský'" %}
@@ -68,7 +65,7 @@ keywords: zemědělci, lesníci, rolníci, rybáři, myslivci, včelaři, zahrá
                             </ul>
                                 <ul class="c-simple-accordion  content-block" data-accordion="" data-options="allowAllClosed: true">
                                 <li class="c-simple-accordion-item  content-block" data-accordion-item="">
-                                    <a href="#ketjihocesky"  class="c-simple-accordion-title"><hr><h1>EXPERTI RESORTU - JIHOČESKÝ KRAJ</h1><hr></a>
+                                    <a href="#ketjihocesky"  class="c-simple-accordion-title"><hr><h3>EXPERTI RESORTU - JIHOČESKÝ KRAJ</h3><hr></a>
 								                   	<div id="ketjihocesky" class="c-simple-accordion-content" data-tab-content="">									
                                         <div class="c-simple-accordion-content-block">
                                             {% assign team = site.people | where_exp:"item","item.categories contains 'jihočeský'" %}
@@ -79,7 +76,7 @@ keywords: zemědělci, lesníci, rolníci, rybáři, myslivci, včelaři, zahrá
                             </ul>
                             <ul class="c-simple-accordion  content-block" data-accordion="" data-options="allowAllClosed: true">
                                 <li class="c-simple-accordion-item  content-block" data-accordion-item="">
-                                    <a href="#ketplzensky"  class="c-simple-accordion-title"><hr><h1>EXPERTI RESORTU - PLZEŇSKÝ KRAJ</h1><hr></a>                 
+                                    <a href="#ketplzensky"  class="c-simple-accordion-title"><hr><h3>EXPERTI RESORTU - PLZEŇSKÝ KRAJ</h3><hr></a>                 
 									                  <div id="ketplzensky" class="c-simple-accordion-content" data-tab-content="">	
                                        <div class="c-simple-accordion-content-block">
                                             {% assign team = site.people | where_exp:"item","item.categories contains 'plzeňský'" %}
@@ -90,7 +87,7 @@ keywords: zemědělci, lesníci, rolníci, rybáři, myslivci, včelaři, zahrá
                             </ul>
                             <ul class="c-simple-accordion  content-block" data-accordion="" data-options="allowAllClosed: true">
                                 <li class="c-simple-accordion-item  content-block" data-accordion-item="">
-                                    <a href="#ketplzensky"  class="c-simple-accordion-title"><hr><h1>EXPERTI RESORTU - ÚSTECKÝ KRAJ</h1><hr></a>
+                                    <a href="#ketplzensky"  class="c-simple-accordion-title"><hr><h3>EXPERTI RESORTU - ÚSTECKÝ KRAJ</h3><hr></a>
 									                  <div id="ketplzensky" class="c-simple-accordion-content" data-tab-content="">									
                                         <div class="c-simple-accordion-content-block">
                                             {% assign team = site.people | where_exp:"item","item.categories contains 'ústecký'" %}
@@ -101,7 +98,7 @@ keywords: zemědělci, lesníci, rolníci, rybáři, myslivci, včelaři, zahrá
                             </ul>
                             <ul class="c-simple-accordion  content-block" data-accordion="" data-options="allowAllClosed: true">
                                 <li class="c-simple-accordion-item  content-block" data-accordion-item="">
-                                    <a href="#ketkarlovarsky"  class="c-simple-accordion-title"><hr><h1>EXPERTI RESORTU - KARLOVARSKÝ KRAJ</h1><hr></a>
+                                    <a href="#ketkarlovarsky"  class="c-simple-accordion-title"><hr><h3>EXPERTI RESORTU - KARLOVARSKÝ KRAJ</h3><hr></a>
 									                  <div id="ketkarlovarsky" class="c-simple-accordion-content" data-tab-content="">									
                                         <div class="c-simple-accordion-content-block">
                                             {% assign team = site.people | where_exp:"item","item.categories contains 'karlovarský'" %}
@@ -112,7 +109,7 @@ keywords: zemědělci, lesníci, rolníci, rybáři, myslivci, včelaři, zahrá
                             </ul>
                             <ul class="c-simple-accordion  content-block" data-accordion="" data-options="allowAllClosed: true">
                                 <li class="c-simple-accordion-item  content-block" data-accordion-item="">
-                                    <a href="#ketkarlovarsky"  class="c-simple-accordion-title"><hr><h1>EXPERTI RESORTU - KRÁLOVÉHRADECKÝ KRAJ</h1><hr></a>
+                                    <a href="#ketkarlovarsky"  class="c-simple-accordion-title"><hr><h3>EXPERTI RESORTU - KRÁLOVÉHRADECKÝ KRAJ</h3><hr></a>
 									                  <div id="ketkarlovarsky" class="c-simple-accordion-content" data-tab-content="">									
                                         <div class="c-simple-accordion-content-block">
                                             {% assign team = site.people | where_exp:"item","item.categories contains 'královéhradecký'" %}
@@ -123,7 +120,7 @@ keywords: zemědělci, lesníci, rolníci, rybáři, myslivci, včelaři, zahrá
                             </ul>
                             <ul class="c-simple-accordion  content-block" data-accordion="" data-options="allowAllClosed: true">
                                 <li class="c-simple-accordion-item  content-block" data-accordion-item="">
-                                    <a href="#ketjihomoravsky"  class="c-simple-accordion-title"><hr><h1>EXPERTI RESORTU - JIHOMORAVSKÝ KRAJ</h1><hr></a>
+                                    <a href="#ketjihomoravsky"  class="c-simple-accordion-title"><hr><h3>EXPERTI RESORTU - JIHOMORAVSKÝ KRAJ</h3><hr></a>
 									                  <div id="ketjihomoravsky" class="c-simple-accordion-content" data-tab-content="">									
                                        <div class="c-simple-accordion-content-block">
                                             <br><br><hr><h1>Jihomoravský kraj</h1>
@@ -135,7 +132,7 @@ keywords: zemědělci, lesníci, rolníci, rybáři, myslivci, včelaři, zahrá
                             </ul>
                             <ul class="c-simple-accordion  content-block" data-accordion="" data-options="allowAllClosed: true">
                                 <li class="c-simple-accordion-item  content-block" data-accordion-item="">
-                                    <a href="#ketliberecky"  class="c-simple-accordion-title"><hr><h1>EXPERTI RESORTU - LIBERECKÝ KRAJ</h1><hr></a>
+                                    <a href="#ketliberecky"  class="c-simple-accordion-title"><hr><h3>EXPERTI RESORTU - LIBERECKÝ KRAJ</h3><hr></a>
 									                  <div id="ketliberecky" class="c-simple-accordion-content" data-tab-content="">									
                                         <div class="c-simple-accordion-content-block">
                                             {% assign team = site.people | where_exp:"item","item.categories contains 'liberecký'"%}
@@ -146,7 +143,7 @@ keywords: zemědělci, lesníci, rolníci, rybáři, myslivci, včelaři, zahrá
                             </ul>
                             <ul class="c-simple-accordion  content-block" data-accordion="" data-options="allowAllClosed: true">
                                 <li class="c-simple-accordion-item  content-block" data-accordion-item="">
-                                    <a href="#ketpardubicky"  class="c-simple-accordion-title"><hr><h1>EXPERTI RESORTU - PARDUBICKÝ KRAJ</h1><hr></a>
+                                    <a href="#ketpardubicky"  class="c-simple-accordion-title"><hr><h3>EXPERTI RESORTU - PARDUBICKÝ KRAJ</h3><hr></a>
 									                  <div id="ketpardubicky" class="c-simple-accordion-content" data-tab-content="">											
                                         <div class="c-simple-accordion-content-block">
                                             {% assign team = site.people | where_exp:"item","item.categories contains 'pardubický'" %}
@@ -157,7 +154,7 @@ keywords: zemědělci, lesníci, rolníci, rybáři, myslivci, včelaři, zahrá
                             </ul>
                             <ul class="c-simple-accordion  content-block" data-accordion="" data-options="allowAllClosed: true">
                                 <li class="c-simple-accordion-item  content-block" data-accordion-item="">
-                                    <a href="#ketstredocesky"  class="c-simple-accordion-title"><hr><h1>EXPERTI RESORTU - STŘEDOČESKÝ KRAJ</h1><hr></a>
+                                    <a href="#ketstredocesky"  class="c-simple-accordion-title"><hr><h3>EXPERTI RESORTU - STŘEDOČESKÝ KRAJ</h3><hr></a>
 								                  	<div id="ketstredocesky" class="c-simple-accordion-content" data-tab-content="">										
                                         <div class="c-simple-accordion-content-block">
                                             {% assign team = site.people | where_exp:"item","item.categories contains 'středočeský'" %}
@@ -168,7 +165,7 @@ keywords: zemědělci, lesníci, rolníci, rybáři, myslivci, včelaři, zahrá
                             </ul>
                             <ul class="c-simple-accordion  content-block" data-accordion="" data-options="allowAllClosed: true">
                                 <li class="c-simple-accordion-item  content-block" data-accordion-item="">
-                                    <a href="#ketpraha"  class="c-simple-accordion-title"><hr><h1>EXPERTI RESORTU - HLAVNÍ MĚSTO PRAHA</h1><hr></a>
+                                    <a href="#ketpraha"  class="c-simple-accordion-title"><hr><h3>EXPERTI RESORTU - HLAVNÍ MĚSTO PRAHA</h3><hr></a>
 									                  <div id="ketpraha" class="c-simple-accordion-content" data-tab-content="">
                                         <div class="c-simple-accordion-content-block">
                                             {% assign team = site.people | where_exp:"item","item.categories contains 'praha'" | sort:"ordpraha" %}
