@@ -6,7 +6,6 @@ titles:
   after: DiS.
 category:
   - clenove
-  - ket-vedoucí
   - komunal
   - karlovarský  
 description: Zastupitel ve městě Loket
