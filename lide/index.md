@@ -104,7 +104,7 @@ keywords: zemědělci, lesníci, rolníci, rybáři, myslivci, včelaři, zahrá
                                             {% assign team = site.people | where_exp:"item","item.categories contains 'královéhradecký'" %}
                                             {% include people/list-2col.html param=team %}
                                        </div>
-                                      </div>   
+                                      </div>
                                 </li>
                             </ul>
                             <ul class="c-simple-accordion  content-block" data-accordion="" data-options="allowAllClosed: true">
@@ -149,7 +149,7 @@ keywords: zemědělci, lesníci, rolníci, rybáři, myslivci, včelaři, zahrá
                                             {% assign team = site.people | where_exp:"item","item.categories contains 'středočeský'" %}
                                             {% include people/list-2col.html param=team %}
                                         </div>
-                                      </div>   
+                                      </div>
                                 </li>
                             </ul>
                             <ul class="c-simple-accordion  content-block" data-accordion="" data-options="allowAllClosed: true">
