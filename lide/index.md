@@ -53,17 +53,6 @@ keywords: zemědělci, lesníci, rolníci, rybáři, myslivci, včelaři, zahrá
                                   </div>
                                  </li>
                             </ul>
-                            
-                            <ul class="c-simple-accordion  content-block" data-accordion="" data-options="allowAllClosed: true">
-                                <li class="c-simple-accordion-item  content-block" data-accordion-item="">
-                                    <a href="#ketzlinsky"  class="c-simple-accordion-title"><hr><h3>EXPERTI RESORTU - ZLÍNSKÝ KRAJ</h3><hr></a>
-                                    <div id="ketzlinsky" class="c-simple-accordion-content" data-tab-content="">
-                                        <div class="c-simple-accordion-content-block">
-                                            {% assign team = site.people | where_exp:"item","item.categories contains 'zlínský'" %}
-                                            {% include people/list-2col.html param=team %}
-                                        </div></div></li>
-                            </ul>
-                            
                             <ul class="c-simple-accordion  content-block" data-accordion="" data-options="allowAllClosed: true">
                                 <li class="c-simple-accordion-item  content-block" data-accordion-item="">
                                     <a href="#ketjihocesky"  class="c-simple-accordion-title"><hr><h3>EXPERTI RESORTU - JIHOČESKÝ KRAJ</h3><hr></a>
@@ -162,6 +151,15 @@ keywords: zemědělci, lesníci, rolníci, rybáři, myslivci, včelaři, zahrá
                                         </div>
                                       </div>   
                                 </li>
+                            </ul>
+                            <ul class="c-simple-accordion  content-block" data-accordion="" data-options="allowAllClosed: true">
+                                <li class="c-simple-accordion-item  content-block" data-accordion-item="">
+                                    <a href="#ketzlinsky"  class="c-simple-accordion-title"><hr><h3>EXPERTI RESORTU - ZLÍNSKÝ KRAJ</h3><hr></a>
+                                    <div id="ketzlinsky" class="c-simple-accordion-content" data-tab-content="">
+                                        <div class="c-simple-accordion-content-block">
+                                            {% assign team = site.people | where_exp:"item","item.categories contains 'zlínský'" %}
+                                            {% include people/list-2col.html param=team %}
+                                        </div></div></li>
                             </ul>
                             <ul class="c-simple-accordion  content-block" data-accordion="" data-options="allowAllClosed: true">
                                 <li class="c-simple-accordion-item  content-block" data-accordion-item="">
