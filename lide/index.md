@@ -76,8 +76,8 @@ keywords: zemědělci, lesníci, rolníci, rybáři, myslivci, včelaři, zahrá
                             </ul>
                             <ul class="c-simple-accordion  content-block" data-accordion="" data-options="allowAllClosed: true">
                                 <li class="c-simple-accordion-item  content-block" data-accordion-item="">
-                                    <a href="#ketplzensky"  class="c-simple-accordion-title"><hr><h3>EXPERTI RESORTU - ÚSTECKÝ KRAJ</h3><hr></a>
-                                      <div id="ketplzensky" class="c-simple-accordion-content" data-tab-content="">
+                                    <a href="#ketustecky"  class="c-simple-accordion-title"><hr><h3>EXPERTI RESORTU - ÚSTECKÝ KRAJ</h3><hr></a>
+                                      <div id="ketustecky" class="c-simple-accordion-content" data-tab-content="">
                                         <div class="c-simple-accordion-content-block">
                                             {% assign team = site.people | where_exp:"item","item.categories contains 'ústecký'" %}
                                             {% include people/list-2col.html param=team %}
@@ -98,8 +98,8 @@ keywords: zemědělci, lesníci, rolníci, rybáři, myslivci, včelaři, zahrá
                             </ul>
                             <ul class="c-simple-accordion  content-block" data-accordion="" data-options="allowAllClosed: true">
                                 <li class="c-simple-accordion-item  content-block" data-accordion-item="">
-                                    <a href="#ketkarlovarsky"  class="c-simple-accordion-title"><hr><h3>EXPERTI RESORTU - KRÁLOVÉHRADECKÝ KRAJ</h3><hr></a>
-                                      <div id="ketkarlovarsky" class="c-simple-accordion-content" data-tab-content="">
+                                    <a href="#ketkralovehradecky"  class="c-simple-accordion-title"><hr><h3>EXPERTI RESORTU - KRÁLOVÉHRADECKÝ KRAJ</h3><hr></a>
+                                      <div id="ketkralovehradecky" class="c-simple-accordion-content" data-tab-content="">
                                         <div class="c-simple-accordion-content-block">
                                             {% assign team = site.people | where_exp:"item","item.categories contains 'královéhradecký'" %}
                                             {% include people/list-2col.html param=team %}
@@ -177,6 +177,5 @@ keywords: zemědělci, lesníci, rolníci, rybáři, myslivci, včelaři, zahrá
                 </main>
             </div>
         </section>
-        <!-- /. o-section -->
     </div>
 </div>
