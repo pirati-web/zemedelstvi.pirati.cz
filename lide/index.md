@@ -142,9 +142,6 @@ keywords: zemědělci, lesníci, rolníci, rybáři, myslivci, včelaři, zahrá
                                     <a href="#ketpraha"  class="c-simple-accordion-title"><h4>EXPERTI RESORTU - HLAVNÍ MĚSTO PRAHA</h4></a>
                                       <div id="ketpraha" class="c-simple-accordion-content" data-tab-content="">
                                         <div class="c-simple-accordion-content-block">
-                                            {% assign team = site.people | where_exp:"item","item.categories contains 'praha'" | sort:"ordpraha" %}
+                                            {% assign team = site.people | where_exp:"item","item.categories contains 'praha'" %}
                                             {% include people/list-2col.html param=team %}
-                                        </div>
-                                     </div></li></ul></div></div></main></div></section>
-    </div>
-</div>
+                                        </div></div></li></ul></div></div></main></div></section></div></div>
