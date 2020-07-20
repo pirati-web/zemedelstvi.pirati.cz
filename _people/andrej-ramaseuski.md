@@ -4,7 +4,7 @@ name:     Andrej Ramašeuski
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - pak
 - rv
-img: people/andrej-ramaseuski-2020.jpg 
+img: people/andrej-ramaseuski.jpg 
 description: Člen Republikového výboru
 ordpak:
 mail:
