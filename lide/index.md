@@ -47,8 +47,7 @@ keywords: zemědělci, lesníci, rolníci, rybáři, myslivci, včelaři, zahrá
                                             {% assign team = site.people | where_exp:"item","item.categories contains 'vysočina'" %}
                                           {% include people/list-2col.html param=team %}
                                         </div>
-                                    </div>
-                                </li>
+                                    </div></li>
                                 <li class="c-simple-accordion-item  content-block" data-accordion-item="">
                                     <a href="#ketmoravskoslezsky"  class="c-simple-accordion-title"><h4>EXPERTI RESORTU - MORAVSKOSLEZSKÝ KRAJ</h4></a>
                                     <div id="ketmoravskoslezsky" class="c-simple-accordion-content" data-tab-content="">
@@ -56,16 +55,14 @@ keywords: zemědělci, lesníci, rolníci, rybáři, myslivci, včelaři, zahrá
                                             {% assign team = site.people | where_exp:"item","item.categories contains 'moravskoslezský'" %}
                                             {% include people/list-2col.html param=team %}
                                         </div>
-                                  </div>
-                                 </li>
+                                  </div></li>
                                 <li class="c-simple-accordion-item  content-block" data-accordion-item="">
                                     <a href="#ketjihocesky"  class="c-simple-accordion-title"><h4>EXPERTI RESORTU - JIHOČESKÝ KRAJ</h4></a>
                                     <div id="ketjihocesky" class="c-simple-accordion-content" data-tab-content="">
                                         <div class="c-simple-accordion-content-block">
                                             {% assign team = site.people | where_exp:"item","item.categories contains 'jihočeský'" %}
                                             {% include people/list-2col.html param=team %}
-                                       </div></div>
-                                </li>
+                                       </div></div></li>
                                 <li class="c-simple-accordion-item  content-block" data-accordion-item="">
                                     <a href="#ketplzensky"  class="c-simple-accordion-title"><h4>EXPERTI RESORTU - PLZEŇSKÝ KRAJ</h4></a>
                                     <div id="ketplzensky" class="c-simple-accordion-content" data-tab-content="">
@@ -73,8 +70,7 @@ keywords: zemědělci, lesníci, rolníci, rybáři, myslivci, včelaři, zahrá
                                             {% assign team = site.people | where_exp:"item","item.categories contains 'plzeňský'" %}
                                             {% include people/list-2col.html param=team %}
                                        </div>
-                                    </div>
-                                </li>
+                                    </div></li>
                                 <li class="c-simple-accordion-item  content-block" data-accordion-item="">
                                     <a href="#ketustecky"  class="c-simple-accordion-title"><h4>EXPERTI RESORTU - ÚSTECKÝ KRAJ</h4></a>
                                       <div id="ketustecky" class="c-simple-accordion-content" data-tab-content="">
@@ -82,8 +78,7 @@ keywords: zemědělci, lesníci, rolníci, rybáři, myslivci, včelaři, zahrá
                                             {% assign team = site.people | where_exp:"item","item.categories contains 'ústecký'" %}
                                             {% include people/list-2col.html param=team %}
                                         </div>
-                                      </div>
-                                </li>
+                                      </div></li>
                                 <li class="c-simple-accordion-item  content-block" data-accordion-item="">
                                     <a href="#ketkarlovarsky"  class="c-simple-accordion-title"><h4>EXPERTI RESORTU - KARLOVARSKÝ KRAJ</h4></a>
                                         <div id="ketkarlovarsky" class="c-simple-accordion-content" data-tab-content="">
@@ -91,8 +86,7 @@ keywords: zemědělci, lesníci, rolníci, rybáři, myslivci, včelaři, zahrá
                                             {% assign team = site.people | where_exp:"item","item.categories contains 'karlovarský'" %}
                                             {% include people/list-2col.html param=team %}
                                         </div>
-                                      </div>
-                                </li>
+                                      </div></li>
                                 <li class="c-simple-accordion-item  content-block" data-accordion-item="">
                                     <a href="#ketkralovehradecky"  class="c-simple-accordion-title"><h4>EXPERTI RESORTU - KRÁLOVÉHRADECKÝ KRAJ</h4></a>
                                       <div id="ketkralovehradecky" class="c-simple-accordion-content" data-tab-content="">
@@ -100,8 +94,7 @@ keywords: zemědělci, lesníci, rolníci, rybáři, myslivci, včelaři, zahrá
                                             {% assign team = site.people | where_exp:"item","item.categories contains 'královéhradecký'" %}
                                             {% include people/list-2col.html param=team %}
                                        </div>
-                                      </div>
-                                </li>
+                                      </div></li>
                                 <li class="c-simple-accordion-item  content-block" data-accordion-item="">
                                     <a href="#ketjihomoravsky"  class="c-simple-accordion-title"><h4>EXPERTI RESORTU - JIHOMORAVSKÝ KRAJ</h4></a>
                                       <div id="ketjihomoravsky" class="c-simple-accordion-content" data-tab-content="">
@@ -109,8 +102,7 @@ keywords: zemědělci, lesníci, rolníci, rybáři, myslivci, včelaři, zahrá
                                             {% assign team = site.people | where_exp:"item","item.categories contains 'jihomoravský'" %}
                                             {% include people/list-2col.html param=team %}
                                        </div>
-                                      </div>   
-                                </li>
+                                      </div></li>
                                 <li class="c-simple-accordion-item  content-block" data-accordion-item="">
                                     <a href="#ketliberecky"  class="c-simple-accordion-title"><h4>EXPERTI RESORTU - LIBERECKÝ KRAJ</h4></a>
                                       <div id="ketliberecky" class="c-simple-accordion-content" data-tab-content="">
@@ -118,8 +110,7 @@ keywords: zemědělci, lesníci, rolníci, rybáři, myslivci, včelaři, zahrá
                                             {% assign team = site.people | where_exp:"item","item.categories contains 'liberecký'"%}
                                             {% include people/list-2col.html param=team %}
                                         </div>
-                                      </div>
-                                </li>
+                                      </div></li>
                                 <li class="c-simple-accordion-item  content-block" data-accordion-item="">
                                     <a href="#ketpardubicky"  class="c-simple-accordion-title"><h4>EXPERTI RESORTU - PARDUBICKÝ KRAJ</h4></a>
                                       <div id="ketpardubicky" class="c-simple-accordion-content" data-tab-content="">
@@ -127,8 +118,7 @@ keywords: zemědělci, lesníci, rolníci, rybáři, myslivci, včelaři, zahrá
                                             {% assign team = site.people | where_exp:"item","item.categories contains 'pardubický'" %}
                                             {% include people/list-2col.html param=team %}
                                         </div>
-                                      </div>
-                                </li>
+                                      </div></li>
                                 <li class="c-simple-accordion-item  content-block" data-accordion-item="">
                                     <a href="#ketstredocesky"  class="c-simple-accordion-title"><h4>EXPERTI RESORTU - STŘEDOČESKÝ KRAJ</h4></a>
                                       <div id="ketstredocesky" class="c-simple-accordion-content" data-tab-content="">
@@ -136,8 +126,7 @@ keywords: zemědělci, lesníci, rolníci, rybáři, myslivci, včelaři, zahrá
                                             {% assign team = site.people | where_exp:"item","item.categories contains 'středočeský'" %}
                                             {% include people/list-2col.html param=team %}
                                         </div>
-                                      </div>
-                                </li>
+                                      </div></li>
                                 <li class="c-simple-accordion-item  content-block" data-accordion-item="">
                                     <a href="#ketpraha"  class="c-simple-accordion-title"><h4>EXPERTI RESORTU - HLAVNÍ MĚSTO PRAHA</h4></a>
                                       <div id="ketpraha" class="c-simple-accordion-content" data-tab-content="">
