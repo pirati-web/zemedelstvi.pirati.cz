@@ -20,7 +20,7 @@ contentSize: default
 <ul>
   <li>Snižování negativních dopadů zemědělské politiky</li>
   <li>Zjednodušování a zastropování systému dotací</li>
-  <li>Podpora začínajících zemědělců, rodinných farem, malých družstev
+  <li>Podpora začínajících zemědělců, rodinných farem, malých družstev</li>
   <li>Komunitou podporované zemědělství</li>
   <li>Rozvoj zemědělství s pestrými osevními postupy</li>
   <li>Chov zvířat volně v přírodě</li>
@@ -28,7 +28,7 @@ contentSize: default
   <li>Změny v oblasti přimíchávání biopaliv</li>
   <li>Kontrola Lesů ČR</li>
   <li>Dostupnost zdravých, kvalitních a lokálních potravin</li>
-  <li>Ochrana zahrádkářských osad před tlakem developerů</li>
+  <li>Ochrana zahrádkářských osad před tlakem developerů</li></ul>
   
   
 <div class="o-section-header o-section-header--indented">
