@@ -5,7 +5,6 @@ category:
   - clenove
   - rv
   - msjihlavsko
-  - kontaktni_osoba
   - vysočina 
 description: myslivost, člen Krajského sdružení Vysočina # zobrazuje se v lide
 profession: správce JiPiCe
