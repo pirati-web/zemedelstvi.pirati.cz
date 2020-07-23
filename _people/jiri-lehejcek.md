@@ -4,6 +4,7 @@ name:     Jiří Lehejček  	# běžně používáné jméno
 fullname: Mgr. Ing. Jiří Lehejček, Ph.D.  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - garant
+- kontaktní-osoba
 - středočeský
 - expert-lesník
 - expert-geograf
