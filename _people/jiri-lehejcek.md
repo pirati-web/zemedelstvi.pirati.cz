@@ -11,13 +11,17 @@ category:                   # kategorie: clenove
 - expert-geoekolog
 tags: garant
 img: people/jiri-lehejcek.jpg   # 165 x 220
-description: VŠ pedagog, místopředseda Rady [IFOAM Organics Europe](https://www.organicseurope.bio/), předseda [České technologické platformy pro ekologické zemědělství](https://www.ctpz.cz/)  # kratký popis, max 160 znaků
+description: VŠ pedagog, místopředseda Rady IFOAM Organics Europe, předseda České technologické platformy pro ekologické zemědělství   # kratký popis, max 160 znaků
 mail:
 - jiri.lehejcek@pirati.cz
 profiles:
   facebook: https://www.facebook.com/jirilehejcek
 ---
 Jiří Lehejček (*23. prosince 1986, Praha), člen MS Středočeský kraj původem ze Zlína
+
+
+místopředseda Rady [IFOAM Organics Europe](https://www.organicseurope.bio/), předseda [České technologické platformy pro ekologické zemědělství]
+
 
 Vystudoval fyzickou geografii a geoekologii na PřF UK a pěstování lesa na FLD ČZU. Doktorát získal tamtéž za práci [dendrochronologie arktické tundry](http://invenio.nusl.cz/record/261417?ln=cs){:target="_blank"}. V rámci svého studia strávil semestr na University of Iceland a totéž na kanadské Vancouver Island University. Zahraniční doktorské stáže si odbyl na ETH Zürich ve Švýcarsku a University of Greifswald v Německu.
 
