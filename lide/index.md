@@ -144,4 +144,4 @@ keywords: zemědělci, lesníci, rolníci, rybáři, myslivci, včelaři, zahrá
                                         <div class="c-simple-accordion-content-block">
                                             {% assign team = site.people | where_exp:"item","item.categories contains 'praha'" %}
                                             {% include people/list-2col.html param=team %}
-                                        </div></div></li></ul></div></div></main></div></section></div></div>
+                                        </div></div></li></li></ul></div></div></main></div></section></div></div>
