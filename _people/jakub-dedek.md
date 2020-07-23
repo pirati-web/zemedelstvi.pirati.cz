@@ -5,8 +5,6 @@ titles:
   before:
   after:
 category:
-- koordinator
-- kontaktni_osoba
 - zast
 - moravskoslezský
 ordpak: 1
