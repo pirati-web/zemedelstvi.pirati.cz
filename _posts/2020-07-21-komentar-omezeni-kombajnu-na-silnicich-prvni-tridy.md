@@ -3,7 +3,7 @@ date:         2020-07-21
 category:     blog
 tags:         sněmovna rostlinná-výroba kontrola-moci-a-mocných
 layout:       post
-title:        Nedomyšlené omezení kombajnů na silnicích - Piráti žádají ministerstvo o nápravu pravidel"
+title:        Nedomyšlené omezení kombajnů na silnicích - Piráti žádají ministerstvo o nápravu pravidel
 image:        posts/kombajn.jpg
 ---   
 
