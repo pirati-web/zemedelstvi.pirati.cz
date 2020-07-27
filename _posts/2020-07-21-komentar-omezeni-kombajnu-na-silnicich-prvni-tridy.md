@@ -4,7 +4,7 @@ category:     blog
 tags:         sněmovna rostlinná kontrola-moci-a-mocných
 layout:       post
 title:        "Komentář Radka Holomčíka: Omezení zemědělských kombajnů na silnicích I. třídy? Správnou myšlenku zazdila chaotická a nedomyšlená pravidla, Piráti žádají ministerstvo o nápravu"
-image:        /assets/img/articles/2020/holomcik.jpg
+image:        posts/kombajn.jpg
 ---   
 
 
