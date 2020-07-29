@@ -7,7 +7,7 @@ titles:
 category:                 	# kategorie: kandidat, pks, zastupite
 - tajemnik
 - kontaktni_osoba
-img: people/martin-hunady.jpg   # 165 x 220
+img: people/ppp.jpg   # 165 x 220
 description: kontaktní osoba pro Resort zemědělství ČPS, politolog         	# kratký popis, max 160 znaků
 mail:
 - hunadym@psp.cz
