@@ -5,9 +5,9 @@ titles:
  before: Ing.
  after: 
 category:                 			# kategorie: plzen, pms, pos - každá na svůj řádek
-- mag
-- plk
 - plzeňský
+- plk
+
 
 img: people/marek-habrun.jpg   # 165 x 220
 description: Zastupitel na ÚMO 3, Člen MS Plzeň # kratký popis, max 160 znaků
