@@ -5,7 +5,6 @@ titles:
   before: Ing.
   after:
 category:
-  - clen
   - pardubický
 description: člen místního sdružení Hradec Králové # zobrazuje se v lide
 img: people/pavel-vrbicky.jpg # zakomentuj radek dokud není fotka
