@@ -4,7 +4,7 @@ name:     Aleš Jakl  	# běžně používáné jméno
 fullname: Aleš Jakl  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ga
-- jihočeský
+- _jihočeský
 img: people/ales-jakl.jpg   # 165 x 220
 description:              	# kratký popis, max 160 znaků
 mail:
