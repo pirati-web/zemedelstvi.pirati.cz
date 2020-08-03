@@ -1,6 +1,6 @@
 ---
 layout: post
-category: krajinotvorba lesnictví kůrovec
+category: blog
 published: true
 title: 'Začarovaný kruh kůrovcových katastrof a kudy z něj ven?'
 date: '2020-08-03'
@@ -9,9 +9,9 @@ image: posts/paseka-smrkova.jpg
 
 description: 'Lýkožrout smrkový a lýkožrout severský dělají v poslední době lesníkům velké starosti. Nucené těžby představují velké finanční ztráty a pro vodní režim krajiny je to citelná rána. Příčin je více, ale nejsou složité.'
 tags:
-  - Životní prostředí
-  - Krajina
-  - Pirátské listy
+  - lesnictví
+  - krajinotvorba  
+  - kůrovec
 ---
 Lýkožrout smrkový a lýkožrout severský dělají v poslední době lesníkům velké starosti. Nucené těžby
 představují velké finanční ztráty a pro vodní režim krajiny je to citelná rána. Příčin je více, ale nejsou složité.
