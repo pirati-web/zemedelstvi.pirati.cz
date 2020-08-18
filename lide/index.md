@@ -11,7 +11,8 @@ keywords: zemědělci, lesníci, rolníci, rybáři, myslivci, včelaři, zahrá
                 <main class="o-section-block">
                     <div class="c-BasicPage">
                         <div class="c-BasicPage-content">
-                            <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
+
+                             <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
                                 <li class="c-simple-accordion-item is-active" data-accordion-item="">
                                   <a href="#garant" class="c-simple-accordion-title"><h4>GARANT PROGRAMOVÉHO BODU</h4></a>
                                     <div id="garant" class="c-simple-accordion-content" data-tab-content="">
