@@ -47,7 +47,7 @@ keywords: zemědělci, lesníci, rolníci, rybáři, myslivci, včelaři, zahrá
                                             {% assign team = site.people | where_exp:"item","item.categories contains 'vysočina'" %}
                                           {% include people/list-2col.html param=team %}
                                         </div>
-                                    </div></li>
+                                  </div></li>
                                 <li class="c-simple-accordion-item  content-block" data-accordion-item="">
                                     <a href="#ketmoravskoslezsky"  class="c-simple-accordion-title"><h4>EXPERTI RESORTU - MORAVSKOSLEZSKÝ KRAJ</h4></a>
                                     <div id="ketmoravskoslezsky" class="c-simple-accordion-content" data-tab-content="">
@@ -102,7 +102,7 @@ keywords: zemědělci, lesníci, rolníci, rybáři, myslivci, včelaři, zahrá
                                             {% assign team = site.people | where_exp:"item","item.categories contains 'jihomoravský'" %}
                                             {% include people/list-2col.html param=team %}
                                        </div>
-                                      </div></li>
+                                  </div></li>
                                 <li class="c-simple-accordion-item  content-block" data-accordion-item="">
                                     <a href="#ketliberecky"  class="c-simple-accordion-title"><h4>EXPERTI RESORTU - LIBERECKÝ KRAJ</h4></a>
                                       <div id="ketliberecky" class="c-simple-accordion-content" data-tab-content="">
@@ -133,12 +133,4 @@ keywords: zemědělci, lesníci, rolníci, rybáři, myslivci, včelaři, zahrá
                                         <div class="c-simple-accordion-content-block">
                                             {% assign team = site.people | where_exp:"item","item.categories contains 'praha'" %}
                                             {% include people/list-2col.html param=team %}
-                                        </div></div></li>
-                            </ul>
-                        </div>
-                    </div>
-                </main>
-            </div>
-        </section>
-    </div>
-</div>
+                                        </div></div></li></ul></div></div></main></div></section></div></div>
