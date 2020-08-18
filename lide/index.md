@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tým Zemědělství
+title: Tým Zemědělství České Pirátské Strany
 description:  My jsme zemědělci, lesníci, rolníci, rybáři, myslivci, včelaří, zahrádkáři, piráti, pirátky, chovatelé.
 keywords: zemědělci, lesníci, rolníci, rybáři, myslivci, včelaři, zahrádkáři, chovatelé, piráti, pirátky, příznivci
 ---
