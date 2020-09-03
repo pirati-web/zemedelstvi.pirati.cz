@@ -19,7 +19,7 @@ keywords: zemědělci, lesníci, rolníci, rybáři, myslivci, včelaři, zahrá
                              <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
                              
                                 <li class="c-simple-accordion-item is-active" data-accordion-item="">
-                                  <a href="#garant" class="c-simple-accordion-title"><h4>GARANT PROGRAMOVÉHO BODU</h4></a>
+                                  <a href="#garant" class="c-simple-accordion-title"><h4>VEDOUCÍ RT ZEMĚDĚLSTVÍ</h4></a>
                                     <div id="garant" class="c-simple-accordion-content" data-tab-content="">
                                         {% assign team = site.people | where_exp:"item","item.categories contains 'garant'" | sort:"ordgarant" %}
                                         {% include people/list-2col.html param=team %}
