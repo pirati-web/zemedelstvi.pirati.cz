@@ -14,10 +14,10 @@ contentSize: default
 </div>
 
 <ul>
-  <li><a href="https://zemedelstvi.pirati.cz/assets/doc/">Snižování negativních dopadů zemědělské politiky</a></li>
+  <li><a href="https://zemedelstvi.pirati.cz/assets/doc/Pachty_Radce_vlastnika.pdf">Rádce vlastníka půdy</a></li>
   <li><a href="https://docassemble.pirati.cz/interview?i=docassemble.base%3Adata%2Fquestions%2Fpachty.yml">Pachtovní smlouvy tvorba - generátor smlouvy</a></li>
-  <li><a href="https://zemedelstvi.pirati.cz/assets/doc/">Podpora začínajících zemědělců, rodinných farem, malých družstev</a></li>
-  <li><a href="https://zemedelstvi.pirati.cz/assets/doc/">Komunitou podporované zemědělství</a></li>
+  <li><a href="https://zemedelstvi.pirati.cz/assets/doc/Pachty_Doporuceni_expertu.doc">Doporučení expertů k hospodaření s půdou</a></li>
+  <li><a href="https://zemedelstvi.pirati.cz/assets/doc/Pachty_Zasady_pece.doc">Zásady kvalitní péče o půdu</a></li>
   <li><a href="https://zemedelstvi.pirati.cz/assets/doc/">Rozvoj zemědělství s pestrými osevními postupy</a></li>
   <li><a href="https://zemedelstvi.pirati.cz/assets/doc/">Ekologické zemědělství</a></li>
   <li><a href="https://zemedelstvi.pirati.cz/assets/doc/">Asociace Soukromých Zemědělců - materiál k pachtovní smlouvě 2013</a></li>
