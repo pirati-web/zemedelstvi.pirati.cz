@@ -14,17 +14,17 @@ contentSize: default
 </div>
 
 <ul>
-  <li>Snižování negativních dopadů zemědělské politiky</li>
-  <li>Pachtovní smlouvy - generátor</li>
-  <li>Podpora začínajících zemědělců, rodinných farem, malých družstev</li>
-  <li>Komunitou podporované zemědělství</li>
-  <li>Rozvoj zemědělství s pestrými osevními postupy</li>
-  <li>Ekologické zemědělství</li>
-  <li>Asociace Soukromých Zemědělců - materiál k pachtovní smlouvě 2013</li>
-  <li>ZAsociace Soukromých Zemědělců - materiál k pachtovní smlouvě nové</li>
-  <li>Pachtovní smlouvy z dílny STAN</li>
-  <li>Pražské ekologické pachtování</li>
-  <li>Obecně pachtovní právo</li></ul>
+  <li><a href="https://zemedelstvi.pirati.cz/assets/doc/">Snižování negativních dopadů zemědělské politiky</a></li>
+  <li><a href="https://docassemble.pirati.cz/interview?i=docassemble.base%3Adata%2Fquestions%2Fpachty.yml">Pachtovní smlouvy tvorba - generátor smlouvy</a></li>
+  <li><a href="https://zemedelstvi.pirati.cz/assets/doc/">Podpora začínajících zemědělců, rodinných farem, malých družstev</a></li>
+  <li><a href="https://zemedelstvi.pirati.cz/assets/doc/">Komunitou podporované zemědělství</a></li>
+  <li><a href="https://zemedelstvi.pirati.cz/assets/doc/">Rozvoj zemědělství s pestrými osevními postupy</a></li>
+  <li><a href="https://zemedelstvi.pirati.cz/assets/doc/">Ekologické zemědělství</a></li>
+  <li><a href="https://zemedelstvi.pirati.cz/assets/doc/">Asociace Soukromých Zemědělců - materiál k pachtovní smlouvě 2013</a></li>
+  <li><a href="https://zemedelstvi.pirati.cz/assets/doc/">ZAsociace Soukromých Zemědělců - materiál k pachtovní smlouvě nové</a></li>
+  <li><a href="https://zemedelstvi.pirati.cz/assets/doc/">Pachtovní smlouvy z dílny STAN</a></li>
+  <li><a href="https://zemedelstvi.pirati.cz/assets/doc/">Pražské ekologické pachtování</a></li>
+  <li><a href="https://zemedelstvi.pirati.cz/assets/doc/">Obecně pachtovní právo</a></li></ul>
   
   
 <div class="o-section-header o-section-header--indented">
@@ -43,7 +43,7 @@ obdělávána dle principů ekologického resp. udržitelného zemědělství. N
 příklad měli možnost následovat další obce v ČR. Jde o poměrně snadnou změnu s obrovským potenciálem 
 pro krajinu i její obyvatele.
 
-
+</p><p>
 Aktivita reaguje na alarmující stav české krajiny a půdy, jejíž retenční schopnost je na 53 % svého
 potenciálu, biodiverzita téměř všech řádů trvale klesá, erozí je ohroženo 96 % české půdy a 40 %
 monitorovaných podzemních vrtů vykazuje nadlimitní koncentrace syntetických pesticidů ve vodě.
@@ -53,7 +53,7 @@ obce. Na druhou stranu, průměrná velikost zemědělských podniků je v Česk
 největších v rámci států EU (130 ha). Zemědělci většinově hospodaří na cizí půdě - 73 % zemědělské
 půdy zůstává propachtováno, vlastníci půdy tak na své půdě nehospodaří. To je zároveň hrozba, ale i
 obrovská příležitost.
-
+</p><p>
 
 V kontextu probíhajících změn klimatu (projevující se zejména extremitou počasí) nabývá zemědělství
 a péče o krajinu na významu. V lokálních podmínkách může mírnit projevy sucha, snižovat prašnost
@@ -64,7 +64,7 @@ venkova vedlo v podmínkách ČR k podpoře velkoformátového zemědělského
 zemědělství a koncentraci kapitálu. Uskutečňovaný systém podpory tedy v českém kontextu naráží na své 
 limity a to i přes opakované snahy o revizi ze strany velké části zemědělské veřejnosti, nevládních 
 organizací i mnoha politickýchsubjektů.
-
+</p><p>
 Naším cílem je proto aktivizace pravděpodobně poslední instance, jejíž potenciál zatím nebyl
 dostatečně prozkoumán, natož využit – samotných vlastníků půdy. Konkrétně je cílem naší snahy
 zvýšit povědomí a odpovědnost obecních vlastníků půdy za hospodaření na jejich půdě a to za
@@ -75,20 +75,20 @@ Proto se obracíme na Vás. Obce totiž většinou dokáží částečně ožele
 prospěch zvýšení kvality života jejích obyvatel.
 
 </p>
-<p>
-Jak toho konkrétně dosáhnout (myšleno prakticky, politická vyjednávání budou na Vás)?
+<p>Jak toho konkrétně dosáhnout (myšleno prakticky, politická vyjednávání budou na Vás)?<ol>
 
-1) Zjistěte na svých obcích, jak vypadají Vaše pachtovní smlouvy, zejména výpovědní lhůty
 
-2) Proberte s propachtovatelem (zemědělcem) Váš záměr změnit pachtovní smlouvy, pokud
-nesouhlasí, původní smlouvu vypovězte
+<li> Zjistěte na svých obcích, jak vypadají Vaše pachtovní smlouvy, zejména výpovědní lhůty</li>
 
-3) V případě, že na změnu způsobu hospodaření nebude chtít přistoupit, oslovte další zemědělce
+<li> Proberte s propachtovatelem (zemědělcem) Váš záměr změnit pachtovní smlouvy, pokud
+nesouhlasí, původní smlouvu vypovězte</li>
+
+<li> V případě, že na změnu způsobu hospodaření nebude chtít přistoupit, oslovte další zemědělce
 v okolí (zájem o pronájem půdy je obrovský, byť se Vám původní hospodáři budou snažit
-namluvit, že opak je pravdou)
+namluvit, že opak je pravdou)</li>
 
-4) Uzavřete novou pachtovní smlouvu se spolupracujícím subjektem
-
+<li> Uzavřete novou pachtovní smlouvu se spolupracujícím subjektem</li>
+</ol>
 </p><p>
 
 Důležitá poznámka na okraj. Poměrně intenzivně jsme se zabývali tím, co tedy vlastně po pachtýři
