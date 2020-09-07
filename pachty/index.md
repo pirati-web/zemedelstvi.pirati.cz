@@ -6,9 +6,11 @@ contentSize: default
 # Pokud chcete aby obsah a tabulka kontaktů měly stejné proporce, můžete použít:
 # contentSize: even
 ---
-
+<div class="o-section">
+  <div class="row">
+    
 <div class="o-section-header o-section-header--indented">
-  <h1 class="t-h2-alt">Pachtovní smouvy a nájem pozemků</h1>
+  <h1 class="t-h2-alt">Pachtovní smlouvy a nájem pozemků</h1>
 </div>
 
 <ul>
@@ -112,4 +114,5 @@ S přáním zdravé půdy pro naše děti.
 </blockquote>
 
 
-
+</div>
+</div>
