@@ -26,12 +26,13 @@ contentSize: default
   
   
 <div class="o-section-header o-section-header--indented">
-  <h2 class="t-h2-alt">Jak se můžete zapojit?</h2>
+  <h2 class="t-h2-alt">Otevřený dopis</h2>
 </div>
 
-
+<blockquote class="c-blockquote c-blockquote--wicon">
+  <p>
 Vážení přátelé a příznivci Pirátské strany,
-
+  </p><p>
 
 Dovoluji si Vás oslovit coby vedoucí rezortního týmu Zemědělství České Pirátské Strany. Náš tým byl spolu 
 s dalšími organizacemi nápomocen pirátským zastupitelům v Táboře a částečně i na Praze 12 v jejich iniciativě 
@@ -71,8 +72,9 @@ zvýšit povědomí a odpovědnost obecních vlastníků půdy za hospodaření 
 Proto se obracíme na Vás. Obce totiž většinou dokáží částečně oželet skromný zisk z pachtu ve
 prospěch zvýšení kvality života jejích obyvatel.
 
-
-Jak toho konkrétně dosáhnout (myšleno prakticky, politická vyjednávání budou na Vás )?
+</p>
+<p>
+Jak toho konkrétně dosáhnout (myšleno prakticky, politická vyjednávání budou na Vás)?
 
 1) Zjistěte na svých obcích, jak vypadají Vaše pachtovní smlouvy, zejména výpovědní lhůty
 
@@ -85,7 +87,7 @@ namluvit, že opak je pravdou)
 
 4) Uzavřete novou pachtovní smlouvu se spolupracujícím subjektem
 
-
+</p><p>
 
 Důležitá poznámka na okraj. Poměrně intenzivně jsme se zabývali tím, co tedy vlastně po pachtýři
 chtít. Nabízely se zásady dobré zemědělské praxe, monitoring stavu půd na základě jejích rozborů,
@@ -99,14 +101,15 @@ ani volených zástupců nelze očekávat. Případně s sebou kontrola nese zv
 Pouze konverze k ekologickému zemědělství je pro pachtýře „bezstarostná“. Tento postup lze
 volitelně doplnit o požadavek na výsadbu remízků, obnovu mezí či starých cest – zde ale již narážíme
 na lokální specifika, který tento obecněji pojatý dokument nemůže pojmout.
-
-
+</p>
+<p>
 V případě, že byste s aktivitou potřebovali pomoci, neváhejte se na nás obrátit.
-
-
+</p>
+<p>
 S přáním zdravé půdy pro naše děti.
+</p>
+  <cite>Jiří Lehejček a rezortní tým Zemědělství</cite>
+</blockquote>
 
 
-
-Jiří Lehejček a rezortní tým zemědělství
 
