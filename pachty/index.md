@@ -73,15 +73,15 @@ zvýšit povědomí a odpovědnost vlastníků půdy za hospodaření na jejich 
 <p>Jak toho konkrétně dosáhnout?<ol>
 
 
-<li> Zjistěte, jak vypadají Vaše pachtovní smlouvy, zejména výpovědní lhůty</li>
+<li> Zjistěte, jak vypadají Vaše pachtovní smlouvy, zejména výpovědní lhůty<br><br></li>
 
-<li> Proberte s propachtovatelem (zemědělcem) Váš záměr změnit pachtovní smlouvy</li>
+<li> Proberte s propachtovatelem (zemědělcem) Váš záměr změnit pachtovní smlouvy<br><br></li>
 
 <li> Oslovte další zemědělce v okolí, v případě, že na změnu způsobu hospodaření nebude chtít přistoupit, oslovte další zemědělce
 v okolí <br><br>(zájem o pronájem půdy je obrovský, byť se Vám původní hospodáři budou snažit
-namluvit, že opak je pravdou) nalézt potenciální nové zájemce lze například <a href="http://eagri.cz/public/app/eagriapp/EKO/Prehled/Prehled.aspx?typ=ZEM&clear=A&stamp=1599826962262">v tomto seznamu</a> nebo <a href="https://www.adresarfarmaru.cz/">v tomto adresáři farmářů</a>, nebo třeba na portálu <a href="https://www.kamprobio.cz/">Kam pro Bio</a> </li>
+namluvit, že opak je pravdou) nalézt potenciální nové zájemce lze například <a href="http://eagri.cz/public/app/eagriapp/EKO/Prehled/Prehled.aspx?typ=ZEM&clear=A&stamp=1599826962262" target="_blank">v tomto seznamu</a> nebo <a href="https://www.adresarfarmaru.cz/" target="_blank">v tomto adresáři farmářů</a>, nebo třeba na portálu <a href="https://www.kamprobio.cz/" target="_blank">Kam pro Bio</a><br><br> </li>
 
-<li><b>Vytvořte si <a href="https://docassemble.pirati.cz/interview?i=docassemble.base%3Adata%2Fquestions%2Fpachty.ym">na našem webu návrh pachtovní smlouvy</a> a uzavřete po dohodě se spolupracujícím subjektem smouvu novou</b></li>
+<li><b>Vytvořte si <a href="https://docassemble.pirati.cz/interview?i=docassemble.base%3Adata%2Fquestions%2Fpachty.ym">na našem webu návrh pachtovní smlouvy</a> a uzavřete po dohodě se spolupracujícím subjektem smouvu novou</b><br><br></li>
 </ol>
 </p><p>
 
