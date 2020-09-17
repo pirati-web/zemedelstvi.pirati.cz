@@ -28,10 +28,11 @@ contentSize: default
   
   
 <div class="o-section-header o-section-header--indented">
+  <p></p>
   <h2 class="t-h2-alt">Otevřený dopis</h2>
 </div>
 
-<blockquote class="c-blockquote c-blockquote--wicon">
+
   <p>
 Vážení přátelé a příznivci Pirátské strany,
   </p>
@@ -81,7 +82,7 @@ zvýšit povědomí a odpovědnost vlastníků půdy za hospodaření na jejich 
 v okolí <br><br>(zájem o pronájem půdy je obrovský, byť se Vám původní hospodáři budou snažit
 namluvit, že opak je pravdou) nalézt potenciální nové zájemce lze například <a href="http://eagri.cz/public/app/eagriapp/EKO/Prehled/Prehled.aspx?typ=ZEM&clear=A&stamp=1599826962262" target="_blank">v tomto seznamu</a> nebo <a href="https://www.adresarfarmaru.cz/" target="_blank">v tomto adresáři farmářů</a>, nebo třeba na portálu <a href="https://www.kamprobio.cz/" target="_blank">Kam pro Bio</a><br><br> </li>
 
-<li><b>Vytvořte si <a href="https://docassemble.pirati.cz/interview?i=docassemble.base%3Adata%2Fquestions%2Fpachty.ym">na našem webu návrh pachtovní smlouvy</a> a uzavřete po dohodě se spolupracujícím subjektem smouvu novou</b><br><br></li>
+<li><b>Vytvořte si <a href="https://docassemble.pirati.cz/interview?i=docassemble.base%3Adata%2Fquestions%2Fpachty.yml">na našem webu návrh pachtovní smlouvy</a> a uzavřete po dohodě se spolupracujícím subjektem smouvu novou</b><br><br></li>
 </ol>
 </p><p>
 
@@ -105,7 +106,7 @@ V případě, že byste s aktivitou potřebovali pomoci, neváhejte se na nás
 S přáním zdravé půdy pro naše děti.
 </p>
   <cite>Jiří Lehejček a rezortní tým Zemědělství</cite>
-</blockquote>
+
 
 
 </div>
