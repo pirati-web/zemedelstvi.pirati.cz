@@ -18,14 +18,9 @@ contentSize: default
   <li><a href="https://docassemble.pirati.cz/interview?i=docassemble.base%3Adata%2Fquestions%2Fpachty.yml">Pachtovní smlouvy tvorba - generátor smlouvy</a></li>
   <li><a href="https://zemedelstvi.pirati.cz/assets/doc/Pachty_Doporuceni_expertu.doc">Doporučení expertů k hospodaření s půdou</a></li>
   <li><a href="https://zemedelstvi.pirati.cz/assets/doc/Pachty_Zasady_pece.doc">Zásady kvalitní péče o půdu</a></li>
-  <li><a href="https://zemedelstvi.pirati.cz/assets/doc/">Rozvoj zemědělství s pestrými osevními postupy</a></li>
-  <li><a href="https://zemedelstvi.pirati.cz/assets/doc/">Ekologické zemědělství</a></li>
-  <li><a href="https://zemedelstvi.pirati.cz/assets/doc/">Asociace Soukromých Zemědělců - materiál k pachtovní smlouvě 2013</a></li>
-  <li><a href="https://zemedelstvi.pirati.cz/assets/doc/">ZAsociace Soukromých Zemědělců - materiál k pachtovní smlouvě nové</a></li>
-  <li><a href="https://zemedelstvi.pirati.cz/assets/doc/">Pachtovní smlouvy z dílny STAN</a></li>
-  <li><a href="https://zemedelstvi.pirati.cz/assets/doc/">Pražské ekologické pachtování</a></li>
-  <li><a href="https://zemedelstvi.pirati.cz/assets/doc/">Obecně pachtovní právo</a></li></ul>
-  
+  <li><a href="https://zemedelstvi.pirati.cz/assets/doc/pachtovni_smlouva_EZ_tisk.docx">Pachtovní smlouva prázdná - Ekologické Zemědělství</a></li>
+  <li><a href="https://zemedelstvi.pirati.cz/assets/doc/pachtovni_smlouva_ASZ1_tisk.docx">Pachtovní smlouva prázdná - Asociace Soukromých Zemědělců</a></li>
+  <li><a href="https://zemedelstvi.pirati.cz/assets/doc/pachtovni_smlouva_ASZ1_tisk.docx">Pachtovní smlouva prázdná - PRAHA Ekologické Zemědělství</a></li>
   
 <div class="o-section-header o-section-header--indented">
   <p></p>
