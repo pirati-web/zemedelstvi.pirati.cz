@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: contact
 description: Pirátská strana poskytuje dobrovolníky pro oblast zemědělství - zde naleznete vše ohledně pachtovních smluv a pachtovního práva v zemědělství .
 keywords: pachty, nájem pozemků, soukromé zemedělství, piráti, dobrovolnictví, zemědělství
 contentSize: default
@@ -13,6 +13,8 @@ contentSize: default
   <h1 class="t-h2-alt">Pachtovní smlouvy a nájem pozemků</h1>
 </div>
 
+
+<div class="o-section-header o-section-header--indented">
 <ul>
   <li><a href="https://zemedelstvi.pirati.cz/assets/doc/Pachty_Radce_vlastnika.pdf">Rádce vlastníka půdy</a></li>
   <li><a href="https://docassemble.pirati.cz/interview?i=docassemble.base%3Adata%2Fquestions%2Fpachty.yml">Pachtovní smlouvy tvorba - generátor smlouvy</a></li>
@@ -21,12 +23,15 @@ contentSize: default
   <li><a href="https://zemedelstvi.pirati.cz/assets/doc/pachtovni_smlouva_EZ_tisk.docx">Pachtovní smlouva prázdná - Ekologické Zemědělství</a></li>
   <li><a href="https://zemedelstvi.pirati.cz/assets/doc/pachtovni_smlouva_ASZ1_tisk.docx">Pachtovní smlouva prázdná - Asociace Soukromých Zemědělců</a></li>
   <li><a href="https://zemedelstvi.pirati.cz/assets/doc/pachtovni_smlouva_ASZ1_tisk.docx">Pachtovní smlouva prázdná - PRAHA Ekologické Zemědělství</a></li>
+  </ul>
+<div>
   
 <div class="o-section-header o-section-header--indented">
   <p></p>
   <h2 class="t-h2-alt">Otevřený dopis</h2>
 </div>
 
+<div class="o-section-header o-section-header--indented">
 
   <p>
 Vážení přátelé a příznivci Pirátské strany,
@@ -101,6 +106,7 @@ V případě, že byste s aktivitou potřebovali pomoci, neváhejte se na nás
 S přáním zdravé půdy pro naše děti.
 </p>
   <cite>Jiří Lehejček a rezortní tým Zemědělství</cite>
+</div>
 
 
 
