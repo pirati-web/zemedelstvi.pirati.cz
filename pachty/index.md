@@ -8,6 +8,23 @@ contentSize: default
 ---
 <div class="o-section">
   <div class="row">
+
+<div class="flex flex-col lg:flex-row lg:space-x-8">
+    
+      <a href="https://www.facebook.com/pirati.vysocina" class="super-button bg-brands-facebook text-white container-padding--zero lg:container-padding--auto lg:w-full"   >
+  <span class="super-button__body">Sledujte nás na Facebooku</span>
+  <i class="super-button__icon ico--facebook"></i>
+</a>
+
+    
+    
+      <a href="https://forum.pirati.cz/vysocina-f84/" class="super-button bg-black text-white container-padding--zero lg:container-padding--auto lg:w-full"   >
+  <span class="super-button__body">Sledujte naše fórum</span>
+  <i class="super-button__icon ico--bubbles"></i>
+</a>
+
+    
+  </div>
     
 <div class="o-section-header o-section-header--indented">
   <h1 class="t-h2-alt">Pachtovní smlouvy a nájem pozemků</h1>
