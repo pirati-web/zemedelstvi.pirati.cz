@@ -46,7 +46,10 @@ main:
         match: vcelarstvi 
       - link: /obory/vodohospodarstvi/
         name: Vodohospodáři
-        match: vodohospodarstvi        
+        match: vodohospodarstvi
+  - link: /pachty/
+    name: Pachty
+    match: pachty        
   - link: /kontakt/
     name: Kontakt
     match: kontakt
