@@ -7,11 +7,10 @@ contentSize: default
 # contentSize: even
 ---
 
+<p>
+<a href="https://docassemble.pirati.cz/interview?i=docassemble.base%3Adata%2Fquestions%2Fpachty.yml"><img src="https://zemedelstvi.pirati.cz/assets/img/pachty_button.png"></a>
+</p>
 
-<div >
-   <a href="https://docassemble.pirati.cz/interview?i=docassemble.base%3Adata%2Fquestions%2Fpachty.yml"><img src="https://zemedelstvi.pirati.cz/assets/pachty_button.png"></a>
-</div>
-    
 <div class="o-section-header o-section-header--indented">
   <h1 class="t-h2-alt">Pachtovní smlouvy a nájem pozemků</h1>
 </div>
