@@ -1,13 +1,12 @@
 ---
-layout: default
+layout: blog
 description: Pirátská strana poskytuje dobrovolníky pro oblast zemědělství - zde naleznete vše ohledně pachtovních smluv a pachtovního práva v zemědělství .
 keywords: pachty, nájem pozemků, soukromé zemedělství, piráti, dobrovolnictví, zemědělství
-contentSize: default
 # Pokud chcete aby obsah a tabulka kontaktů měly stejné proporce, můžete použít:
-# contentSize: even
+contentSize: even
 ---
  
-<div class="o-section-header o-section-header--indented">
+
 <div class="o-section-header o-section-header--indented">
   <h1 class="t-h2-alt">Pachtovní smlouvy a nájem pozemků</h1>
 </div>
@@ -74,4 +73,4 @@ S přáním zdravé půdy pro naše děti.
 </p>
   <cite>Jiří Lehejček a rezortní tým Zemědělství</cite>
 </div>
-</div>
+
