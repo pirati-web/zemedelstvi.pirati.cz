@@ -9,7 +9,7 @@ contentSize: default
 
 
 <div class="flex flex-col lg:flex-row lg:space-x-8">
-    
+  <table width=100% border=1><tr><td width=10%>&nbsp;</td><td width=80% class="medium-14"><a href="https://docassemble.pirati.cz/interview?i=docassemble.base%3Adata%2Fquestions%2Fpachty.yml">Pachtovní smlouvy - generátor smlouvy</a></td><td width=10%>&nbsp;</td></tr></table>
       <a href="https://www.facebook.com/pirati.vysocina" class="super-button bg-brands-facebook text-white container-padding--zero lg:container-padding--auto lg:w-full"   >
   <span class="super-button__body">Sledujte nás na Facebooku</span>
   <i class="super-button__icon ico--facebook"></i>
@@ -33,7 +33,7 @@ contentSize: default
 <div class="o-section-header o-section-header--indented medium-12">
 <ul>
   <li><a href="https://zemedelstvi.pirati.cz/assets/doc/Pachty_Radce_vlastnika.pdf">Rádce vlastníka půdy</a></li>
-  <li><a href="https://docassemble.pirati.cz/interview?i=docassemble.base%3Adata%2Fquestions%2Fpachty.yml">Pachtovní smlouvy tvorba - generátor smlouvy</a></li>
+
   <li><a href="https://zemedelstvi.pirati.cz/assets/doc/Pachty_Doporuceni_expertu.doc">Doporučení expertů k hospodaření s půdou</a></li>
   <li><a href="https://zemedelstvi.pirati.cz/assets/doc/Pachty_Zasady_pece.doc">Zásady kvalitní péče o půdu</a></li>
   <li><a href="https://zemedelstvi.pirati.cz/assets/doc/pachtovni_smlouva_EZ_tisk.docx">Pachtovní smlouva prázdná - Ekologické Zemědělství</a></li>
