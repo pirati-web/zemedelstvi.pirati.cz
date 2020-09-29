@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: default
 description: Pirátská strana poskytuje dobrovolníky pro oblast zemědělství - zde naleznete vše ohledně pachtovních smluv a pachtovního práva v zemědělství .
 keywords: pachty, nájem pozemků, soukromé zemedělství, piráti, dobrovolnictví, zemědělství
 # Pokud chcete aby obsah a tabulka kontaktů měly stejné proporce, můžete použít:
