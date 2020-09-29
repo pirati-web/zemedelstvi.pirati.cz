@@ -8,21 +8,8 @@ contentSize: default
 ---
 
 
-<div class="flex flex-col lg:flex-row lg:space-x-8">
-  <table width=100% border=1><tr><td width=10%>&nbsp;</td><td width=80% class="medium-14"><a href="https://docassemble.pirati.cz/interview?i=docassemble.base%3Adata%2Fquestions%2Fpachty.yml">Pachtovní smlouvy - generátor smlouvy</a></td><td width=10%>&nbsp;</td></tr></table>
-      <a href="https://www.facebook.com/pirati.vysocina" class="super-button bg-brands-facebook text-white container-padding--zero lg:container-padding--auto lg:w-full"   >
-  <span class="super-button__body">Sledujte nás na Facebooku</span>
-  <i class="super-button__icon ico--facebook"></i>
-</a>
-
-    
-    
-      <a href="https://forum.pirati.cz/vysocina-f84/" class="super-button bg-black text-white container-padding--zero lg:container-padding--auto lg:w-full"   >
-  <span class="super-button__body">Sledujte naše fórum</span>
-  <i class="super-button__icon ico--bubbles"></i>
-</a>
-
-    
+<div >
+   <a href="https://docassemble.pirati.cz/interview?i=docassemble.base%3Adata%2Fquestions%2Fpachty.yml"><img src="https://zemedelstvi.pirati.cz/assets/pachty_button.png"></a>
 </div>
     
 <div class="o-section-header o-section-header--indented">
