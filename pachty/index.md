@@ -6,7 +6,17 @@ keywords: pachty, nájem pozemků, soukromé zemedělství, piráti, dobrovolnic
 contentSize: even
 ---
  
-<div style="margin-left: 20px">
+<div class="row o-section-block o-section-block--divided">
+    <div class="medium-12 large-12 columns">
+      
+        <section class="o-section">
+        
+            <div class="o-section-inner">
+              
+                <main class="o-section-block">
+                
+                    <div class="c-BasicPage">
+                        <div class="c-BasicPage-content">
 <div class="o-section-header o-section-header--indented">
   <h1 class="t-h2-alt">Pachtovní smlouvy a nájem pozemků</h1>
 </div>
@@ -72,4 +82,14 @@ S přáním zdravé půdy pro naše děti.
 </p>
   <cite>Jiří Lehejček a rezortní tým Zemědělství</cite>
 </div>
+                          </div> 
+                        </div>    
+                        
+                    </main>   
+                        
+               </div>   
+           
+         </section>    
+         
+    </div>   
 </div>
