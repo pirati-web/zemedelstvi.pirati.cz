@@ -6,11 +6,8 @@ contentSize: default
 # Pokud chcete aby obsah a tabulka kontaktů měly stejné proporce, můžete použít:
 # contentSize: even
 ---
-
-<p>
-<a href="https://docassemble.pirati.cz/interview?i=docassemble.base%3Adata%2Fquestions%2Fpachty.yml"><img src="https://zemedelstvi.pirati.cz/assets/img/pachty_button.png"></a>
-</p>
-
+ 
+<div class="o-section-header o-section-header--indented">
 <div class="o-section-header o-section-header--indented">
   <h1 class="t-h2-alt">Pachtovní smlouvy a nájem pozemků</h1>
 </div>
@@ -27,6 +24,10 @@ contentSize: default
   <li><a href="https://zemedelstvi.pirati.cz/assets/doc/pachtovni_smlouva_ASZ1_tisk.docx">Pachtovní smlouva prázdná - PRAHA Ekologické Zemědělství</a></li>
   </ul>
 <div>
+
+<p>
+<a href="https://docassemble.pirati.cz/interview?i=docassemble.base%3Adata%2Fquestions%2Fpachty.yml"><img src="https://zemedelstvi.pirati.cz/assets/img/pachty_button.png"></a>
+</p>
   
 <div class="o-section-header o-section-header--indented medium-12 ">
   <p></p>
@@ -72,4 +73,5 @@ V případě, že byste s aktivitou potřebovali pomoci, neváhejte se na nás
 S přáním zdravé půdy pro naše děti.
 </p>
   <cite>Jiří Lehejček a rezortní tým Zemědělství</cite>
+</div>
 </div>
