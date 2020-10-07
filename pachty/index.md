@@ -85,11 +85,7 @@ S přáním zdravé půdy pro naše děti.
                           </div> 
                         </div>    
                         
-                    </main>   
-                        
-               </div>   
-           
-         </section>    
+
          
     </div>   
 </div>
