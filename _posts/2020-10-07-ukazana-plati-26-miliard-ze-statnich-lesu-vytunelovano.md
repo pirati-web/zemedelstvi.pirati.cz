@@ -4,7 +4,7 @@ category:     blog
 tags:         #lesnictví #Radek-Holomčík #kontrola-moci-a-mocných #zemědělství
 layout:       post
 title:        "Elfmark: Zachovejme vlka jako symbol ochránce lesa"
-image:        posts/vlci.jpg
+image:        posts/radek_holomcik_lesy.jpg
 author:       Radek Holomčík
 ---
 
