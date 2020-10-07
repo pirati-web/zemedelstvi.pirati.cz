@@ -3,7 +3,7 @@ date:         2020-10-07
 category:     blog
 tags:         #lesnictví #Radek-Holomčík #kontrola-moci-a-mocných #zemědělství
 layout:       post
-title:        "Elfmark: Zachovejme vlka jako symbol ochránce lesa"
+title:        "Ukázaná platí: 26 miliard ze státních lesů? VYTUNELOVÁNO."
 image:        posts/radek_holomcik_lesy.jpg
 author:       Radek Holomčík
 ---
