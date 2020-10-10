@@ -40,7 +40,7 @@ contentSize: even
   
 <div class="o-section-header o-section-header--indented medium-12 ">
   <p>
-  <h3 class="t-h2-alt">Otevřený dopis</h3>
+  <h3 class="t-h3-alt">Otevřený dopis</h3>
   </p>
 
   <p>
@@ -89,7 +89,7 @@ V případě, že byste s aktivitou potřebovali pomoci, neváhejte se na nás
 <p>
 S přáním zdravé půdy pro naše děti.
 </p>
- <h3 class="t-h2-alt"><i>Jiří Lehejček a rezortní tým Zemědělství</i></h3></div>
+ <h3 class="t-h3-alt"><i>Jiří Lehejček a rezortní tým Zemědělství</i></h3></div>
                           </div> 
                         </div>    
                         
