@@ -39,10 +39,9 @@ contentSize: even
 </p>
   
 <div class="o-section-header o-section-header--indented medium-12 ">
-  <p></p>
-  <h2 class="t-h2-alt">Otevřený dopis</h2>
-
-
+  <p>
+  <h3 class="t-h2-alt">Otevřený dopis</h3>
+  </p>
 
   <p>
 Vážení přátelé a příznivci Pirátské strany,
@@ -90,8 +89,7 @@ V případě, že byste s aktivitou potřebovali pomoci, neváhejte se na nás
 <p>
 S přáním zdravé půdy pro naše děti.
 </p>
-  <cite>Jiří Lehejček a rezortní tým Zemědělství</cite>
-</div>
+ <h3 class="t-h2-alt"><i>Jiří Lehejček a rezortní tým Zemědělství</i></h3></div>
                           </div> 
                         </div>    
                         
