@@ -72,7 +72,16 @@ limity a to i přes opakované snahy o revizi ze strany velké části zeměděl
 </ol>
 </p><p>
 
-Důležitá poznámka na okraj. Poměrně intenzivně jsme se zabývali tím, co tedy vlastně po pachtýři chtít. Nabízely se zásady dobré zemědělské praxe, monitoring stavu půd na základě jejích rozborů, konverze k ekologickému zemědělství, konkrétní požadavky na osevní postup atd. došli jsme k závěru, že pokud vlaastníka netrápí nějaký specifický problém (například eroze a splachy půdy do obce – řešení zatravněním), pak nejjednodušší cestou je přechod k certifikovanému ekologickému zemědělství. Majitel půdy totiž v tomto případě získává jistotu, že pachtýř smlouvu dodržuje, jelikož ten je podroben kontrole státem uznaným a supervizovaným certifikačním orgánem. Všechny ostatní přístupy vyžadují dodatečnou kontrolu vlastníka a určitý stupeň expertizy, který u zaměstnanců úřadu ani volených zástupců nelze očekávat. Případně s sebou kontrola nese zvýšené finanční nároky. Pouze konverze k ekologickému zemědělství je pro pachtýře „bezstarostná“. Tento postup lze volitelně doplnit o požadavek na výsadbu remízků, obnovu mezí či starých cest – zde ale již narážíme na lokální specifika, který tento obecněji pojatý dokument nemůže pojmout.
+Důležitá poznámka na okraj.  Poměrně intenzivně jsme se zabývali tím, co tedy vlastně po pachtýři chtít. Nabízely se zásady dobré zemědělské praxe, monitoring stavu půd na základě jejích rozborů, konverze k ekologickému zemědělství, konkrétní požadavky na osevní postup atd. Došli jsme k závěru, že pro vlastníka je klíčová zejména snadná kontrola, jinak je jakákoli smlouva zbytečná. Proto nabízíme tři verze pachtovní smlouvy s odstupňovanou intenzitou péče o půdu. 
+
+
+1) Pachtovní smlouva podpořena Asociací soukromého zemědělství ČR: vymezuje se zejména vůči erozně náchylným širokořádkovým plodinám typu kukuřice pro bioplynové stanice, po obilovinách vyžaduje meziplodiny, alespoň jednou za 5 let požaduje využívání statkových hnojiv, stejně tak jako sadbu jetelovin.
+
+
+2) Pachtovní smlouva, kterou akceptují ekologiští zemědělci: požaduje hospodařit dle zásad a platné legislativy vztahující se na ekologické zemědělství, tedy např. bez použití agrochemikálií, čehož důsledkem je pestrý osevní postup a vyšší biodiverzita; (více najdete na stránkách EAGRI)[http://eagri.cz/public/web/mze/zemedelstvi/ekologicke-zemedelstvi/]
+
+
+3) Pachtovní smlouva, kterou na svých pozemcích využívá Hlavní město Praha: kromě ekologického zemědělství je navíc stanovena maximální velikost půdního bloku na 5 ha, způsob rozdělení půdních bloků pomocí mezí, požadavky na meziplodiny nebo množství statkových hnojiv na 15 t / ha / rok.
 </p>
 <p>
 V případě, že byste s aktivitou potřebovali pomoci, neváhejte se na nás obrátit.
