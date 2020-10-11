@@ -30,7 +30,7 @@ contentSize: even
   <li><a href="https://zemedelstvi.pirati.cz/assets/doc/Pachty_Zasady_pece.doc">Zásady kvalitní péče o půdu</a></li>
   <li><a href="https://zemedelstvi.pirati.cz/assets/doc/pachtovni_smlouva_EZ_tisk.docx">Pachtovní smlouva prázdná k vyplnění - Ekologické Zemědělství</a></li>
   <li><a href="https://zemedelstvi.pirati.cz/assets/doc/pachtovni_smlouva_ASZ1_tisk.docx">Pachtovní smlouva prázdná k vyplnění  - Asociace Soukromých Zemědělců</a></li>
-  <li><a href="https://zemedelstvi.pirati.cz/assets/doc/pachtovni_smlouva_ASZ1_tisk.docx">Pachtovní smlouva prázdná k vyplnění  - PRAHA Ekologické Zemědělství</a></li>
+  <li><a href="https://zemedelstvi.pirati.cz/assets/doc/pachtovni_smlouva_PRAHA_tisk.docx">Pachtovní smlouva prázdná k vyplnění  - PRAHA Ekologické Zemědělství</a></li>
   </ul>
 <div>
 
