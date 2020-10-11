@@ -1,5 +1,5 @@
 ---
-date: 2020-05-15
+date: 2020-10-11
 category: blog
 tags: sucho zemědělství krajinotvorba rostlinná-výroba
 layout: post
