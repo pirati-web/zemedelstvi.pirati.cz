@@ -8,7 +8,7 @@ tags:
 - olomoucký-kraj
 - rybářství
 author: Martin Šmída
-image: tecebecvatece.jpg  #751x422 pixelu
+image: posts/tecebecvatece.jpg  #751x422 pixelu
 ---
 Znečištění Bečvy, ke kterému došlo v sousedním kraji, je jednou z největších ekologických katastrof v kraji Olomouckém, jelikož právě zde napáchalo největší škody. Navrácení vzácného ekosystému, který řeka měla vybudovaný, se na některých místech může znovu vytvářet klidně i několik let. Nově zvolený krajský radní Martin Šmída, se ihned po převzetí funkce začal zabývat tím, jak se v této situaci dosavadní vedení kraje zachovalo a zda nedošlo k nějakému pochybení. Připojil se tak k usilovné práci Pirátů sousedního Zlínského kraje, kde ke znečištění došlo.
 
