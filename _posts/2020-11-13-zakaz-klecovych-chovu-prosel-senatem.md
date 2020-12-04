@@ -4,7 +4,7 @@ category:     blog
 tags:         legislativa živočišná-výroba klecové-chovy Jan-Pošvář
 layout:       post
 title:        "Senát podpořil zákaz klecového chovu slepic, který prosazovali Piráti. Nyní zákon míří k prezidentovi"
-image:        posts/2020-11-12-slepice-opet-na-scene.JPG
+image:        posts/2020-11-12-slepice-opet-na-scene.jpg
 author:       Jan Pošvář
 ---
 
