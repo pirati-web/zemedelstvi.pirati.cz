@@ -1,11 +1,11 @@
 ---
 date:         2020-11-13
 category:     blog
-tags:         slepice klecový-chov senát
+tags:         legislativa živočišná-výroba klecové-chovy Jan-Pošvář
 layout:       post
 title:        "Senát podpořil zákaz klecového chovu slepic, který prosazovali Piráti. Nyní zákon míří k prezidentovi"
 image:        posts/2020-11-12-slepice-opet-na-scene.JPG
-author:       
+author:       Jan Pošvář
 ---
 
 Praha, 13. listopad 2020 –  Senát dnes schválil pozměňovací návrh Pirátů o zákazu klecového chovu slepic od roku 2027. Nyní zákon míří k prezidentovi. „Těší mě, že i senátoři podpořili náš pozměňovací návrh podaný společně s poslancem Chvojkou, Elfmarkem, Maříkovou a Pekarovou Adamovou, a vyslyšeli tak volání veřejnosti a mnoha odborníků. Více než tři čtvrtiny Čechů podporují zákaz klecového chovu slepic,” okomentoval výsledek hlasování poslanec Pirátů Jan Pošvář. 
