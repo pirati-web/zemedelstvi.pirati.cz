@@ -1,6 +1,6 @@
 ---
 date: 2021-01-14
-category: blog
+category: post
 tags: zahrádkářství kontrola-moci-a-mocných
 layout: post
 title: Parkoviště a protipovodňový park místo zahrádek? Liberečtí Piráti se zastali zahrádkářů proti aroganci vedení města
