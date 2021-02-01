@@ -1,6 +1,6 @@
 ---
 date: 2021-01-15
-category: blog
+category: post
 tags:
   - Milan-Daďourek
   - živočišná-výroba
@@ -8,8 +8,7 @@ tags:
   - dotace
 layout: post
 title: Ministerstvo zemědělství odkládá vyplácení dotací po chovatele
-author: Jiří Svoboda
-authorId: jiri.svoboda.hb
+author: Jiří Svoboda, Milan Daďourek
 image: posts/2021-01-15-ministerstvo-zemedelstvi-odklada.jpg
 important: true
 ---
