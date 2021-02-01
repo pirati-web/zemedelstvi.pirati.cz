@@ -1,6 +1,6 @@
 ---
 date: 2021-01-13
-category: blog
+category: post
 tags:
   - rostlinná-výroba
   - podpora-zemědělcům
