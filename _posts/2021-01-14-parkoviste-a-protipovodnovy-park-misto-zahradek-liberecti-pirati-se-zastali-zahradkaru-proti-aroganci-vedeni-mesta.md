@@ -5,7 +5,6 @@ tags: zahrádkářství kontrola-moci-a-mocných
 layout: post
 title: Parkoviště a protipovodňový park místo zahrádek? Liberečtí Piráti se zastali zahrádkářů proti aroganci vedení města
 author: Pavel Felgr
-authorId: pavel.felgr
 image: posts/2021-01-14-parkoviste-a-protipovodnovy-park-misto-zahradek-liberecti-pirati-se-zastali-zahradkaru-proti-aroganci-vedeni-mesta.jpg
 ---
 Vedení města Liberce koncem loňského roku oznámilo ústy náměstka Jiřího Šolce zahrádkářům, kteří mají zahrádky v ulici Wintrova, že o zahrádky asi přijdou. Nestalo se tak ale oficiální zprávou z města, jak by se dalo očekávat, ale [prostřednictvím zpráv televize RTM](http://www.rtmplus.cz/video/11611/liberecky-magazin-nejen-o-protipovodnovych-opatrenich.html){:target='_blank'}. Podle něj má v oblasti vzniknout protipovodňový park a parkovací stání. Zahrádkáři i Piráti takové jednání odmítají. 
