@@ -9,7 +9,6 @@ tags:
 layout: post
 title: Generátor pachtovních smluv aneb velká pomoc pro malé zemědělce
 author: Blanka Lednická
-authorId: blanka.lednicka
 image: posts/2021-01-13-generator-pachtovnich-smluv.jpg
 important: true
 ---
