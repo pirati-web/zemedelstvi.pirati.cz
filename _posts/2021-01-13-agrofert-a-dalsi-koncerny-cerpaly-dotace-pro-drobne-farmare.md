@@ -5,7 +5,7 @@ tags:         evropská-unie dotace finance kontrola-moci-a-mocných
 layout:       post
 title:        "Dotace pro drobné farmáře čerpaly velké koncerny včetně Agrofertu. Odhalení Pirátů vedou k hloubkové kontrole Evropské komise "
 image:        posts/jakub-michalek-ct.jpg
-author:       
+author:       Jakub Michálek
 ---
 
 
