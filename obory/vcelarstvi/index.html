@@ -15,7 +15,7 @@ keywords: včelařství, včelaři, včely, med, vosk, aktuality, tiskové zprá
           </header>
           {% assign tag = 'včelařství'  %}
           <ul>
-          {% for post in site.tags[tag] %}
+          {% for post in site.tags[tag] limit:12 %}
             <li><a href="{{ post.url }}">{{ post.title }}</a></li>{% endfor %}
           </ul><hr><hr>
          {% assign posts=site.tags[tag] %} 
