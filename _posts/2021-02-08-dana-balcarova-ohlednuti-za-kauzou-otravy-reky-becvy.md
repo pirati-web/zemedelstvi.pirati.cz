@@ -10,7 +10,7 @@ author:       Dana Balcarová
 
 
 <p>Posledních několik měsíců dostávám mnoho otázek a podnětů týkajících se kauzy otravy řeky Bečvy, jejího vyšetřování a názoru Pirátů. Proto přináším stručné shrnutí dosavadních aktivit pirátských poslanců i zastupitelů. Možná jste podobnou odpověď obdrželi na váš dotaz i Vy.</p>
-<img class="hlavni" src="/upload/thumbs/w600/4989.jpg" alt="becva" title="Likvidace ekologické katastrofy na řece Bečvě. (Zdroj: Ondřej Kašpar, ZaZivouBecvu.cz)" width="600">
+
 <div class="clear">
 <p>Piráti po celou dobu kauzu bedlivě sledují a požadují nápravu, dopadení viníka a funkční nastavení postupů při dalších ekologických haváriích. Kauza byla pod vedením paní poslankyně Balcarové od začátku <a href="https://www.pirati.cz/tiskove-zpravy/Pirati-spustili-web-k-otrave-Becvy.html">projednávána</a> na Výboru pro životní prostředí. Pirátský poslanec František Elfmark vytvořil <a href="https://zazivoubecvu.cz/">informační web</a>, který má za cíl nejen vyvíjet tlak na ministerstvo, aby byla kauza prošetřena a především, aby bylo předejito tomu, že se podobná katastrofa bude ještě někdy opakovat. Web má pak sloužit především veřejnosti k lepšímu zorientování se v průběhu havárie a v postupu úřadů.&nbsp;&nbsp;</p>
 
