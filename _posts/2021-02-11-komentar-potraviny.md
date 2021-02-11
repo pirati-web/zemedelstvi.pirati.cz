@@ -1,6 +1,6 @@
 | date       | category | tags           | layout | title                                                        | image                                   | author        |
 | ---------- | -------- | -------------- | ------ | ------------------------------------------------------------ | --------------------------------------- | ------------- |
-| 2021-02-11 | blog     | potravinářství | post   | Ještě k obřím nákladům potravinových kvót: Údajný přínos nelze ospravedlnit | posts/2021-02-11-komentar-potraviny.jpg | Václav Štindl |
+|2021-02-11 | blog     | potravinářství | post   | Ještě k obřím nákladům potravinových kvót: Údajný přínos nelze ospravedlnit | posts/2021-02-11-komentar-potraviny.jpg | Václav Štindl |
 
 
 
