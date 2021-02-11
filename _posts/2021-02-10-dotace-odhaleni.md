@@ -1,7 +1,12 @@
-| date       | category | tags   | layout | title                                                        | image                                | author  |
-| ---------- | -------- | ------ | ------ | ------------------------------------------------------------ | ------------------------------------ | ------- |
-| 2021-02-10 | blog     | dotace | post   | Dotace pro drobné farmáře čerpaly velké koncerny včetně Agrofertu. Odhalení Pirátů vedou k hloubkové kontrole Evropské komise | posts/2021-02-10-dotace-odhaleni.jpg | Redakce |
-
+---
+date:         2021-02-10
+category:     blog
+tags:         kontrola-moci-a-mocných dotace 
+layout:       post
+title:        "Dotace pro drobné farmáře čerpaly velké koncerny včetně Agrofertu. Odhalení Pirátů vedou k hloubkové kontrole Evropské komise "
+image:        posts/2021-02-10-dotace-odhaleni.jpg 
+author:       Redakce
+---
 
 
 
