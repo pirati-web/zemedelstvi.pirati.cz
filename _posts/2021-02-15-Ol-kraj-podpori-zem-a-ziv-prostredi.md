@@ -1,14 +1,13 @@
 
 
-| layout:   | post                                                         |
-| --------- | ------------------------------------------------------------ |
-| category: | blog                                                         |
-| title:    | 'Olomoucký kraj podpoří akce a spolky zaměřené na životní prostředí a zemědělství' |
-| date:     | 2021-02-15                                                   |
-| author:   | Redakce                                                      |
-| authorId: | redakce                                                      |
-| image:    | posts/2021-02-15-liberecti-pirati-jednali-o-zachovani-zahradek.jpg     |
-| tags:     | zemedelstvi životni prosředí                                 |
+---
+date:         2021-02-15
+category:     blog
+tags:         zemědělství životní prostředí 
+layout:       post
+title:        "Olomoucký kraj podpoří akce a spolky zaměřené na životní prostředí a zemědělství"
+image:        posts/2021-02-15-liberecti-pirati-jednali-o-zachovani-zahradek.jpg
+author:       Redakce
 
 **Rada Olomouckého kraje dnes na své schůzi schválila podporu akcí zaměřených na oblast životního prostředí a zemědělství a podporu činnosti zájmových spolků a organizací, jejichž předmětem činnosti je oblast životního prostředí a zemědělství.**
 
