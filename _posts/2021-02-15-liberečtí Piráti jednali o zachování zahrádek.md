@@ -4,7 +4,7 @@ category:     blog
 tags:         zahrádkářství 
 layout:       post
 title:        "Liberečtí Piráti jednali o zachování zahrádek"
-image:        posts/2021-02-15-Liberečtí Piráti jednali o zachování zahrádek.jpg
+image:        posts/2021-02-15-liberecti-pirati-jednali-o-zachovani-zahradek.jpg
 author:       Pavel Fejgr
 ---
 
