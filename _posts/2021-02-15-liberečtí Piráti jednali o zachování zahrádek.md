@@ -1,13 +1,12 @@
-| --------- | ------------------------------------------------------------ |
-| layout:   | post                                                         |
-| category: | blog                                                         |
-| title:    | 'Liberečtí Piráti jednali o zachování zahrádek'              |
-| date:     | 2021-02-15                                                   |
-| author:   | Pavel Fejgr                                                  |
-| authorId: | pavel.jejgr                                                  |
-| image:    | posts/2021-02-15-Liberečtí Piráti jednali o zachování zahrádek.jpg |
-| tags:     | zemedelstvi zahradkařství                                    |
-| --------- | ------------------------------------------------------------ |
+---
+date:         2021-02-15
+category:     blog
+tags:         zahrádkářství 
+layout:       post
+title:        "Liberečtí Piráti jednali o zachování zahrádek"
+image:        posts/2021-02-15-Liberečtí Piráti jednali o zachování zahrádek.jpg
+author:       Pavel Fejgr
+---
 
 **Začátkem února proběhla schůzka libereckého Piráta [Pavla Felgra](https://liberecky.pirati.cz/lide/pavel-felgr) a náměstka primátora pro technickou správu města a informační technologie Jiřího Šolce. Předmětem schůzky byl protipovodňový plán města a zejména část týkající se ulice Wintrova, kde chce současné vedení města zlikvidovat zahrádkářskou kolonii a postavit povodňový park.**
 
