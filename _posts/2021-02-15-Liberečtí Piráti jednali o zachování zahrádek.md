@@ -1,10 +1,7 @@
-
-
 | layout:   | post                                                         |
-| --------- | ------------------------------------------------------------ |
 | category: | blog                                                         |
 | title:    | 'Liberečtí Piráti jednali o zachování zahrádek'              |
-| date:     | 2021-02-11                                                   |
+| date:     | 2021-02-15                                                   |
 | author:   | Pavel Fejgr                                                  |
 | authorId: | pavel.jejgr                                                  |
 | image:    | posts/2021-02-15-Liberečtí Piráti jednali o zachování zahrádek.jpg |
