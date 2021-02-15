@@ -7,7 +7,7 @@
 | date:     | 2021-02-15                                                   |
 | author:   | Redakce                                                      |
 | authorId: | redakce                                                      |
-| image:    | posts/2021-02-15-Ol-kraj-podpori-zem-a-ziv-prostredi.jpg     |
+| image:    | posts/2021-02-15-liberecti-pirati-jednali-o-zachovani-zahradek.jpg     |
 | tags:     | zemedelstvi životni prosředí                                 |
 
 **Rada Olomouckého kraje dnes na své schůzi schválila podporu akcí zaměřených na oblast životního prostředí a zemědělství a podporu činnosti zájmových spolků a organizací, jejichž předmětem činnosti je oblast životního prostředí a zemědělství.**
