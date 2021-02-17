@@ -1,6 +1,12 @@
-| date       | category | tags                 | layout | title                                                        | image                            | author                    |
-| ---------- | -------- | -------------------- | ------ | ------------------------------------------------------------ | -------------------------------- | ------------------------- |
-| 2021-02-17 | blog     | legislativa   konopí | post   | „Konopí bude,“ hlásí naši poslanci Radek Holomčík a Tom Vymazal ze Zemědělského výboru Sněmovny. | posts/2021-02-17-konopi-bude.jpg | Radek Holomčík Jan Pošvář |
+---
+date:         2021-02-17
+category:     blog
+tags:         legislativa konopí rostlinná
+layout:       post
+title:        "„Konopí bude,“ hlásí naši poslanci Radek Holomčík a Tom Vymazal ze Zemědělského výboru Sněmovny"
+image:        posts/2021-02-17-konopi-bude.jpg
+author:       Radek Holomčík Tom Vymazal
+---
 
 **„Konopí bude,“ hlásí naši poslanci [Radek Holomčík](https://www.facebook.com/holomcik/?__cft__[0]=AZWKHZdsnvSbXO_HvAXl6TJab1ihPYJ-W400_kul7vCoytjOQ0yO0xhKuyNEGis8vlmJfBYoXEra5jagaCMw5n-Wmdh_LficmHqg7NmDMM4arIXNRV3oWemlUAUdSe5HbjXT4I4wFD6HNpSjTVbABd8rDPTfL-fxgsYw6-GsQZoZBHu15A8X6ty_kHAmWTsvWUA&__tn__=kK-R) a [Tom Vymazal](https://www.facebook.com/tom.vymazal?__cft__[0]=AZWKHZdsnvSbXO_HvAXl6TJab1ihPYJ-W400_kul7vCoytjOQ0yO0xhKuyNEGis8vlmJfBYoXEra5jagaCMw5n-Wmdh_LficmHqg7NmDMM4arIXNRV3oWemlUAUdSe5HbjXT4I4wFD6HNpSjTVbABd8rDPTfL-fxgsYw6-GsQZoZBHu15A8X6ty_kHAmWTsvWUA&__tn__=-]K-R) ze Zemědělského výboru Sněmovny. Nebo je k němu minimálně dobře nakročeno. Výbor totiž dneska projednal a schválil dva naše návrhy na rozumnější přístup k technickému konopí.** 
 
