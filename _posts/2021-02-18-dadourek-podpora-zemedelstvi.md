@@ -1,6 +1,12 @@
-| date       | category | tags        | layout | title                                                        | image                            | author                    |
-| ---------- | -------- | ----------- | ------ | ------------------------------------------------------------ | -------------------------------- | ------------------------- |
-| 2021-02-18 | blog     | zemedelstvi | post   | „Milan Daďourek – podpora tradičních způsobů zemědělství zůstává jen na papíře" | posts/2021-02-17-konopi-bude.jpg | Radek Holomčík Jan Pošvář |
+---
+date:         2021-02-18
+category:     blog
+tags:         zemedelstvi podpora-zemědělcům
+layout:       post
+title:        "Milan Daďourek – podpora tradičních způsobů zemědělství zůstává jen na papíř"
+image:        posts/2021-02-18-milan-dadourek-podpora-tradicnich-zpusobu-zemedelstvi.jpg
+author:       Milan Daďourek
+---  
 
 Počítky, 18. února 2021 - **Jaký je ideální obraz venkovské krajiny? Většině z nás vyvstane v mysli pohled na střídající se chlumy, pole a louky, kde nechybí popásající se skot, ovce a pracovití lidé. Pak otevřeme oči a vidíme lány oranisek přejížděné hlučnými stroji. Přečtěte si komentář Milana Daďourka, lídra společné kandidátky Pirátů a STAN ve volbách do poslanecké sněmovny, o výhodách pastevního chovu a jeho vlivu na naši krajinu.**
 
