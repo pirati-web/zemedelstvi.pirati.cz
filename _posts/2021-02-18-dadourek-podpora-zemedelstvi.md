@@ -3,7 +3,7 @@ date:         2021-02-18
 category:     blog
 tags:         zemedelstvi podpora-zemědělcům
 layout:       post
-title:        "Milan Daďourek – podpora tradičních způsobů zemědělství zůstává jen na papíř"
+title:        "Milan Daďourek – podpora tradičních způsobů zemědělství zůstává jen na papíru"
 image:        posts/2021-02-18-milan-dadourek-podpora-tradicnich-zpusobu-zemedelstvi.jpg
 author:       Milan Daďourek
 ---  
