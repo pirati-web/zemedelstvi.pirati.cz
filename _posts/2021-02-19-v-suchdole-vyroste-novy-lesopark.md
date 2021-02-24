@@ -5,7 +5,7 @@ tags:
 - krajinotvorba
 - výsadba
 title:        "V Praze Suchdole vyroste nový lesopark"
-image: 	      murnak-strom.jpg
+image: 	      posts/murnak-strom.jpg
 author:       MHMP
 ---
 
