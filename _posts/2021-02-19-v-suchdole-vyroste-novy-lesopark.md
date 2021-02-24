@@ -1,7 +1,9 @@
 ---
 date:         2021-02-17
 tags:         
-- životní prostředí
+- lesnictví
+- krajinotvorba
+- výsadba
 title:        "V Praze Suchdole vyroste nový lesopark"
 image: 	      murnak-strom.jpg
 author:       MHMP
