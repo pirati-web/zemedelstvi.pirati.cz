@@ -1,6 +1,11 @@
-| date       | category | tags   | layout | title                                                        | image                                   | author        |
-| ---------- | -------- | ------ | ------ | ------------------------------------------------------------ | --------------------------------------- | ------------- |
-| 2021-02-26 | blog     | dotace | post   | „Nová studie: Česko je zemí obřích agrobyznysů, na Slovensku řádí dotační mafie" | posts/2021-02-25-dotace-nova-studie.jpg | Mikuláš Peksa |
+---
+date:         2021-02-26
+category:     blog
+tags:         dotace
+layout:       post
+title:        "Nová studie: Česko je zemí obřích agrobyznysů, na Slovensku řádí dotační mafie"
+image:       Mikuláš Peksa
+---  
 
 **Nová studie potvrzuje, že evropské peníze ve střední a východní Evropě často končí v rukou oligarchů a jejich kumpánů.**
 
