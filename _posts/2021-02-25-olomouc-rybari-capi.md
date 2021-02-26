@@ -5,7 +5,6 @@ tags:         rybnikarstvi
 layout:       post
 title:        "Olomoucký kraj podpoří stanice pro handicapovaná zvířata, zarybnění či hnízdiště čápů"
 image:        posts/22021-02-25-olomouc-rybari-capi.jpg
-
 author:       Josef Indra
 ---  
 
