@@ -1,10 +1,10 @@
 ---
 date:         2021-02-25
 category:     blog
-tags:         rybnikarstvi
+tags:         rybářství krajinotvorba rybníkářství 
 layout:       post
 title:        "Olomoucký kraj podpoří stanice pro handicapovaná zvířata, zarybnění či hnízdiště čápů"
-image:        posts/22021-02-25-olomouc-rybari-capi.jpg
+image:        posts/2021-02-25-olomouc-rybari-capi.jpg
 author:       Josef Indra
 ---  
 
