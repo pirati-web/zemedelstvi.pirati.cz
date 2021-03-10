@@ -5,7 +5,6 @@ tags:         zemědělství půda
 layout:       post
 title:        "Orná půda v Hněvotíně bude dále sloužit zemědělcům"
 image:        posts/2021-03-08-orna-puda-v-hnevotine-bude-dale-slouzit-zemedelcum.jpg
-
 author:       Josef Indra
 ---  
 
