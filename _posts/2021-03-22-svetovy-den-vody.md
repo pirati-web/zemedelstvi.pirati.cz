@@ -4,7 +4,7 @@ category:     blog
 tags:         zemědělství voda
 layout:       post
 title:        "Světový den vody. Jaká je skutečná hodnota vody?"
-image:        posts/2021-03-22-svetovy-den-vody.jpg
+image:        posts/2021-03-22-svetovy-den-vody.jpeg
 
 author:       Blanka Lednická
 ---  
