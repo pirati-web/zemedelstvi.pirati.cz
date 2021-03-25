@@ -1,7 +1,7 @@
 ---
 date:         2021-03-22
 category:     blog
-tags:         zemědělství voda
+tags:         zemědělství voda životní-prostředí vodohospodářství sucho
 layout:       post
 title:        "Světový den vody. Jaká je skutečná hodnota vody?"
 image:        posts/2021-03-22-svetovy-den-vody.jpeg
