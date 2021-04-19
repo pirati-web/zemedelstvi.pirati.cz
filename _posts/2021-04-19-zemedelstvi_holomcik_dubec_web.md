@@ -6,7 +6,7 @@ layout:       post
 title:        "Vize pro české zemědělství: podpora pestrého zemědělství, udržitelného hospodaření a užší spolupráce státu a zemědělců"
 image:        posts/2021-04-19-zemedelstvi_holomcik_dubec_web.jpeg
 
-author:        MO Jihomorabský kraj
+author:        MO Jihomoravský kraj
 ---  
 
 **Jihomoravští Piráti mají aktuálně dvojitou páku pro proměnu regionálního zemědělství. Kromě náměstka pro životní prostředí [Lukáše Dubce](https://jihomoravsky.pirati.cz/lide/lukas-dubec/) jej v Poslanecké sněmovně zastupuje [Radek Holomčík](https://jihomoravsky.pirati.cz/lide/radek-holomcik), který je zároveň místopředsedou Zemědělského výboru PSP.**
