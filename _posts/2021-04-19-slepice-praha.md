@@ -1,7 +1,7 @@
 ---
 date:         2021-04-19
 category:     blog
-tags:         zakaz klecoveho chovu slepic, slepice, potraviny
+tags:        slepice, potraviny
 layout:       post
 title:        "Pražské střední školy budou vařit už jen z vajec z bezklecových chovů! "
 image:        posts/2021-04-19-slepice-praha.jpeg
