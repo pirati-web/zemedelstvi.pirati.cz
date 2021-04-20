@@ -1,7 +1,7 @@
 ---
 date:         2021-04-15
 category:     blog
-tags:         zahradkarství
+tags:         zahrádkářství
 layout:       post
 title:        "Komentář Jana Pošváře: Nepodceňujme význam zahrádkaření"
 image:        posts/2021-04-15-vyznam-zahradek-posvar.jpeg
