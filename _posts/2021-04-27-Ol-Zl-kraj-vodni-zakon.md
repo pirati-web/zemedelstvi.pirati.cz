@@ -5,7 +5,6 @@ tags:         zemědělství životní-prostředí legislativa
 layout:       post
 title:        "Olomoucký a Zlínský kraj připomínkují novelu vodního zákona"
 image:        posts/27-04-2021-Ol-Zl-kraj-vodni-zakon.jpeg
-
 author:        Josef Indra
 ---  
 
