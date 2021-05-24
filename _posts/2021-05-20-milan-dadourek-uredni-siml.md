@@ -5,7 +5,7 @@ tags:         zemědělství
 layout:       post
 title:        "Milan Daďourek - Úřední šiml řehtá chovatelům stále hlasitěji"
 image:        posts/2021-05-20-milan-dadourek-uredni-siml.jpeg
-author:        Milan Daďourek
+author:       Milan Daďourek
 ---  
 
 Počítky, 20. května 2021 - **Ještě nedávno bývalo běžné, že na vesnici byla zvířata skoro v každé chalupě. Dnes stát dělá z chovu záležitost pro specialisty. Pokud chci mít na dvorku kozu, už nestačí evidovat se jako hospodářství a podstoupit papírování s přihlašováním a odhlašováním zvířat. Na běžné ostříhání paznehtů dnes podle státu potřebuji maturitu a odborný kurz na Veterinární univerzitě. Další nesmyslné povinnosti by se daly vypočítávat a tak dnes většina drobných chovů balancuje na hraně ilegality. Ministerstvo zemědělství však nezahálí a přináší další \*„vylepšení“\*.**
