@@ -5,7 +5,6 @@ tags:         zemědělství
 layout:       post
 title:        "Milan Daďourek - Úřední šiml řehtá chovatelům stále hlasitěji"
 image:        posts/2021-05-20-milan-dadourek-uredni-siml.jpeg
-
 author:        Milan Daďourek
 ---  
 
