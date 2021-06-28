@@ -1,7 +1,7 @@
 ---
 date:         2021-04-20
 category:     blog
-tags:         zemědělství
+tags:         zemědělství rostlinná-výroba krajinotvorba
 layout:       post
 title:        "Milan Daďourek - Je důležité umožnit zemědělcům, aby se mohli beze strachu bránit"
 image:        posts/2021-04-20-milan-dadourek-je-dulezite-umoznit.jpeg
