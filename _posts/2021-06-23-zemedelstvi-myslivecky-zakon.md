@@ -1,7 +1,7 @@
 ---
 date:         2021-06-23
 category:     blog
-tags:         legislativa sněmovna
+tags:         legislativa sněmovna myslivost lesnictví
 layout:       post
 title:        "Komentář Radka Holomčíka: Sabotáž novely mysliveckého zákona je hloupým politikařením a hazardem s budoucností české krajiny, zemědělstvím, lesnictvím, ale hlavně s myslivostí"
 image:        posts/holomcik.jpg
