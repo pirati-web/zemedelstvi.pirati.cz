@@ -1,7 +1,7 @@
 ---
 date:         2021-03-31 
 category:     blog
-tags:         legislativa myslivot lesnictví životní-prostředí zemědělství
+tags:         legislativa myslivost lesnictví životní-prostředí zemědělství
 layout:       post
 title:        "Jak bude vypadat česká myslivost? Piráti chtějí větší pravomoci pro lesní hospodáře i lepší regulaci přemnožené zvěře"
 image:        myslivost.jpg
