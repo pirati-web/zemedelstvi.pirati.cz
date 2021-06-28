@@ -1,7 +1,7 @@
 ---
 date:         2021-04-27
 category:     blog
-tags:         zemědělství životní-prostředí legislativa
+tags:         zemědělství životní-prostředí legislativa vodohospodářství sucho 
 layout:       post
 title:        "Olomoucký a Zlínský kraj připomínkují novelu vodního zákona"
 image:        posts/2021-04-27-Ol-Zl-kraj-vodni-zakon.jpeg
