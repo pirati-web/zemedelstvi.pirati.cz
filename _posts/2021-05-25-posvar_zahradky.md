@@ -1,7 +1,7 @@
 ---
 date:         2021-05-25
 category:     blog
-tags:         zemědělství legislativa zahradkarstvi
+tags:         zemědělství legislativa zahrádkářství
 layout:       post
 title:        "Piráti prosadili zahrádkářský zákon v původní podobě, Sněmovna odmítla okleštěnou senátní verzi"
 image:        posts/2021-05-25-posvar_zahradky.jpeg
