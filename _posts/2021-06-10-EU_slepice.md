@@ -1,7 +1,7 @@
 ---
 date:         2021-06-10
 category:     blog
-tags:         zemědělství EU chovatelství
+tags:         zemědělství EU chovatelství živočišná-výroba
 layout:       post
 title:        "Europoslanci odhlasovali konec doby klecové. Podpořili tak iniciativu více než 1,6 milionů lidí"
 image:        posts/2021-06-10-EU_slepice.jpeg
