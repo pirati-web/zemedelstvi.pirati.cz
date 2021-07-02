@@ -1,7 +1,7 @@
 ---
 date:         2021-05-20
 category:     blog
-tags:         zemědělství 
+tags:         zemědělství chovatelství živočišná-výroba
 layout:       post
 title:        "Milan Daďourek - Úřední šiml řehtá chovatelům stále hlasitěji"
 image:        posts/2021-05-20-milan-dadourek-uredni-siml.jpeg

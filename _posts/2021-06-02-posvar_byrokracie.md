@@ -1,7 +1,7 @@
 ---
 date:         2021-06-02
 category:     blog
-tags:         zemědělství legislativa 
+tags:         zemědělství legislativa krajinotvorba rostlinná-výroba
 layout:       post
 title:        "Piráti zamezili nárůstu byrokracie a zhoršení podmínek pro hospodaření v české krajině"
 image:        posts/2021-06-02-posvar_byrokracie.jpeg

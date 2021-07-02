@@ -1,7 +1,7 @@
 ---
 date:         2021-04-07
 category:     blog
-tags:         voda
+tags:          vodohospodářství sucho rybářství
 layout:       post
 title:        "Rozhovor: Zadržení vody v krajině je pro nás prioritou, podpoříme další projekty"
 image:        posts/2021-04-07-voda-v-krajine-rozhovor-dubec.jpeg
