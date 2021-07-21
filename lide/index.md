@@ -17,23 +17,19 @@ keywords: zemědělci, lesníci, rolníci, rybáři, myslivci, včelaři, zahrá
                         <div class="c-BasicPage-content">
 
                              <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
-                             
                                 <li class="c-simple-accordion-item is-active" data-accordion-item="">
                                   <a href="#garant" class="c-simple-accordion-title"><h4>VEDOUCÍ RT ZEMĚDĚLSTVÍ</h4></a>
                                     <div id="garant" class="c-simple-accordion-content" data-tab-content="">
                                         {% assign team = site.people | where_exp:"item","item.categories contains 'garant'" | sort:"ordgarant" %}
                                         {% include people/list-2col.html param=team %}
-                                    </div>
-                                </li>
+                                    </div></li> 
                                 
                                 <li class="c-simple-accordion-item" data-accordion-item="">
                                     <a href="#snemovna" class="c-simple-accordion-title"><h4>POSLANCI A POSLANKYNĚ</h4></a>
                                     <div id="snemovna" class="c-simple-accordion-content" data-tab-content="">
                                         {% assign team = site.people | where_exp:"item","item.categories contains 'poslanec'" | sort:"ordpsp" %}
                                         {% include people/list-2col.html param=team %}
-                                    </div>
-                                    
-                                </li>
+                                    </div></li>
                                 
                                 <li class="c-simple-accordion-item  content-block" data-accordion-item="">
                                     <a href="#ketolomoucky"  class="c-simple-accordion-title"><h4>EXPERTI RESORTU - OLOMOUCKÝ KRAJ</h4></a>
@@ -42,9 +38,7 @@ keywords: zemědělci, lesníci, rolníci, rybáři, myslivci, včelaři, zahrá
                                             {% assign team = site.people | where_exp:"item","item.categories contains 'olomoucký'" %}
                                             {% include people/list-2col.html param=team %}
                                         </div>
-                                    </div>
-                                    
-                                    </li>
+                                    </div></li>
                                     
                                 <li class="c-simple-accordion-item  content-block" data-accordion-item="">
                                     <a href="#ketzlinsky"  class="c-simple-accordion-title"><h4>EXPERTI RESORTU - ZLÍNSKÝ KRAJ</h4></a>
@@ -53,22 +47,18 @@ keywords: zemědělci, lesníci, rolníci, rybáři, myslivci, včelaři, zahrá
                                             {% assign team = site.people | where_exp:"item","item.categories contains 'zlínský'" %}
                                             {% include people/list-2col.html param=team %}
                                         </div>
-                                    </div>
+                                    </div></li>
                                     
-                                    </li>
-                                    
-                                <li class="c-simple-accordion-item" data-accordion-item="">              
+                                <li class="c-simple-accordion-item" data-accordion-item="">
                                 
                                     <a href="#ketvysocina" class="c-simple-accordion-title"><h4>EXPERTI RESORTU - KRAJ VYSOČINA</h4></a>
                                     
                                     <div id="ketvysocina" class="c-simple-accordion-content" data-tab-content="">
                                         <div class="c-simple-accordion-content-block">
-                                            {% assign team = site.people | where_exp:"item","item.categories contains 'vysočina'" %}
+                                          {% assign team = site.people | where_exp:"item","item.categories contains 'vysočina'" %}
                                           {% include people/list-2col.html param=team %}
                                         </div>
-                                    </div>
-                                    
-                                    </li>
+                                    </div></li>
                                     
                                 <li class="c-simple-accordion-item  content-block" data-accordion-item="">
                                 
@@ -79,9 +69,7 @@ keywords: zemědělci, lesníci, rolníci, rybáři, myslivci, včelaři, zahrá
                                             {% assign team = site.people | where_exp:"item","item.categories contains 'moravskoslezský'" %}
                                             {% include people/list-2col.html param=team %}
                                         </div>
-                                    </div>
-                                    
-                                    </li>
+                                    </div></li>
                                   
                                 <li class="c-simple-accordion-item  content-block" data-accordion-item="">
                                 
@@ -207,21 +195,5 @@ keywords: zemědělci, lesníci, rolníci, rybáři, myslivci, včelaři, zahrá
                                         <div class="c-simple-accordion-content-block">
                                             {% assign team = site.people | where_exp:"item","item.categories contains 'praha'" %}
                                             {% include people/list-2col.html param=team %}
-                                        </div>                                    
-                                      </div>  
-                                      
-                                    </li>  
-                                        
-                             </ul>    
-                                        
-                          </div> 
-                        </div>    
-                        
-                    </main>   
-                        
-               </div>   
-           
-         </section>    
-         
-    </div>   
-</div>
+                                        </div>
+                                      </div></li>
