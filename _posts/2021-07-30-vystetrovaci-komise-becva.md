@@ -1,7 +1,7 @@
 ---
 date:         2021-07-30
 category:     blog
-tags:         životní-prostředí sněmovna
+tags:         životní-prostředí rybářství
 layout:       post
 title:        "Vyšetřovací komise k havárii na Bečvě si vyžádá svědectví ředitele ČIŽP a zástupců rybářského svazu"
 image:        posts/becva-odbery.jpg
