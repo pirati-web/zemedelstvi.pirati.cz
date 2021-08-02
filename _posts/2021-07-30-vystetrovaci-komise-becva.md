@@ -4,7 +4,7 @@ category:     blog
 tags:         životní-prostředí sněmovna
 layout:       post
 title:        "Vyšetřovací komise k havárii na Bečvě si vyžádá svědectví ředitele ČIŽP a zástupců rybářského svazu"
-image:        posts/frantisek-elfmark00.jpg
+image:        posts/becva-odbery.jpg
 author:       
 ---
 
