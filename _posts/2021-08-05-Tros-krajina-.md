@@ -4,7 +4,7 @@ category:     blog
 tags:         zemědělství 
 layout:       post
 title:        "Zdeněk Třos: Různorodost v krajině, ne betonová monstra"
-image:        posts/2021-08-05-Tros-krajina-jpeg
+image:        posts/2021-08-05-Tros-krajina-jpeg..jpg
 
 author:        Zdeněk Třos
 ---  
