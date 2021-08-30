@@ -4,7 +4,7 @@ category:     blog
 tags:         zemědělství 
 layout:       post
 title:        "Lukáš Černohorský: Dejme zemědělství budoucnost!"
-image:        posts/2021-08-22-Cernohorsky-zemedelstvi-budoucnost-jpeg
+image:        posts/2021-08-22-Cernohorsky-zemedelstvi-budoucnost-.jpeg
 
 author: Lukáš Černohorský
 ---  
