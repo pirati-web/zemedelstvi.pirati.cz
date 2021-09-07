@@ -1,7 +1,7 @@
 ---
 date:         2021-08-26
 category:     blog
-tags:         zemědělství 
+tags:         zemědělství  potravinářství 
 layout:       post
 title:        "Jihočeští Piráti podporují regionální potraviny do školních jídelen, plánované virtuální tržiště může být příležitostí"
 image:        posts/2021-08-26-Lestina-virtualni-trziste.jpeg
