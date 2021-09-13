@@ -4,7 +4,7 @@ category:     blog
 tags:         zemědělství kauzy
 layout:       post
 title:        "Experti dali Pirátům za pravdu - při zadávání zakázek nelze ignorovat střet zájmů"
-image:        posts/2021-09-10-stret-zajmu-jpeg
+image:        posts/2021-09-10-stret-zajmu-.jpeg
 
 author: Piráti Pardubického kraje
 ---  
