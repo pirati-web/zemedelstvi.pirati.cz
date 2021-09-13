@@ -6,7 +6,7 @@ layout:       post
 title:        "Experti dali Pirátům za pravdu - při zadávání zakázek nelze ignorovat střet zájmů"
 image:        posts/2021-09-10-stret-zajmu-.jpeg
 
-author: Piráti Pardubického kraje
+author:  Janusz Konieczny/Analytický tým Pirátů
 ---  
 
 **Úředníci státní správy mají nepochybně obavu o svoji práci a bezpečnost, pokud rozhodují o záležitostech týkajících se Agrofertu. Živě v paměti totiž mají případ dřívějšího úředníka SFŽP Leo Steinera, který rozhodl o pozastavení proplácení dotace pro holding Agrofert, což způsobilo, že musel nakonec odejít.**
