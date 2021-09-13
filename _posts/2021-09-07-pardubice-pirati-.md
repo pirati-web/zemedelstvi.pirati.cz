@@ -4,7 +4,7 @@ category:     blog
 tags:         zemědělství 
 layout:       post
 title:        "Řešením jsou kořenové čističky, lesy a zdravá příroda"
-image:        posts/2021-09-07-pardubice-pirati-.jpeg
+image:        posts/2021-09-07-pardupice-pirati-.jpeg
 
 author: Piráti Pardubického kraje
 ---  
