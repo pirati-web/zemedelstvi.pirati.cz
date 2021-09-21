@@ -9,7 +9,7 @@ image: posts/franta-strom.jpg
 tags: 
 - rybářství
 - životní-prostředí
-- rozhovor
+- vodohospodářství
 important: true
 ---
 
