@@ -4,7 +4,7 @@ category:     blog
 tags:         zemědělství 
 layout:       post
 title:        "Dominika Poživilová Michailidu: Chci narovnat vztah mezi veřejností, zemědělci a ochranáři přírody!"
-image:        posts/2021-09-24-michailidu1jpeg
+image:        posts/2021-09-24-michailidu1.jpeg
 
 author: MO Středočeský kraj
 ---  
