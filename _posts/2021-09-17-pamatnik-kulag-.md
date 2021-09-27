@@ -4,7 +4,7 @@ category:     blog
 tags:         zemědělství historie
 layout:       post
 title:        "K odhalení památníku obětem akce Kulak"
-image:        posts/2021-09-17-pamatnik-kulag-jpeg
+image:        posts/2021-09-17-pamatnik-kulag-.jpeg
 
 author:  Jan Nevyjel, Redakce: Vojtěch Pikal, Radek Holomčík
 ---  
