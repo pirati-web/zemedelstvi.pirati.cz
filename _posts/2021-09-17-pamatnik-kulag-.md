@@ -6,7 +6,8 @@ layout:       post
 title:        "K odhalení památníku obětem akce Kulak"
 image:        posts/2021-09-17-pamatnik-kulag-.jpeg
 
-author:  Jan Nevyjel, Redakce: Vojtěch Pikal, Radek Holomčík
+author:  Jan Nevyjel
+Redakce: Vojtěch Pikal, Radek Holomčík
 ---  
 
 **Místopředseda Poslanecké sněmovny Parlamentu České republiky Vojtěch Pikal se zúčastil na slavnostního odhalení pomníku obětem Akce Kulak k příležitosti jejího 70. výročí. Při té příležitosti přednesl projev, v němž připomenul komunistický teror, který se odehrál na bezmála čtyř tisících rodinách a fakticky znamenal konec tradičního českého venkova.**
