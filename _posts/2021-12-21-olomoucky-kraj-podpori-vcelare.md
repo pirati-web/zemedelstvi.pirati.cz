@@ -8,8 +8,8 @@ author: Josef Indra
 image: posts/vceliny.jpg  #751x422 pixelu
 ---
 
-
 Olomoucký kraj podpoří formou dotačního programu včelaře na území Olomouckého kraje v celkové výši 738 000 Kč. Možnost poskytnutí podpory je zaměřena jak na začínající tak i stávající včelaře. 
+
 
 
 
@@ -17,7 +17,9 @@ Cílem tohoto dotačního projektu je podpora obnovy starších úlů, zvýšen�
 
 
 
+
 Kraj včelaře podpořil také v minulých letech. Včelaři díky této dotaci mohou koupit například nové úly, nebo ji využít pro nákup plemenného a chovného materiálu. 
 >>„Na nové podobě tohoto dotačního titulu má velkou zásluhu také krajská komise pro životní prostředí, která celou problematiku poctivě prodiskutovala i se včelařským svazem. V rámci zjednodušení a snížení byrokracie jsme také sjednotili dva dotační tituly do jednoho a stanovili parametry a hodnocení žadatelů směrem ke kvalitě, oceníme tak například vzdělání v oboru,”
+
 
 dodává Martin Šmída, radní pro oblast životního prostředí, odpadů a zemědělství.
