@@ -9,7 +9,8 @@ image: posts/tezba-vr.jpg
 
 description: 'V přírodní rezervaci Vrbenské rybníky u Českých Budějovic státní podnik Lesy České republiky rozhodl o těžbě dřeva  v rozporu s plánem péče, čímž mohl výrazně poškodit chráněné druhy rostlin, ptáků nebo hmyzu. Situaci komentují krajští zastupitelé Dan Leština a Lucie Korytářová.'
 tags:
-  - Životní prostředí
+  - lesnictví
+  - rybářství
 ---
 **V přírodní rezervaci Vrbenské rybníky u Českých Budějovic státní podnik Lesy České republiky rozhodl o těžbě dřeva  v rozporu s plánem péče, čímž mohl výrazně poškodit chráněné druhy rostlin, ptáků nebo hmyzu. Situaci komentují krajští zastupitelé Dan Leština a Lucie Korytářová.**
 
