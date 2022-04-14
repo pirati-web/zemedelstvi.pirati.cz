@@ -5,10 +5,13 @@ published: true
 title: 'Jihočeští Piráti navrhují podpořit spolky a obce v péči o jihočeskou krajinu, ohrožené druhy i toulavé kočky'
 date: '2022-04-01'
 author: Piráti Jihočeský kraj
-image: 2022/dl-web-brezen.jpg
+image: posts/dl-web-brezen.jpg
 
 description: 'Zastupitelstvo Jihočeského kraje schválilo podporu mysliveckým, včelařským a rybářským sdružením, záchranným stanicím pro ohrožená zvířata a dále obcím na výsadbu zeleně. To jihočeští Piráti podpořili svými hlasy, nicméně k programu mají řadu konkrétních připomínek, které dosud nebyly zapracovány. Zejména je to rozšíření okruhu možných dotovaných projektů.'
-tags: myslivectví včelařství rybářství
+tags:
+  - myslivectví 
+  - včelařství 
+  - rybářství
 
 ---
 **Zastupitelstvo Jihočeského kraje schválilo podporu mysliveckým, včelařským a rybářským sdružením, záchranným stanicím pro ohrožená zvířata a dále obcím na výsadbu zeleně. To jihočeští Piráti podpořili svými hlasy, nicméně k programu mají řadu konkrétních připomínek, které dosud nebyly zapracovány. Zejména je to rozšíření okruhu možných dotovaných projektů.**
