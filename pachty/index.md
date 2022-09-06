@@ -67,7 +67,7 @@ limity a to i přes opakované snahy o revizi ze strany velké části zeměděl
 
 <li> Oslovte další zemědělce v okolí, v případě, že na změnu způsobu hospodaření nebude chtít přistoupit, oslovte další zemědělce v okolí <br><br>(zájem o pronájem půdy je obrovský, byť se Vám původní hospodáři budou snažit namluvit, že opak je pravdou) nalézt potenciální nové zájemce lze například <a href="http://eagri.cz/public/app/eagriapp/EKO/Prehled/Prehled.aspx?typ=ZEM&clear=A&stamp=1599826962262" target="_blank">v tomto seznamu</a> nebo <a href="https://www.adresarfarmaru.cz/" target="_blank">v tomto adresáři farmářů</a>, nebo třeba na portálu <a href="https://www.kamprobio.cz/" target="_blank">Kam pro Bio</a><br><br> </li>
 
-<li><b> <a href="https://docassemble.pirati.cz/interview?i=docassemble.base%3Adata%2Fquestions%2Fpachty.yml">Klikněte zde a vytvořte si na našem webu návrh pachtovní smlouvy a uzavřete po dohodě se spolupracujícím subjektem tuto jako smlouvu novou</a></b><br><br></li>
+<li><b> <a href="https://www.pachtovnismlouva.cz">Klikněte zde a vytvořte si na webu návrh pachtovní smlouvy a uzavřete po dohodě se spolupracujícím subjektem tuto jako smlouvu novou</a></b><br><br></li>
 </ol>
 </p><p>
 
