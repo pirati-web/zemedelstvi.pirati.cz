@@ -35,7 +35,7 @@ contentSize: even
 <div>
 
 <p>
-<a href="https://docassemble.pirati.cz/interview?i=docassemble.base%3Adata%2Fquestions%2Fpachty.yml"><img src="https://zemedelstvi.pirati.cz/assets/img/pachty_button.png"></a>
+<a href="https://www.pachtovnismlouva.cz"><img src="https://zemedelstvi.pirati.cz/assets/img/pachty_button.png"></a>
 </p>
   
 <div class="o-section-header o-section-header--indented medium-12 ">
